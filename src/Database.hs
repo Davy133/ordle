@@ -41,3 +41,4 @@ getCharactersWithQuotes config = withDB config $ \conn -> do
 getCharactersWithEmoji :: Config -> IO [M.Character]
 getCharactersWithEmoji config = withDB config $ \conn -> do
     query_ conn "SELECT * FROM characters WHERE emoji IS NOT NULL AND emoji != ''" :: IO [M.Character]
+

@@ -29,7 +29,10 @@ library
       Config
       Database
       DataBus
+      EmojiController
       Models
+      MonsterController
+      QuoteController
   other-modules:
       Paths_ordle
   autogen-modules:
