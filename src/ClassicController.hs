@@ -17,6 +17,7 @@ import Data.Time.Clock
 import Data.Time.Calendar
 import Control.Monad (when)
 import Data.List (intersect)
+import Data.Map as Map
 
 -- Function to select a character for the day
 selectCurrentCharacter :: IO ()
@@ -74,6 +75,19 @@ getTodayCharacter = do
 
 -- Helper function to compare two characters
 data MatchResult = Correct | Partial | Wrong deriving (Eq, Show)
+
+temporadas :: Map.Map Int String
+temporadas = Map.fromList
+    [ (1, "Iniciação")
+    , (2, "O segredo na Floresta")
+    , (3, "Desconjuração")
+    , (4, "Calamidade")
+    , (5, "O segredo na Ilha")
+    , (6, "Sinais do Outro Lado")
+    , (7, "Quarentena")
+    , (8, "Enigma do Medo")
+    , (9, "Natal Macabro")
+    ]
 
 compareCharacters :: Character -> Character -> [(String, MatchResult)]
 compareCharacters secret guess = 
