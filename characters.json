@@ -1,0 +1,4135 @@
+[
+    {
+        "nome": "Alexsander Kothe",
+        "link": "https://ordemparanormal.fandom.com/wiki/Alexsander_Kothe",
+        "data": {
+            "interpreter": "Luis \"LJoga\" Gouveia",
+            "nickname": [
+                "Alex",
+                "Ricardo Almeida (identidade dissociativa)",
+                "Ricardão (por Daniel e Liz)",
+                "Professor (por Matheus)",
+                "O Injustiçado (por Anthony)"
+            ],
+            "age": "23",
+            "occupation": [
+                "Professor de História na Escola Nostradamus de Ensino Médio (anteriormente)",
+                "Investigador Paranormal",
+                "Jogador de Tetris Profissional (como Ricardo)"
+            ],
+            "association": [
+                "Escola Nostradamus de Ensino Médio (anteriormente)",
+                "Ordo Realitas",
+                "Equipe de Varredura"
+            ],
+            "status": "Falecido",
+            "first_appearance": "A Ordem Paranormal",
+            "death": "A Ordem Paranormal - Episódio 2 - \"Episódio Final\""
+        }
+    },
+    {
+        "nome": "Arthur Cervero",
+        "link": "https://ordemparanormal.fandom.com/wiki/Arthur_Cervero",
+        "data": {
+            "interpreter": "Rafael \"Guaxinim\" Montes",
+            "nickname": [
+                "O Guitarrista",
+                "Arthur-san (por Joui)",
+                "Arthurzinho (por Thiago, Agatha, Elizabeth e Antônio)",
+                "O Novato (pelo Minerador)",
+                "Tutu (por Joui e Erin)",
+                "Filho (por Ivete)",
+                "Bigodinho (por Anthony)",
+                "Campeão (por Antônio e Dante)",
+                "Chaminé (por Joui)"
+            ],
+            "age": "27",
+            "occupation": [
+                "Guitarrista dos Gaudérios Abutres (anteriormente)",
+                "Motoqueiro (anteriormente)",
+                "Líder dos Gaudérios Abutres",
+                "Investigador Paranormal",
+                "Praticante de Ocultismo"
+            ],
+            "affinity": "Sangue",
+            "origin": "Artista",
+            "class": "Especialista",
+            "trail": "Atirador de Elite",
+            "association": [
+                "Gaudérios Abutres",
+                "Ordo Realitas",
+                "Equipe E",
+                "Força D",
+                "Equipe Abutres"
+            ],
+            "status": "Vivo",
+            "first_appearance": "O Segredo na Floresta"
+        }
+    },
+    {
+        "nome": "Antônio Pontevedra (Balu)",
+        "link": "https://ordemparanormal.fandom.com/wiki/Ant%C3%B4nio_Pontevedra",
+        "data": {
+            "interpreter": "Thiago \"Calango\" Elias",
+            "nickname": [
+                "Balu",
+                "Tonhão",
+                "Luba (por Lubaoui)",
+                "Grandão (por Arthur)",
+                "Baluzão (por Arthur e Carina)",
+                "Bigodudo (por Ivete)",
+                "Ragazzo (por Carina)",
+                "Jornalista (por Ricardo)"
+            ],
+            "age": "44",
+            "occupation": [
+                "Vendedor (anteriormente)",
+                "Investigador Paranormal",
+                "Jornalista (disfarce)"
+            ],
+            "class": "Combatente",
+            "trail": "Duelista",
+            "association": [
+                "Ordo Realitas",
+                "Equipe Abutres"
+            ],
+            "status": "Vivo",
+            "first_appearance": "Calamidade - Episódio 0 - \"Prólogo\""
+        }
+    },
+    {
+        "nome": "Beatrice Portinari",
+        "link": "https://ordemparanormal.fandom.com/wiki/Beatrice_Portinari",
+        "data": {
+            "interpreter": [
+                "Beatriz \"Triz Pariz\" Parizotto",
+                "Rafael \"Cellbit\" Lange (como Existido)"
+            ],
+            "nickname": [
+                "Lilian Galen (nome original)",
+                "Bea",
+                "Menina do Pássaro (por Sidney)",
+                "Lily (por Dante e Henri)",
+                "Sardinha (por Tristan)",
+                "Zumbi (por Fernando)",
+                "Luminária (por Kaiser)",
+                "Menina da Van (por Hugo)",
+                "A Recordada (por Anthony)"
+            ],
+            "age": "23",
+            "occupation": [
+                "Florista",
+                "Investigadora Paranormal",
+                "Praticante de Ocultismo"
+            ],
+            "association": [
+                "Ordo Realitas",
+                "Força D"
+            ],
+            "status": "Falecida",
+            "first_appearance": "Desconjuração - Episódio 1 - \"Ordo Realitas\"",
+            "death": [
+                "Desconjuração - Episódio 11 - \"Lembrar\" (transformação)",
+                "Desconjuração - Episódio 15 - \"Divina Comédia\" (morte definitiva)"
+            ]
+        }
+    },
+    {
+        "nome": "Carina Leone",
+        "link": "https://ordemparanormal.fandom.com/wiki/Carina_Leone",
+        "data": {
+            "interpreter": "Gabriela \"Bagi\" Cattuzzo",
+            "nickname": [
+                "Flor (por Antônio)",
+                "Bambina (por Antônio)"
+            ],
+            "age": "23",
+            "occupation": [
+                "Investigadora Paranormal",
+                "Praticante de Ocultismo",
+                "Jornalista (disfarce)"
+            ],
+            "affinity": "Conhecimento",
+            "origin": "Mercenária",
+            "class": "Especialista",
+            "trail": "Artista Marcial",
+            "association": [
+                "Família Leone",
+                "Ordo Realitas",
+                "Equipe Abutres"
+            ],
+            "status": "Viva",
+            "first_appearance": "Calamidade - Episódio 0 - \"Prólogo\""
+        }
+    },
+    {
+        "nome": "Daniel Hartmann",
+        "link": "https://ordemparanormal.fandom.com/wiki/Daniel_Hartmann",
+        "data": {
+            "interpreter": "Lucas \"Luba\" Feuerschütte",
+            "nickname": [
+                "Senhor Hartmann (por Veríssimo e Walter)",
+                "Dani (por Thiago)",
+                "Hartmann (por Thiago)",
+                "O Escritor (por Força D e Frederico)",
+                "Barbudo (por Frederico)",
+                "O Arrependido (por Anthony)"
+            ],
+            "age": "28",
+            "occupation": [
+                "Escritor (anteriormente)",
+                "Investigador Paranormal"
+            ],
+            "association": [
+                "Ordo Realitas",
+                "Equipe de Varredura"
+            ],
+            "status": "Falecido",
+            "first_appearance": "A Ordem Paranormal - Episódio 1 - \"Episódio 1\"",
+            "death": "A Ordem Paranormal - Episódio 2 - \"Episódio Final\""
+        }
+    },
+    {
+        "nome": "Dante",
+        "link": "https://ordemparanormal.fandom.com/wiki/Dante",
+        "data": {
+            "interpreter": "Rafael \"Rakin\" Knittel",
+            "nickname": [
+                "Gaspar (nome original)",
+                "Meliante (por Luciano)",
+                "Gasparzinho (por Henri)",
+                "Loirinho (por Elizabeth e Tristan)",
+                "Periquito (por Elizabeth)",
+                "Surfistinha (por Tristan)",
+                "Diabo (por Cícero)",
+                "Eric (por Eusébio)",
+                "Rabiscado (por Antônio)",
+                "Gatinho (por Delano)",
+                "Afilhado (por Anfitrião)",
+                "Demônio (por Damir)"
+            ],
+            "age": "27",
+            "occupation": [
+                "Ocultista",
+                "Tirigan",
+                "Médico",
+                "Investigador Paranormal"
+            ],
+            "affinity": "death",
+            "class": "Ocultista",
+            "trail": "Sagaz",
+            "association": [
+                "Ocultismo",
+                "Ordo Realitas",
+                "Força D",
+                "Equipe Abutres"
+            ],
+            "status": "Vivo",
+            "first_appearance": "Desconjuração - Episódio 3 - \"Transcender\""
+        }
+    },
+    {
+        "nome": "Elizabeth Webber",
+        "link": "https://ordemparanormal.fandom.com/wiki/Elizabeth_Webber",
+        "data": {
+            "interpreter": "Gabriela \"Bagi\" Cattuzzo",
+            "nickname": [
+                "Liz",
+                "Agente Webber",
+                "Senhora Fritz (Futuro Potencial)",
+                "Senhora Veríssimo (por Membros da Ordem)",
+                "Senhorita Webber (por Veríssimo, Walter, Cesar, Cristopher, Murilo, O Doutor e O Porteiro)",
+                "Doutora Webber (pelo Doutor)",
+                "Liz-Senpai (por Joui)",
+                "Mãe (por Joui)",
+                "Véia (por Tristan e Kaiser)",
+                "Senhorita Liz (por Joui e Fernando)",
+                "Liza (por Guto)",
+                "Da Pintinha (por Tristan)",
+                "A Obstinada (por Anthony)"
+            ],
+            "age": "28",
+            "relations": [
+                "† Lucille Webber (mãe)"
+            ],
+            "occupation": [
+                "Cientista Forense (anteriormente)",
+                "Perita Criminal (anteriormente)",
+                "Investigadora Paranormal",
+                "Membro dos Gaudérios Abutres"
+            ],
+            "class": "Especialista",
+            "association": [
+                "Polícia Federal (anteriormente)",
+                "Ordo Realitas",
+                "Equipe de Varredura",
+                "Equipe E",
+                "Gaudérios Abutres",
+                "Força D"
+            ],
+            "status": "Falecida",
+            "first_appearance": "A Ordem Paranormal - Episódio 1 - \"Episódio 1\"",
+            "death": "Desconjuração - Episódio 6 - \"Elizabeth\""
+        }
+    },
+    {
+        "nome": "Erin Parker",
+        "link": "https://ordemparanormal.fandom.com/wiki/Erin_Parker",
+        "data": {
+            "interpreter": "Camila \"Kalera\" Vieira",
+            "nickname": [
+                "Kaboom07",
+                "Moça da Espingarda (por Joui)",
+                "Erinzinha (por Benjamin)",
+                "Gringa (por Juarez)",
+                "Maninha (por Luciano)"
+            ],
+            "age": "20",
+            "relations": [
+                "† Jonathan Parker (pai)",
+                "Benjamin Parker (avô)",
+                "Francisca Parker (avó)"
+            ],
+            "occupation": [
+                "Engenheira Mecânica",
+                "Investigadora Paranormal",
+                "Praticante de Ocultismo"
+            ],
+            "class": "Especialista",
+            "association": [
+                "Ordo Realitas",
+                "Equipe Brasa",
+                "Força D"
+            ],
+            "status": "Falecida",
+            "first_appearance": "Desconjuração - Episódio 1 - \"Ordo Realitas\"",
+            "death": "Desconjuração - Episódio 20 - \"Kian\""
+        }
+    },
+    {
+        "nome": "Fernando Carvalho",
+        "link": "https://ordemparanormal.fandom.com/wiki/Fernando_Carvalho",
+        "data": {
+            "interpreter": "Luis \"LJoga\" Gouveia",
+            "nickname": [
+                "Fê",
+                "Invólucro do Conhecimento",
+                "Fernandão (por Leandro e Roberto)",
+                "O Brother que troca (por Kurt)"
+            ],
+            "age": "40",
+            "relations": [
+                "Luciano Carvalho (marido)"
+            ],
+            "occupation": [
+                "Cantor",
+                "Investigador Paranormal",
+                "Praticante de Ocultismo",
+                "Motorista de Cooler (disfarce)",
+                "Invólucro do Conhecimento de Kian"
+            ],
+            "association": [
+                "Ordo Realitas",
+                "Equipe Brasa",
+                "Força D"
+            ],
+            "status": "Falecido",
+            "first_appearance": "Desconjuração - Episódio 1 - \"Ordo Realitas\"",
+            "death": "Desconjuração - Episódio 20 - \"Kian\""
+        }
+    },
+    {
+        "nome": "Joui Jouki",
+        "link": "https://ordemparanormal.fandom.com/wiki/Joui_Jouki",
+        "data": {
+            "interpreter": "Lucas \"Luba\" Feuerschütte",
+            "nickname": [
+                "Joe",
+                "Guerreiro",
+                "Senhor Veríssimo (por Membros da Ordem)",
+                "Senhor Jouki (por Walter)",
+                "Jojo (por Thiago)",
+                "Japinha (por Gregório)",
+                "O Ginasta (por Cesar)",
+                "Filho (por Elizabeth)",
+                "Menino da Espada (por Gal e Jeremias)",
+                "Juí (por Antônio)",
+                "Criança Inepta (por Kian)",
+                "O Diabo (por Escriptas)",
+                "Mascarado (por Kian e Antônio)",
+                "O Fortão (por Damir e Boris)"
+            ],
+            "age": "23",
+            "occupation": [
+                "Ginasta Olímpico (anteriormente)",
+                "Investigador Paranormal",
+                "Membro dos Gaudérios Abutres",
+                "Professor de Ginástica (anteriormente)",
+                "Membro das Máscaras (temporariamente)"
+            ],
+            "class": "Combatente",
+            "trail": "Duelista",
+            "association": [
+                "Ordo Realitas",
+                "Equipe E",
+                "Gaudérios Abutres",
+                "Força D",
+                "Seita das Máscaras (temporariamente)",
+                "Equipe Abutres"
+            ],
+            "status": "Falecido",
+            "first_appearance": "O Segredo na Floresta - Episódio 1 - \"Equipe Kelvin\"",
+            "death": "Calamidade - Episódio 11 - \"Guerreiro\""
+        }
+    },
+    {
+        "nome": "Luciano Carvalho",
+        "link": "https://ordemparanormal.fandom.com/wiki/Luciano_Carvalho",
+        "data": {
+            "interpreter": [
+                "Luis \"LJoga\" Gouveia",
+                "Rafael “Cellbit” Lange (como Kian)"
+            ],
+            "nickname": [
+                "Kian",
+                "Lu",
+                "O Outro Fernando (por Agatha)"
+            ],
+            "age": "38",
+            "relations": [
+                "† Fernando Carvalho (marido)"
+            ],
+            "occupation": [
+                "Ex-Militar",
+                "Investigador Paranormal",
+                "Praticante de Ocultismo",
+                "Invólucro da Mente de Kian"
+            ],
+            "class": "Ocultista",
+            "association": [
+                "Exército (anteriormente)",
+                "Ordo Realitas",
+                "Equipe Brasa",
+                "Força D"
+            ],
+            "status": "Amalgamado a Kian",
+            "first_appearance": "Desconjuração - Episódio 1 - \"Ordo Realitas\""
+        }
+    },
+    {
+        "nome": "Mia",
+        "link": "https://ordemparanormal.fandom.com/wiki/Mia",
+        "data": {
+            "interpreter": [
+                "Rafael “Cellbit” Lange (Desconjuração)",
+                "Pamella Rodrigues (Enigma do Medo)"
+            ],
+            "age": "20",
+            "relations": [
+                "Senhor Veríssimo (pai)",
+                "† Sofia Besatt (mãe)",
+                "Lupi (animal de estimação)",
+                "Calisto Besatt (tio)"
+            ],
+            "occupation": [
+                "Investigadora Paranormal"
+            ],
+            "class": "Especialista",
+            "trail": "Perseverante",
+            "association": [
+                "Ordo Realitas"
+            ],
+            "status": "Viva",
+            "first_appearance": [
+                "ARG de Desconjuração e Enigma do Medo (silhueta)",
+                "Desconjuração - Episódio 1 - \"Ordo Realitas\""
+            ]
+        }
+    },
+    {
+        "nome": "Rubens Naluti",
+        "link": "https://ordemparanormal.fandom.com/wiki/Rubens_Naluti",
+        "data": {
+            "interpreter": "Felipe \"Felps\" Zaghetti",
+            "nickname": [
+                "Baixinho (por Fernando e Luciano)",
+                "Rubinho (por Antônio e Arthur)",
+                "Rubão (por Antônio)",
+                "Rubons (por Barista)"
+            ],
+            "age": "24",
+            "occupation": [
+                "Caçador de recompensas (disfarce)",
+                "Investigador Paranormal",
+                "Paramédico",
+                "Praticante de Ocultismo"
+            ],
+            "affinity": "Energia",
+            "class": "Especialista",
+            "trail": "Atirador de Elite Socorrista",
+            "association": [
+                "Ordo Realitas",
+                "Equipe",
+                "Equipe Abutres"
+            ],
+            "status": "Vivo",
+            "first_appearance": "Desconjuração - Episódio 7 - \"Anfitrião\""
+        }
+    },
+    {
+        "nome": "Thiago Fritz",
+        "link": "https://ordemparanormal.fandom.com/wiki/Thiago_Fritz",
+        "data": {
+            "interpreter": "Rafael \"Rakin\" Knittel",
+            "nickname": [
+                "Senhor Veríssimo (por Membros da Ordem)",
+                "Senhor Fritz (por Liz",
+                "Senhor Veríssimo",
+                "Walter e Cesar)",
+                "Fritz (por Liz e João)",
+                "Calvo (por Agatha)",
+                "Thiago-Sensei (por Joui)",
+                "O Repórter (por Cesar)[1]",
+                "Playboy (por Rodolfo)",
+                "O Herói (por Anthony)"
+            ],
+            "age": "33",
+            "relations": [
+                "Arnaldo Fritz (pai)"
+            ],
+            "occupation": [
+                "Jornalista",
+                "Investigador Paranormal"
+            ],
+            "association": [
+                "Ordo Realitas",
+                "Equipe de Varredura",
+                "Equipe E",
+                "Gaudérios Abutres"
+            ],
+            "status": "Falecido",
+            "first_appearance": "A Ordem Paranormal - Episódio 1 - \"Episódio 1\"",
+            "death": "O Segredo na Floresta - Episódio 16 - \"Equipe E\""
+        }
+    },
+    {
+        "nome": "Artemis Rodrigues",
+        "link": "https://ordemparanormal.fandom.com/wiki/Artemis_Deordelin_Rodrigues",
+        "data": {
+            "interpreter": "Beatriz \"Triz Pariz\" Parizotto",
+            "nickname": [
+                "Mamãe",
+                "Patrizia (disfarce)"
+            ],
+            "relations": [
+                "† Apolo (irmão)",
+                "† Gambá (animal de estimação)",
+                "† Boris Lukic (parceiro de equipe)",
+                "Damir Lukic (parceiro de equipe)",
+                "Gal (parceiro de equipe)",
+                "† T-Bag (parceiro de equipe)",
+                "Kian (líder)"
+            ],
+            "occupation": [
+                "Assassina de aluguel",
+                "Ocultista",
+                "Escripta"
+            ],
+            "affinity": "Sangue",
+            "association": [
+                "Ocultismo",
+                "Escriptas",
+                "Equipe Kian"
+            ],
+            "status": "Falecida",
+            "first_appearance": "Calamidade - Episódio 2 - \"Vingança\"",
+            "death": "Calamidade - Episódio 7 - \"Traição\""
+        }
+    },
+    {
+        "nome": "Boris Lukic",
+        "link": "https://ordemparanormal.fandom.com/wiki/Boris_Lukic",
+        "data": {
+            "interpreter": "Gabriel \"Mount\" Montresor",
+            "nickname": [
+                "Grandão (por Damir)",
+                "Borges (por Theodore)",
+                "Borjão (por Theodore)"
+            ],
+            "age": "41",
+            "relations": [
+                "",
+                "Damir Lukic (irmão)",
+                "† Jovan Savik (mordomo)",
+                "† Lucas Davo (pai)",
+                "† Juan Davo (tio)"
+            ],
+            "occupation": [
+                "Trapezista (anteriormente)",
+                "Ocultista",
+                "Escripta (anteriormente)"
+            ],
+            "affinity": "death",
+            "class": "Combatente",
+            "association": [
+                "Família Lukic",
+                "Ocultismo",
+                "Escriptas (anteriormente)",
+                "Equipe Kian"
+            ],
+            "status": "Falecido",
+            "first_appearance": "Calamidade - Episódio 2 - \"Vingança\"",
+            "death": "Calamidade - Episódio 11 - \"Guerreiro\""
+        }
+    },
+    {
+        "nome": "Damir Lukic",
+        "link": "https://ordemparanormal.fandom.com/wiki/Damir_Lukic",
+        "data": {
+            "interpreter": "Luis \"LJoga\" Gouveia",
+            "nickname": "Ademir (por Theodore e Antônio)",
+            "age": "41",
+            "relations": [
+                "",
+                "† Boris Lukic (irmão)",
+                "† Jovan Savik (mordomo)",
+                "† Lucas Davo (pai)",
+                "† Juan Davo (tio)"
+            ],
+            "occupation": [
+                "Trapezista (anteriormente)",
+                "Ocultista",
+                "Escripta (anteriormente)"
+            ],
+            "affinity": "Conhecimento",
+            "class": "Ocultista",
+            "association": [
+                "Família Lukic",
+                "Ocultismo",
+                "Escriptas (anteriormente)",
+                "Equipe Kian (anteriormente)"
+            ],
+            "status": "Vivo",
+            "first_appearance": "Calamidade - Episódio 2 - \"Vingança\""
+        }
+    },
+    {
+        "nome": "Gal",
+        "link": "https://ordemparanormal.fandom.com/wiki/Gal",
+        "data": {
+            "interpreter": "João \"Jão\" Miranda",
+            "nickname": [
+                "O Realizador do Destino",
+                "Líder dos Escriptas",
+                "Puppet de Kian (por Erin)",
+                "Verme (por Dante)",
+                "Ratinho de Kian (por Joui)"
+            ],
+            "age": "20",
+            "relations": [
+                ""
+            ],
+            "occupation": [
+                "Ocultista",
+                "Escripta (anteriormente)"
+            ],
+            "affinity": "Conhecimento",
+            "class": "Combatente[1]",
+            "trail": "Duelista",
+            "association": [
+                "Ocultismo",
+                "Escriptas (líder; anteriormente)",
+                "Equipe Kian (anteriormente)"
+            ],
+            "status": "Vivo",
+            "first_appearance": [
+                "ARG de Desconjuração e Enigma do Medo (silhueta)",
+                "Desconjuração - Episódio 6 - \"Elizabeth\""
+            ]
+        }
+    },
+    {
+        "nome": "Amelie Florence",
+        "link": "https://ordemparanormal.fandom.com/wiki/Amelie_Florence",
+        "data": {
+            "interpreter": "Beatriz \"Beamom\" Pozzebon",
+            "nickname": [
+                "Velha (por Pedrinho)",
+                "Moça do Cabelo (por Helena e Amora)"
+            ],
+            "age": "23",
+            "relations": [
+                "",
+                "Olivier Florence (irmão)",
+                "Angelina Florence (mãe)",
+                "Montel Florence (pai)"
+            ],
+            "occupation": "Universitária",
+            "origin": "Universitária",
+            "class": "Ocultista",
+            "association": "Ocultismo",
+            "status": "Viva",
+            "first_appearance": [
+                "Segredos Revelados (silhueta)",
+                "O Segredo na Ilha - Episódio 1 - \"Tipora\""
+            ]
+        }
+    },
+    {
+        "nome": "Milo Castello",
+        "link": "https://ordemparanormal.fandom.com/wiki/Milo_Castello",
+        "data": {
+            "interpreter": [
+                "Matthew \"Cinemagrath\" Magrath",
+                "Rafael “Cellbit” Lange (posteriormente como Miguel)"
+            ],
+            "nickname": [
+                "Miguel (nome original)",
+                "Milinho (por Adrian e Vagner)",
+                "Milão (por Adrian e Barnabé)",
+                "Tio Milo (por Amora)",
+                "Super Milo (por Amora)",
+                "Miloguel (por Wanderley)"
+            ],
+            "age": "19",
+            "relations": [
+                "",
+                "† Bartô Castello (pai)",
+                "† Helena Castello (mãe)",
+                "Bênio Castello (ancestral)",
+                "Zélia Castello (ancestral)"
+            ],
+            "occupation": "Pescador",
+            "origin": "Trabalhador Rural",
+            "class": "Ocultista",
+            "status": "Falecido",
+            "first_appearance": [
+                "Segredos Revelados (silhueta)",
+                "O Segredo na Ilha - Episódio 1 - \"Tipora\""
+            ],
+            "death": "O Segredo na Ilha - Episódio 8 - \"Florence\""
+        }
+    },
+    {
+        "nome": "Olivier Florence",
+        "link": "https://ordemparanormal.fandom.com/wiki/Olivier_Florence",
+        "data": {
+            "interpreter": "Gabriel Goularte",
+            "nickname": [
+                "Oli",
+                "Super Oli (por Amora",
+                "Barnabé e Milo)"
+            ],
+            "age": "20",
+            "relations": [
+                "",
+                "Amelie Florence (irmã)",
+                "Angelina Florence (mãe)",
+                "Montel Florence (pai)"
+            ],
+            "occupation": "Universitário",
+            "origin": "Universitário",
+            "class": "Especialista",
+            "status": "Vivo",
+            "first_appearance": [
+                "Segredos Revelados (silhueta)",
+                "O Segredo na Ilha - Episódio 1 - \"Tipora\""
+            ]
+        }
+    },
+    {
+        "nome": "Wanderley Nascimento",
+        "link": "https://ordemparanormal.fandom.com/wiki/Wanderley_Nascimento_de_Jesus_Maria",
+        "data": {
+            "interpreter": "Rafael \"Rakin\" Knittel",
+            "nickname": [
+                "Wandebas",
+                "Careca (por Bárbara)",
+                "Carequinha (por Bárbara)"
+            ],
+            "age": "40",
+            "relations": [
+                ""
+            ],
+            "occupation": [
+                "Guia de Turismo (anteriormente)",
+                "Investigador Paranormal",
+                "Agente Imobiliário (disfarce)"
+            ],
+            "class": "Especialista",
+            "trail": "Negociador",
+            "association": [
+                "Ordo Realitas",
+                "Imobiliária Fachada (disfarce)"
+            ],
+            "status": "Falecido",
+            "first_appearance": "O Segredo na Ilha - Episódio 3 - \"Pavor\"",
+            "death": "O Segredo na Ilha - Episódio 8 - \"Florence\""
+        }
+    },
+    {
+        "nome": "Alexandre",
+        "link": "https://ordemparanormal.fandom.com/wiki/Alexandre",
+        "data": {
+            "interpreter": "Rafael \"Guaxinim\" Montes",
+            "nickname": [
+                "Alexandre",
+                "Xande",
+                "Xandinho",
+                "Skatista (por Lírio)",
+                "Maconheiro (por Lírio)"
+            ],
+            "age": "18",
+            "relations": [
+                ""
+            ],
+            "occupation": [
+                "Investigador Paranormal",
+                "Praticante de Ocultismo",
+                "Antenista (disfarce)",
+                "Auxiliar de Escritório (disfarce)"
+            ],
+            "origin": "Teórico da Conspiração",
+            "class": "Ocultista",
+            "trail": "Lâmina Paranormal",
+            "association": [
+                "Ocultismo",
+                "Os Cinco"
+            ],
+            "status": "Falecido",
+            "first_appearance": [
+                "O Segredo na Ilha - Episódio 9 - \"Revelando O Segredo na Ilha\" (silhueta)",
+                "Sinais do Outro Lado - Episódio 1 - \"Alheios\""
+            ],
+            "death": "Sinais do Outro Lado - Episódio 7 - \"Transmissão\""
+        }
+    },
+    {
+        "nome": "Dara Alice Venturini",
+        "link": "https://ordemparanormal.fandom.com/wiki/Dara_Alice_Venturini",
+        "data": {
+            "interpreter": "Carolina \"Carolinga\" Zaghetti",
+            "nickname": [
+                "Dara",
+                "A Escolhida",
+                "Darinha (por Guizo",
+                "Lírio e Chico)",
+                "Mozão (por Xande)"
+            ],
+            "age": "19",
+            "relations": [
+                "",
+                "† Mariana (namorada)"
+            ],
+            "occupation": [
+                "Investigadora Paranormal",
+                "Antenista (disfarce)",
+                "Estudante de Medicina (anteriormente)"
+            ],
+            "origin": "Universitária",
+            "class": "Especialista",
+            "trail": "Médica de Campo",
+            "association": "Os Cinco",
+            "status": "Viva",
+            "first_appearance": [
+                "O Segredo na Ilha - Episódio 9 - \"Revelando O Segredo na Ilha\" (silhueta)",
+                "Sinais do Outro Lado - Episódio 1 - \"Alheios\""
+            ]
+        }
+    },
+    {
+        "nome": "Guizo",
+        "link": "https://ordemparanormal.fandom.com/wiki/Guilherme_Santos",
+        "data": {
+            "interpreter": "Felipe \"Felps\" Zaghetti",
+            "nickname": [
+                "Guizo",
+                "Guizo",
+                "Adágio (disfarce)",
+                "Chico (disfarce)",
+                "Guilherme Silva (disfarce)",
+                "Chiquinho (por Lírio)",
+                "Gui (por Alexandre)",
+                "Idiota (por Alexandre)",
+                "Esquisito da Internet (por Lírio)"
+            ],
+            "age": "20",
+            "relations": [
+                ""
+            ],
+            "occupation": [
+                "Blogueiro",
+                "Investigador Paranormal",
+                "Praticante de Ocultismo",
+                "Antenista (disfarce)",
+                "Apresentador (disfarce)"
+            ],
+            "origin": "Teórico da Conspiração",
+            "class": "Ocultista",
+            "trail": "Graduado",
+            "association": [
+                "Ocultismo",
+                "Os Cinco",
+                "Tenebris"
+            ],
+            "status": "Em Tenebris",
+            "first_appearance": [
+                "O Segredo na Ilha - Episódio 9 - \"Revelando O Segredo na Ilha\" (silhueta)",
+                "Sinais do Outro Lado - Episódio 1 - \"Alheios\""
+            ]
+        }
+    },
+    {
+        "nome": "Lírio Tellini",
+        "link": "https://ordemparanormal.fandom.com/wiki/L%C3%ADrio_Tellini",
+        "data": {
+            "interpreter": "Murilo \"Gary\" Choquetta",
+            "nickname": [
+                "Lirio",
+                "Parede",
+                "Porta (por Alexandre)",
+                "Muralha (por Alexandre)",
+                "Grandão (por Dara)[1]"
+            ],
+            "age": "26",
+            "relations": [
+                ""
+            ],
+            "occupation": [
+                "Investigador Paranormal",
+                "Antenista (disfarce)",
+                "Auxiliar de Escritório (disfarce)"
+            ],
+            "origin": "Lutador",
+            "class": "Combatente",
+            "trail": "Tropa de Choque",
+            "association": "Os Cinco",
+            "status": "Vivo",
+            "first_appearance": [
+                "O Segredo na Ilha - Episódio 9 - \"Revelando O Segredo na Ilha\" (silhueta)",
+                "Sinais do Outro Lado - Episódio 1 - \"Alheios\""
+            ]
+        }
+    },
+    {
+        "nome": "Benito Camelo",
+        "link": "https://ordemparanormal.fandom.com/wiki/Benito_Camelo",
+        "data": {
+            "interpreter": "Alexis \"Quackity\"",
+            "nickname": [
+                "Dr. Benito Camelo",
+                "Dr. Simi (por Luis Miguel)",
+                "Doc (por Jeffrey)",
+                "Mr. Doctor (por Emi)",
+                "Dumb (por Emi)",
+                "Dumb Doctor (por Emi)",
+                "Stupid Doctor (por Emi)"
+            ],
+            "class": "Mundano",
+            "status": "Vivo",
+            "first_appearance": [
+                "Segredos Revelados 2 (silhueta)",
+                "Quarentena - Episódio 1 - \"Parte 1\""
+            ]
+        }
+    },
+    {
+        "nome": "Diego Thalles",
+        "link": "https://ordemparanormal.fandom.com/wiki/Diego_Thalles",
+        "data": {
+            "interpreter": "Tarik \"Pac\" Paccagnan",
+            "nickname": "My Lil Puppy (por Jeffrey)",
+            "age": "20",
+            "relations": [
+                "† Lucie Pocharde (melhor amiga)"
+            ],
+            "class": "Mundano",
+            "status": "Vivo",
+            "first_appearance": "Quarentena - Episódio 1 - \"Parte 1\""
+        }
+    },
+    {
+        "nome": "Jeffrey Bacon",
+        "link": "https://ordemparanormal.fandom.com/wiki/Jeffrey_Bacon",
+        "data": {
+            "interpreter": "Noah \"Foolish\"",
+            "nickname": [
+                "Jeff",
+                "Sly Corndog",
+                "Little Pizza Boy",
+                "My Friend (por Luis Miguel)",
+                "Pizza Boy (por Benito e Luis Miguel)",
+                "Pizza Guy (por Diego e Luis Miguel)",
+                "Big Boy (por Lucie)"
+            ],
+            "age": "21",
+            "relations": [
+                "† Wallace (animal de estimação)"
+            ],
+            "occupation": "Entregador de Pizza",
+            "origin": "Amnésico",
+            "class": "Mundano",
+            "status": "Vivo",
+            "first_appearance": [
+                "Segredos Revelados 2 (silhueta)",
+                "Quarentena - Episódio 1 - \"Parte 1\""
+            ]
+        }
+    },
+    {
+        "nome": "Lucie Pocharde",
+        "link": "https://ordemparanormal.fandom.com/wiki/Lucie_Pocharde",
+        "data": {
+            "interpreter": "Justine \"Baghera Jones\"",
+            "nickname": "Brat (por Emi)",
+            "age": "21",
+            "relations": [
+                "Diego Thalles (melhor amigo)"
+            ],
+            "origin": "Investigadora",
+            "class": "Mundano",
+            "status": "Falecida",
+            "first_appearance": [
+                "Segredos Revelados 2 (silhueta)",
+                "Quarentena - Episódio 1 - \"Parte 1\""
+            ],
+            "death": "Quarentena - Episódio 2 - \"Parte Final\""
+        }
+    },
+    {
+        "nome": "Luis Miguel Kennedy",
+        "link": "https://ordemparanormal.fandom.com/wiki/Luis_Miguel_Kennedy",
+        "data": {
+            "interpreter": "Roier",
+            "nickname": [
+                "Super-Mexican",
+                "Macho-Man (por Jeffrey)",
+                "The Fortão (por Diego)",
+                "Gun Man (por Emi)"
+            ],
+            "age": "22",
+            "class": "Mundano",
+            "status": "Vivo",
+            "first_appearance": [
+                "Segredos Revelados 2 (silhueta)",
+                "Quarentena - Episódio 1 - \"Parte 1\""
+            ]
+        }
+    },
+    {
+        "nome": "Ayla Valença",
+        "link": "https://ordemparanormal.fandom.com/wiki/Ayla_Valen%C3%A7a",
+        "data": {
+            "interpreter": "Maethe Lima",
+            "occupation": "Universitária",
+            "origin": "Colegial",
+            "class": "Sobrevivente",
+            "status": "Falecida",
+            "first_appearance": "Natal Macabro - Episódio 2 - \"Parte 2\"",
+            "death": "Natal Macabro - Episódio 2 - \"Parte 2\""
+        }
+    },
+    {
+        "nome": "Breno L. Nojard",
+        "link": "https://ordemparanormal.fandom.com/wiki/Breno_L._Nojard",
+        "data": {
+            "interpreter": "Gustavo \"Guto\" Barbosa",
+            "age": "20",
+            "occupation": "Jogador de Basquete",
+            "origin": "Atleta",
+            "class": "Sobrevivente",
+            "trail": "Durão",
+            "association": "Víboras",
+            "status": "Vivo",
+            "first_appearance": "Natal Macabro - Episódio 2 - \"Parte 2\""
+        }
+    },
+    {
+        "nome": "Jorel Lagos",
+        "link": "https://ordemparanormal.fandom.com/wiki/Jorel_Lagos",
+        "data": {
+            "interpreter": "Matthew \"Cinemagrath\" Magrath",
+            "nickname": [
+                "Caçador de Gente",
+                "NGHTMRZ (antigo pseudônimo)",
+                "Criança (por Leandro",
+                "Nathalia e Shanyqua)",
+                "Baixinho (por Leandro)",
+                "Lerdão (por Leandro)",
+                "Loirinho (por Leandro e Melissa)",
+                "Pequeno (por Leandro)"
+            ],
+            "age": "18",
+            "relations": [
+                "Joaquim Lagos (pai)",
+                "Joelma Lagos (mãe)",
+                "† Jorge Lagos (irmão)"
+            ],
+            "occupation": "Ator (anteriormente)",
+            "origin": "Artista",
+            "class": "Sobrevivente",
+            "status": "Vivo",
+            "first_appearance": "Natal Macabro - Episódio 1 - \"Parte 1\""
+        }
+    },
+    {
+        "nome": "Jorge Lagos",
+        "link": "https://ordemparanormal.fandom.com/wiki/Jorge_Lagos",
+        "data": {
+            "interpreter": "Luis \"LJoga\" Gouveia",
+            "age": "22",
+            "relations": [
+                "Joaquim Lagos (pai)",
+                "Joelma Lagos (mãe)",
+                "Jorel Lagos (irmão)"
+            ],
+            "origin": "Atleta",
+            "class": "Sobrevivente",
+            "trail": "Durão",
+            "status": "Falecido",
+            "first_appearance": "Natal Macabro - Episódio 2 - \"Parte 2\"",
+            "death": "Natal Macabro - Episódio 3 - \"Parte 3\""
+        }
+    },
+    {
+        "nome": "Leandro",
+        "link": "https://ordemparanormal.fandom.com/wiki/Leandro",
+        "data": {
+            "interpreter": "Rafael \"Guaxinim\" Montes",
+            "nickname": "Le",
+            "relations": [
+                "Lila Bonelli (melhor amiga)"
+            ],
+            "occupation": "Médico Legista",
+            "origin": "Legista",
+            "class": "Sobrevivente",
+            "status": "Falecido",
+            "first_appearance": "Natal Macabro - Episódio 1 - \"Parte 1\"",
+            "death": "Natal Macabro - Episódio 1 - \"Parte 1\""
+        }
+    },
+    {
+        "nome": "Lila Bonelli",
+        "link": "https://ordemparanormal.fandom.com/wiki/Lila_Bonelli",
+        "data": {
+            "interpreter": "Isabela \"Bela Tiemiau\" Tiemi",
+            "age": "22",
+            "relations": [
+                "Leandro (melhor amigo)"
+            ],
+            "origin": "Jovem Mística",
+            "class": "Sobrevivente",
+            "trail": "Durona",
+            "status": "Falecida",
+            "first_appearance": "Natal Macabro - Episódio 1 - \"Parte 1\"",
+            "death": "Natal Macabro - Episódio 1 - \"Parte 1\""
+        }
+    },
+    {
+        "nome": "Lucio Olani",
+        "link": "https://ordemparanormal.fandom.com/wiki/Lucio_Olani",
+        "data": {
+            "interpreter": "Lucas \"T3ddy\" Olioti",
+            "nickname": "Youtuberzinho (por Melissa)",
+            "relations": [
+                "Joto (animal de estimação)"
+            ],
+            "occupation": [
+                "Youtuber",
+                "Criador de Conteúdo"
+            ],
+            "origin": "Amigo dos Animais",
+            "class": "Sobrevivente",
+            "trail": "Durão",
+            "status": "Falecido",
+            "first_appearance": "Natal Macabro - Episódio 2 - \"Parte 2\"",
+            "death": "Natal Macabro - Episódio 2 - \"Parte 2\""
+        }
+    },
+    {
+        "nome": "Melissa Trovi",
+        "link": "https://ordemparanormal.fandom.com/wiki/Melissa_Trovi",
+        "data": {
+            "interpreter": "Lorena Orsi",
+            "nickname": [
+                "Mel",
+                "Branquela (por Shanyqua)"
+            ],
+            "occupation": [
+                "Universitária",
+                "Ginasta (anteriormente)",
+                "Líder de Torcida (anteriormente)"
+            ],
+            "origin": "Colegial",
+            "class": "Sobrevivente",
+            "status": "Falecida",
+            "first_appearance": "Natal Macabro - Episódio 2 - \"Parte 2\"",
+            "death": "Natal Macabro - Episódio 3 - \"Parte 3\""
+        }
+    },
+    {
+        "nome": "Mike",
+        "link": "https://ordemparanormal.fandom.com/wiki/Mike",
+        "data": {
+            "interpreter": "Bruno \"Brino\"",
+            "nickname": [
+                "Pizzaiolo (por Lucio)",
+                "Esquisitinho (por Ayla)"
+            ],
+            "occupation": "Entregador de Pizza",
+            "origin": "Estudante Universitário",
+            "class": "Sobrevivente",
+            "association": "Café's Pizzaria",
+            "status": "Falecido",
+            "first_appearance": "Natal Macabro - Episódio 2 - \"Parte 2\"",
+            "death": "Natal Macabro - Episódio 2 - \"Parte 2\""
+        }
+    },
+    {
+        "nome": "Nathalia Scompa",
+        "link": "https://ordemparanormal.fandom.com/wiki/Nathalia_Scompa",
+        "data": {
+            "interpreter": "Carolina \"Carolinga\" Zaghetti",
+            "nickname": "Nath",
+            "age": "22",
+            "relations": [
+                "Jorel Lagos (amigo)"
+            ],
+            "origin": "Profetizada",
+            "class": "Sobrevivente",
+            "trail": "Durona",
+            "status": "Falecida",
+            "first_appearance": "Natal Macabro - Episódio 1 - \"Parte 1\"",
+            "death": "Natal Macabro - Episódio 1 - \"Parte 1\""
+        }
+    },
+    {
+        "nome": "Ricardo Rocha Rodrigues",
+        "link": "https://ordemparanormal.fandom.com/wiki/Ricardo_Rocha_Rodrigues",
+        "data": {
+            "interpreter": "Felipe \"Felps\" Zaghetti",
+            "nickname": [
+                "Padrão (por Shanyqua)",
+                "Grandinho (por Leandro)",
+                "Grandão (por Breno e Nathalia)",
+                "Reinaldo (por Leandro)",
+                "Roberto (por Nathalia e Jorel)",
+                "Ronaldo (por Leandro",
+                "Shanyqua e Jorel)",
+                "Rodrigo (por Lila e Jorge)",
+                "Romildo (por Shanyqua)"
+            ],
+            "occupation": "Jogador de Basquete",
+            "origin": "Experimento",
+            "class": "Sobrevivente",
+            "trail": "Durão",
+            "association": "Ahnidras",
+            "status": "Desconhecido",
+            "first_appearance": "Natal Macabro - Episódio 1 - \"Parte 1\""
+        }
+    },
+    {
+        "nome": "Shanyqua da Silva",
+        "link": "https://ordemparanormal.fandom.com/wiki/Shanyqua_da_Silva",
+        "data": {
+            "interpreter": "Ana \"Jinki\" Gabriela",
+            "nickname": "Shany",
+            "age": "25",
+            "relations": [
+                "† Cláudio da Silva (pai)",
+                "† Selma da Silva (mãe)"
+            ],
+            "occupation": "Atendente de caixa de supermercado[3]",
+            "origin": "Mateira",
+            "class": "Sobrevivente",
+            "trail": "Durona",
+            "status": "Falecida",
+            "first_appearance": "Natal Macabro - Episódio 1 - \"Parte 1\"",
+            "death": "Natal Macabro - Episódio 3 - \"Parte 3\""
+        }
+    },
+    {
+        "nome": "O Anfitrião",
+        "link": "https://ordemparanormal.fandom.com/wiki/O_Anfitri%C3%A3o",
+        "data": {
+            "Ator": "Rafael “Cellbit” Lange",
+            "Elementos": [
+                "Energia",
+                "Conhecimento",
+                "Medo"
+            ],
+            "nickname": [
+                "Arnaldo Fritz",
+                "Francisca Parker",
+                "Amphitruo/Gaius",
+                "Aeneas",
+                "Liber",
+                "Silenus",
+                "Plautus",
+                "Demônio Virtual (por Tristan e Kaiser)[1]",
+                "Feioso (por Marius)"
+            ],
+            "status": "Dormente (Relíquia não portada)",
+            "first_appearance": [
+                "Desconjuração - Episódio 7 - \"Anfitrião\" (voz)",
+                "Calamidade - Episódio 5 - \"Ordo Calamitas\""
+            ]
+        }
+    },
+    {
+        "nome": "O Deus da death",
+        "link": "https://ordemparanormal.fandom.com/wiki/O_Deus_da_Morte",
+        "data": {
+            "Ator": "Rafael “Cellbit” Lange",
+            "Elementos": [
+                "death",
+                "Conhecimento",
+                "Medo"
+            ],
+            "nickname": [
+                "Parasita de Dimensões",
+                "Santo Berço",
+                "Santo",
+                "Almôndega Gigante (por Cesar)"
+            ],
+            "status": "Desconhecido",
+            "first_appearance": "O Segredo na Floresta - Episódio 16 - \"Equipe E\""
+        }
+    },
+    {
+        "nome": "O Diabo",
+        "link": "https://ordemparanormal.fandom.com/wiki/O_Diabo",
+        "data": {
+            "Ator": "Rafael “Cellbit” Lange",
+            "Elementos": [
+                "Sangue",
+                "Conhecimento",
+                "Medo"
+            ],
+            "nickname": [
+                "Príncipe do Ódio",
+                "Imperador das Aberrações",
+                "Portador do Trono",
+                "Sangue Encarnado",
+                "Henri",
+                "Capeta (por Clarissa)",
+                "Chifrudo (pelo Anfitrião)",
+                "Sete-Pele (por Antônio)"
+            ],
+            "status": "Despertado (Relíquia portada)",
+            "first_appearance": [
+                "Calamidade - Episódio 0 - \"Prólogo\" (vídeo)",
+                "Calamidade - Episódio 1 - \"O Começo do Fim\""
+            ]
+        }
+    },
+    {
+        "nome": "A Magistrada",
+        "link": "https://ordemparanormal.fandom.com/wiki/A_Magistrada",
+        "data": {
+            "Ator": "Rafael “Cellbit” Lange",
+            "Elementos": [
+                "Conhecimento",
+                "Medo"
+            ],
+            "nickname": [
+                "Máscara do Desespero",
+                "Arauta das Promessas",
+                "Executora das Regras",
+                "Celestine",
+                "Senhorita Dicionário (pelo Anfitrião)[1]"
+            ],
+            "status": "Dormente (Reliquia não portada)",
+            "first_appearance": "Desconjuração - Episódio 8 - \"Reunião\""
+        }
+    },
+    {
+        "nome": "Amalia",
+        "link": "https://ordemparanormal.fandom.com/wiki/Amalia",
+        "data": {
+            "interpreter": "Felipe \"Felps\" Zaghetti",
+            "nickname": [
+                "A Flecha",
+                "Gata (por Celestine)"
+            ],
+            "occupation": "Guerreira da Ordo Calamitas",
+            "association": "Ordo Calamitas",
+            "status": "Falecida (Inexistida)",
+            "first_appearance": "Calamidade - Episódio 5 - \"Ordo Calamitas\"",
+            "death": "Calamidade - Episódio 6 - \"Jogos\""
+        }
+    },
+    {
+        "nome": "Celestine",
+        "link": "https://ordemparanormal.fandom.com/wiki/Celestine",
+        "data": {
+            "interpreter": "Lucas \"Luba\" Feuerschütte",
+            "nickname": [
+                "A Rebelde",
+                "A Magistrada",
+                "Mulher Maluca (por Joui)"
+            ],
+            "occupation": [
+                "Guerreira da Ordo Calamitas (anteriormente)",
+                "Portadora de Relíquia (anteriormente)",
+                "Líder da Seita das Máscaras"
+            ],
+            "association": [
+                "Ordo Calamitas (anteriormente)",
+                "Seita das Máscaras"
+            ],
+            "status": "Desconhecido",
+            "first_appearance": "Calamidade - Episódio 5 - \"Ordo Calamitas\""
+        }
+    },
+    {
+        "nome": "Faustus",
+        "link": "https://ordemparanormal.fandom.com/wiki/Faustus",
+        "data": {
+            "interpreter": "Thiago \"Calango\" Elias",
+            "nickname": [
+                "O General",
+                "Faustão (por Antônio)"
+            ],
+            "occupation": [
+                "General do exército (anteriormente)[1]",
+                "Guerreiro da Ordo Calamitas"
+            ],
+            "association": "Ordo Calamitas",
+            "status": "Falecido (Inexistido)",
+            "first_appearance": "Calamidade - Episódio 5 - \"Ordo Calamitas\"",
+            "death": "Calamidade - Episódio 6 - \"Jogos\""
+        }
+    },
+    {
+        "nome": "Gaius",
+        "link": "https://ordemparanormal.fandom.com/wiki/Gaius",
+        "data": {
+            "interpreter": [
+                "Gabriela \"Bagi\" Cattuzzo",
+                "Rafael “Cellbit” Lange (como Amphitruo)"
+            ],
+            "nickname": [
+                "O Erudito",
+                "Amphitruo"
+            ],
+            "occupation": [
+                "Membro das Máscaras (anteriormente)",
+                "Guerreiro da Ordo Calamitas",
+                "Portador de Relíquia (anteriormente)"
+            ],
+            "association": [
+                "Seita das Máscaras (anteriormente)",
+                "Ordo Calamitas"
+            ],
+            "status": "Amalgamado com o Anfitrião",
+            "first_appearance": "Calamidade - Episódio 5 - \"Ordo Calamitas\""
+        }
+    },
+    {
+        "nome": "Marius",
+        "link": "https://ordemparanormal.fandom.com/wiki/Marius",
+        "data": {
+            "interpreter": "Rafael \"Guaxinim\" Montes",
+            "nickname": [
+                "O Guerreiro",
+                "Fortão (por Celestine)",
+                "Grandão (por Celestine",
+                "Marcellus e Remus)"
+            ],
+            "occupation": [
+                "Lutador de rua (anteriormente)[1]",
+                "Guerreiro da Ordo Calamitas"
+            ],
+            "association": "Ordo Calamitas",
+            "status": "Falecido (Inexistido)",
+            "first_appearance": "Calamidade - Episódio 5 - \"Ordo Calamitas\"",
+            "death": "Calamidade - Episódio 6 - \"Jogos\""
+        }
+    },
+    {
+        "nome": "Remus",
+        "link": "https://ordemparanormal.fandom.com/wiki/Remus",
+        "data": {
+            "interpreter": "Rafael \"Rakin\" Knittel",
+            "nickname": "O Cativante",
+            "occupation": "Guerreiro da Ordo Calamitas",
+            "association": "Ordo Calamitas",
+            "status": "Falecido (Inexistido)",
+            "first_appearance": "Calamidade - Episódio 5 - \"Ordo Calamitas\"",
+            "death": "Calamidade - Episódio 6 - \"Jogos\""
+        }
+    },
+    {
+        "nome": "Aaron",
+        "link": "https://ordemparanormal.fandom.com/wiki/Aaron",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "age": "20",
+            "relations": [
+                "Senhor Veríssimo (líder)",
+                "Antônio Pontevedra (antigo parceiro de equipe)",
+                "Arnaldo Fritz (antigo parceiro de equipe)",
+                "Chizue Akechi (antiga parceira de equipe)",
+                "Arthur Cervero (aprendiz)"
+            ],
+            "occupation": [
+                "Atirador de Elite",
+                "Investigador Paranormal"
+            ],
+            "class": "Especialista",
+            "trail": "Atirador de elite",
+            "association": [
+                "Ordo Realitas",
+                "Aniquiladores (anteriormente)"
+            ],
+            "status": "Vivo",
+            "first_appearance": "Desconjuração - Episódio 1 - \"Ordo Realitas\""
+        }
+    },
+    {
+        "nome": "Arnaldo Fritz",
+        "link": "https://ordemparanormal.fandom.com/wiki/Arnaldo_Fritz",
+        "data": {
+            "interpreter": [
+                "Rafael \"Rakin” Knittel",
+                "Rafael “Cellbit” Lange (como Parasita de Culpa e Anfitrião)"
+            ],
+            "nickname": [
+                "O Anfitrião",
+                "Eric Tufão (personagem)",
+                "Senhor Veríssimo (por Membros da Ordem)[1]",
+                "Professor (por Equipe Kelvin)[2]",
+                "Vovô (por Beatrice)[3]",
+                "Pitel (por Fernando)",
+                "Padrinho Arnaldo (por Bruno)[4]",
+                "Senhor Fritz (por Carina)[5]",
+                "Tio (por Chico)",
+                "Capitão Arnaldo (por Alexandre)",
+                "Arnaldinho (por Lírio)",
+                "Veríssimo (por Calisto Besatt)"
+            ],
+            "age": "30",
+            "relations": [
+                "† Thiago Fritz (filho)",
+                "† Cristopher Cohen (melhor amigo)",
+                "Senhor Veríssimo (melhor amigo)",
+                "† Miguel Cariad (pupilo)",
+                "† Mariana Larona (pupila)",
+                "† Kenan Thomas (pupilo)",
+                "† Beatrice Portinari (afilhada)",
+                "Dante (afilhado)",
+                "† Bruno (afilhado)",
+                "Aaron (antigo parceiro de equipe)",
+                "Antônio Pontevedra (antigo parceiro de equipe)",
+                "Johnny Tabasco (antigo parceiro de equipe)",
+                "Luciano Carvalho (antigo parceiro de equipe)",
+                "Francisca Parker (antiga parceira de equipe)",
+                "Chizue Akechi (antiga parceira de equipe)",
+                "† Morato Vertaler (antigo amigo)",
+                "Calisto Besatt (antigo pupilo)"
+            ],
+            "occupation": [
+                "Ator",
+                "Investigador Paranormal",
+                "Praticante de Ocultismo",
+                "Proprietário de Pizzaria (anteriormente)",
+                "Portador de Relíquia (anteriormente)"
+            ],
+            "class": "Ocultista",
+            "association": [
+                "Ordo Realitas",
+                "Aniquiladores (anteriormente)",
+                "Café's Pizzaria (proprietário; anteriormente)",
+                "Equipe Kelvin (mentor)"
+            ],
+            "status": "Amalgamado com o Anfitrião",
+            "first_appearance": [
+                "O Segredo na Floresta - Episódio 15 - \"Manancial\" (Parasita de Culpa)",
+                "Calamidade - Episódio 6 - \"Jogos\""
+            ]
+        }
+    },
+    {
+        "nome": "Cavalcante Bueno",
+        "link": "https://ordemparanormal.fandom.com/wiki/Cavalcante_Bueno",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "Homem da Perna (por Amelie)",
+                "Calvo (por Olivier)[1]",
+                "Cavalando (por Amelie)",
+                "Cavalete (por Amelie e Milo)",
+                "O de chapeuzinho (por Montel",
+                "Adrian e Wanderley)"
+            ],
+            "age": "35",
+            "relations": [
+                "† Wanderley Nascimento (amigo)"
+            ],
+            "occupation": [
+                "Investigador Paranormal",
+                "Agente Imobiliário (disfarce)"
+            ],
+            "association": [
+                "Ordo Realitas",
+                "Imobiliária Fachada (disfarce)"
+            ],
+            "status": "Falecido",
+            "first_appearance": "O Segredo na Ilha - Episódio 1 - \"Tipora\"",
+            "death": "O Segredo na Ilha - Episódio 3 - \"Pavor\""
+        }
+    },
+    {
+        "nome": "Chizue Akechi",
+        "link": "https://ordemparanormal.fandom.com/wiki/Chizue_Akechi",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Senhora Veríssimo",
+            "age": "32",
+            "relations": [
+                "† Filha desconhecida",
+                "Naomi Akechi (neta)",
+                "Paulo Machado (amigo)",
+                "Senhor Veríssimo (parceiro da Ordem)",
+                "Aaron (antigo parceiro de equipe)",
+                "Arnaldo Fritz (antigo parceiro de equipe)",
+                "Francisca Parker (antiga parceira de equipe)",
+                "† Miguel Cariad (pupilo)",
+                "† Kenan Thomas (pupilo)",
+                "† Mariana Larona (pupila)"
+            ],
+            "occupation": "Agente da Ordo Realitas",
+            "class": "Especialista",
+            "association": [
+                "Ordo Realitas",
+                "Aniquiladores (anteriormente)",
+                "Equipe Kelvin (mentora; anteriormente)"
+            ],
+            "status": "Viva",
+            "first_appearance": "O Segredo na Floresta - Episódio 15 - \"Manancial\" (passado/flashback)"
+        }
+    },
+    {
+        "nome": "Ivete Beicur",
+        "link": "https://ordemparanormal.fandom.com/wiki/Ivete_Beicur",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "Mãe (por Arthur)",
+                "Tia (por Kaiser e Joui)",
+                "Ivetinha (por Erin)[1]",
+                "Senhorita Ivete (por Antônio)",
+                "Madame (por Antônio)",
+                "Ivete-san (por Joui)",
+                "Véia (por Samuel)",
+                "Ivete Semgalo (por Dominic)"
+            ],
+            "age": "50",
+            "relations": [
+                ""
+            ],
+            "occupation": [
+                "Proprietária do Suvaco Seco (anteriormente)",
+                "Fornecedora de equipamentos da Ordo Realitas"
+            ],
+            "association": [
+                "Gaudérios Abutres",
+                "Ordo Realitas"
+            ],
+            "status": "Viva",
+            "first_appearance": "O Segredo na Floresta - Episódio 1 - \"Equipe Kelvin\""
+        }
+    },
+    {
+        "nome": "Layla Silva",
+        "link": "https://ordemparanormal.fandom.com/wiki/Layla_Silva",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "occupation": "Investigadora Paranormal",
+            "association": "Ordo Realitas",
+            "status": "Viva",
+            "first_appearance": "Desconjuração - Episódio 1 - \"Ordo Realitas\""
+        }
+    },
+    {
+        "nome": "Leandro Weiss",
+        "link": "https://ordemparanormal.fandom.com/wiki/Leandro_Weiss",
+        "data": {
+            "interpreter": "Jogador",
+            "age": "30",
+            "occupation": [
+                "Profissional da Saúde",
+                "Investigador Paranormal"
+            ],
+            "origin": "Agente de Saúde",
+            "class": "Especialista",
+            "association": "Ordo Realitas",
+            "status": [
+                "Vivo (Universo canônico)",
+                "Indefinido (Mesas de fãs)"
+            ],
+            "first_appearance": "Os Espinhos da Aurora Escarlate"
+        }
+    },
+    {
+        "nome": "Marcela Geleerd",
+        "link": "https://ordemparanormal.fandom.com/wiki/Marcela_Geleerd",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "age": "30",
+            "relations": [
+                "Renan Geleerd (marido)",
+                "Matheus Geleerd (filho)"
+            ],
+            "occupation": [
+                "Engenheira Química[1]",
+                "Médica da Ordo Realitas"
+            ],
+            "association": "Ordo Realitas",
+            "status": "Viva",
+            "first_appearance": [
+                "A Ordem Paranormal - Episódio 2 - \"Episódio Final\" (apenas foto)",
+                "Desconjuração - Episódio 1 - \"Ordo Realitas\""
+            ]
+        }
+    },
+    {
+        "nome": "Renan Geleerd",
+        "link": "https://ordemparanormal.fandom.com/wiki/Renan_Geleerd",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Oclinhos (por Antônio)[1]",
+            "age": "38",
+            "relations": [
+                "Marcela Geleerd (esposa)",
+                "Matheus Geleerd (filho)"
+            ],
+            "occupation": [
+                "Engenheiro Biólogo[3]",
+                "Cientista da Ordo Realitas"
+            ],
+            "association": "Ordo Realitas",
+            "status": "Vivo",
+            "first_appearance": [
+                "A Ordem Paranormal - Episódio 2 - \"Episódio Final\" (apenas foto)",
+                "Desconjuração - Episódio 3 - \"Transcender\""
+            ]
+        }
+    },
+    {
+        "nome": "Tristan Monteiro",
+        "link": "https://ordemparanormal.fandom.com/wiki/Tristan_Monteiro",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "Parceirinho (por Erin)",
+                "Tris (por Erin)[1]"
+            ],
+            "age": "29",
+            "relations": [
+                "",
+                "Roberto Monteiro (irmão)"
+            ],
+            "occupation": [
+                "Ex-Militar[3]",
+                "Recrutador da Ordo Realitas",
+                "Investigador Paranormal"
+            ],
+            "class": "Combatente",
+            "association": [
+                "Ordo Realitas",
+                "Equipe Brasa",
+                "Força D"
+            ],
+            "status": "Falecido",
+            "first_appearance": "Desconjuração - Episódio 1 - \"Ordo Realitas\"",
+            "death": "Desconjuração - Episódio 9 - \"Mansão Endiabrada\""
+        }
+    },
+    {
+        "nome": "Cassiano Menta",
+        "link": "https://ordemparanormal.fandom.com/wiki/Cassiano_Menta",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Oliver Sykes (por Luciano)",
+            "age": "16",
+            "relations": [
+                "Eduarda Flom (namorada)",
+                "Hugo Longo (amigo)",
+                "Agatha Volkomenn (amiga)",
+                "Tim Flom (amigo)"
+            ],
+            "occupation": "Investigador Paranormal",
+            "association": [
+                "Ordo Realitas",
+                "Detetives do Condomínio Azul"
+            ],
+            "status": "Vivo",
+            "first_appearance": [
+                "Desconjuração - Episódio 10 - \"Fotografias\" (voz)",
+                "Desconjuração - Episódio 13 - \"Bruxa Arrependida\""
+            ]
+        }
+    },
+    {
+        "nome": "Eduarda Flom",
+        "link": "https://ordemparanormal.fandom.com/wiki/Eduarda_Flom",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Duda (por Erin)",
+            "age": "16",
+            "relations": [
+                "Janaina Flom (mãe)",
+                "Tim Flom (irmão)",
+                "Cassiano Menta (namorado)",
+                "Hugo Longo (amigo)",
+                "Agatha Volkomenn (amiga)"
+            ],
+            "occupation": "Investigadora Paranormal",
+            "class": "Ocultista",
+            "trail": "Possuída",
+            "association": [
+                "Ordo Realitas",
+                "Ocultismo",
+                "Detetives do Condomínio Azul"
+            ],
+            "status": "Viva",
+            "first_appearance": "Desconjuração - Episódio 10 - \"Fotografias\""
+        }
+    },
+    {
+        "nome": "Hugo Longo",
+        "link": "https://ordemparanormal.fandom.com/wiki/Hugo_Longo",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Hugão (por Erin)",
+            "age": "15",
+            "relations": [
+                "Cassiano Menta (amigo)",
+                "Eduarda Flom (amiga)",
+                "Agatha Volkomenn (amiga)"
+            ],
+            "occupation": "Investigador Paranormal",
+            "association": [
+                "Ordo Realitas",
+                "Detetives do Condomínio Azul"
+            ],
+            "status": "Vivo",
+            "first_appearance": "Desconjuração - Episódio 13 - \"Bruxa Arrependida\""
+        }
+    },
+    {
+        "nome": "Kurt Hemmis",
+        "link": "https://ordemparanormal.fandom.com/wiki/Kurt_Hemmis",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "age": "40",
+            "relations": [
+                "Arthur Cervero (amigo)",
+                "† Leandro Hans (amigo/colega de equipe)",
+                "† Marcos Front (amigo/colega de equipe)",
+                "† Roberto Lutrijo (amigo/colega de equipe)"
+            ],
+            "occupation": [
+                "Guitarrista dos Dragões Metálicos",
+                "Investigador Paranormal"
+            ],
+            "association": [
+                "Dragões Metálicos",
+                "Ordo Realitas"
+            ],
+            "status": "Falecido",
+            "first_appearance": "Desconjuração - Episódio 1 - \"Ordo Realitas\"",
+            "death": "Calamidade - Episódio 7 - \"Traição\""
+        }
+    },
+    {
+        "nome": "Leandro Hans",
+        "link": "https://ordemparanormal.fandom.com/wiki/Leandro_Hans",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "relations": [
+                "Arthur Cervero (amigo)",
+                "† Kurt Hemmis (amigo/colega de equipe)",
+                "† Marcos Front (amigo/colega de equipe)",
+                "† Roberto Lutrijo (amigo/colega de equipe)",
+                "† Fernando Carvalho (amigo)"
+            ],
+            "occupation": [
+                "Baterista dos Dragões Metálicos",
+                "Investigador Paranormal"
+            ],
+            "association": [
+                "Dragões Metálicos",
+                "Ordo Realitas"
+            ],
+            "status": "Falecido",
+            "first_appearance": "Desconjuração - Episódio 1 - \"Ordo Realitas\"",
+            "death": "Calamidade - Episódio 7 - \"Traição\""
+        }
+    },
+    {
+        "nome": "Marcos Front",
+        "link": "https://ordemparanormal.fandom.com/wiki/Marcos_Front",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Marcão[1]",
+            "age": "45",
+            "relations": [
+                "Arthur Cervero (amigo)",
+                "† Kurt Hemmis (amigo/colega de equipe)",
+                "† Leandro Hans (amigo/colega de equipe)",
+                "† Roberto Lutrijo (amigo/colega de equipe)",
+                "† Fernando Carvalho (amigo)"
+            ],
+            "occupation": [
+                "Vocalista dos Dragões Metálicos",
+                "Investigador Paranormal"
+            ],
+            "association": [
+                "Dragões Metálicos",
+                "Ordo Realitas"
+            ],
+            "status": "Falecido",
+            "first_appearance": "Desconjuração - Episódio 1 - \"Ordo Realitas\"",
+            "death": "Calamidade - Episódio 7 - \"Traição\""
+        }
+    },
+    {
+        "nome": "Roberto Lutrijo",
+        "link": "https://ordemparanormal.fandom.com/wiki/Roberto_Lutrijo",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "Robertão[1]",
+                "Careca (por Boris)"
+            ],
+            "relations": [
+                "Arthur Cervero (amigo)",
+                "† Kurt Hemmis (amigo/colega de equipe)",
+                "† Leandro Hans (amigo/colega de equipe)",
+                "† Marcos Front (amigo/colega de equipe)",
+                "† Fernando Carvalho (amigo)"
+            ],
+            "occupation": [
+                "Baixista dos Dragões Metálicos",
+                "Investigador Paranormal"
+            ],
+            "association": [
+                "Dragões Metálicos",
+                "Ordo Realitas"
+            ],
+            "status": "Falecido",
+            "first_appearance": "Desconjuração - Episódio 1 - \"Ordo Realitas\"",
+            "death": "Calamidade - Episódio 7 - \"Traição\""
+        }
+    },
+    {
+        "nome": "Samuel Norte",
+        "link": "https://ordemparanormal.fandom.com/wiki/Samuel_Norte",
+        "data": {
+            "interpreter": [
+                "Rafael “Cellbit” Lange (Campanhas de RPG)",
+                "Fred Mascarenhas (Enigma do Medo)"
+            ],
+            "nickname": [
+                "Daylight Demon",
+                "Samuca (por Antônio)[1]",
+                "Batatinha (por Cavalcante)[2]",
+                "Sam (por Mia)"
+            ],
+            "age": "20",
+            "relations": [
+                "Mia e Lupi (amigos)",
+                "† Kaiser (amigo e parceiro da equipe de pesquisa)",
+                "Letícia Mantra (parceira da equipe de pesquisa)",
+                "† Tristan Monteiro (amigo)"
+            ],
+            "occupation": [
+                "Hacker",
+                "Investigador Paranormal"
+            ],
+            "class": "Especialista",
+            "association": [
+                "Ordo Realitas",
+                "Equipe de Pesquisa da Ordem"
+            ],
+            "status": "Vivo",
+            "first_appearance": [
+                "ARG de Desconjuração e Enigma do Medo (silhueta)",
+                "Desconjuração - Episódio 1 - \"Ordo Realitas\""
+            ]
+        }
+    },
+    {
+        "nome": "Olivia Lefleur",
+        "link": "https://ordemparanormal.fandom.com/wiki/Olivia_Lefleur",
+        "data": {
+            "interpreter": [
+                "Rafael \"Cellbit\" Lange",
+                "Gabriela \"Bagi\" Cattuzzo (apenas em \"Guerreiro\")"
+            ],
+            "nickname": "Flor (por Antônio)",
+            "occupation": "Investigadora Paranormal",
+            "association": [
+                "Ordo Realitas",
+                "Equipe Delta"
+            ],
+            "status": "Viva",
+            "first_appearance": "Calamidade - Episódio 0 - \"Prólogo\""
+        }
+    },
+    {
+        "nome": "Alexia Grifo",
+        "link": "https://ordemparanormal.fandom.com/wiki/Alexia_Grifo",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "age": "20",
+            "relations": [
+                "Senhor Veríssimo (mentor)",
+                "† Samantha Hale (amiga/colega de equipe)",
+                "Clarissa Leão (amiga/colega de equipe)"
+            ],
+            "occupation": [
+                "Espiã",
+                "Investigadora Paranormal"
+            ],
+            "association": [
+                "Ordo Realitas",
+                "Equipe Espiãs"
+            ],
+            "status": "Falecida",
+            "first_appearance": "Desconjuração - Episódio 1 - \"Ordo Realitas\"",
+            "death": "Desconjuração - Episódio 20 - \"Kian\""
+        }
+    },
+    {
+        "nome": "Clarissa Leão",
+        "link": "https://ordemparanormal.fandom.com/wiki/Clarissa_Le%C3%A3o",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "A Espiã (por Erin",
+                "Arthur e Kaiser)",
+                "A Traidora (por Kian)"
+            ],
+            "age": "20",
+            "relations": [
+                "Senhor Veríssimo (mentor)",
+                "† Alexia Grifo (amiga/colega de equipe)",
+                "† Samantha Hale (amiga/colega de equipe)",
+                "† Tristan Monteiro (amigo de infância)"
+            ],
+            "occupation": [
+                "Espiã (anteriormente)",
+                "Investigadora Paranormal",
+                "Praticante de Ocultismo"
+            ],
+            "association": [
+                "Ordo Realitas (anteriormente)",
+                "Equipe Espiãs",
+                "Escriptas"
+            ],
+            "status": "Viva",
+            "first_appearance": "Desconjuração - Episódio 1 - \"Ordo Realitas\""
+        }
+    },
+    {
+        "nome": "Samantha Hale",
+        "link": "https://ordemparanormal.fandom.com/wiki/Samantha_Hale",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Sam[1]",
+            "age": "20",
+            "relations": [
+                "Senhor Veríssimo (mentor)",
+                "† Alexia Grifo (amiga/colega de equipe)",
+                "Clarissa Leão (amiga/colega de equipe)",
+                "† Tristan Monteiro (recrutador)"
+            ],
+            "occupation": [
+                "Espiã",
+                "Investigadora Paranormal"
+            ],
+            "association": [
+                "Ordo Realitas",
+                "Equipe Espiãs"
+            ],
+            "status": "Falecida",
+            "first_appearance": "Desconjuração - Episódio 1 - \"Ordo Realitas\"",
+            "death": "Desconjuração - Episódio 20 - \"Kian\""
+        }
+    },
+    {
+        "nome": "Kenan Thomas",
+        "link": "https://ordemparanormal.fandom.com/wiki/Kenan_Thomas",
+        "data": {
+            "interpreter": "Leonardo \"Leo\" Santi",
+            "nickname": [
+                "Senhor Veríssimo (por Membros da Ordem)",
+                "Senhor Kelvin (por Cesar e Arthur)",
+                "Senhor Kendrick (por Arthur)",
+                "Odi-san (por Joui)",
+                "Vovô (por Thiago)",
+                "Vovozinho (por Thiago)",
+                "Velho Amigo (pelo Ferreiro)"
+            ],
+            "age": "29",
+            "relations": [
+                "† Mariana Larona (melhor amiga)",
+                "† Miguel Cariad/O Ferreiro (ex-melhor amigo)",
+                "Arnaldo Fritz (mentor)",
+                "Chizue Akechi (mentora)",
+                "Equipe E (aliados)"
+            ],
+            "occupation": [
+                "Técnico em Detonação",
+                "Investigador Paranormal",
+                "Manancial"
+            ],
+            "association": [
+                "Ordo Realitas",
+                "Equipe Kelvin",
+                "Mananciais"
+            ],
+            "status": "Falecido",
+            "first_appearance": [
+                "O Segredo na Floresta - Episódio 1 - \"Equipe Kelvin\" (foto)",
+                "O Segredo na Floresta - Episódio 15 - \"Manancial\""
+            ],
+            "death": "O Segredo na Floresta - Episódio 16 - \"Equipe E\""
+        }
+    },
+    {
+        "nome": "Mariana Larona",
+        "link": "https://ordemparanormal.fandom.com/wiki/Mariana_Larona",
+        "data": {
+            "interpreter": "Gabriela \"Bagi\" Cattuzzo",
+            "nickname": [
+                "Mari",
+                "Senhora Veríssimo (por Membros da Ordem)",
+                "Amor (por Kenan)"
+            ],
+            "age": "27",
+            "relations": [
+                "",
+                "Arnaldo Fritz (mentor)",
+                "Chizue Akechi (mentora)"
+            ],
+            "occupation": [
+                "Personal Trainer",
+                "Investigadora Paranormal"
+            ],
+            "association": [
+                "Ordo Realitas",
+                "Equipe Kelvin"
+            ],
+            "status": "Falecida",
+            "first_appearance": [
+                "O Segredo na Floresta - Episódio 1 - \"Equipe Kelvin\" (foto)",
+                "O Segredo na Floresta - Episódio 15 - \"Manancial\""
+            ],
+            "death": "O Segredo na Floresta - Episódio 15 - \"Manancial\""
+        }
+    },
+    {
+        "nome": "Miguel Cariad",
+        "link": "https://ordemparanormal.fandom.com/wiki/Miguel_Cariad",
+        "data": {
+            "interpreter": [
+                "Thiago \"Calango\" Elias (como Miguel)",
+                "Rafael \"Cellbit\" Lange (como Ferreiro)"
+            ],
+            "nickname": [
+                "O Ferreiro",
+                "O Ajudante",
+                "Senhor Veríssimo (por Membros da Ordem)",
+                "Bonitão (por Ferreira)"
+            ],
+            "age": "30",
+            "relations": [
+                "† A Ferreira (esposa/amante)",
+                "† O Porteiro (filho)",
+                "† Mananciais (filhos)",
+                "† O Minerador (melhor amigo)",
+                "† Kenan Thomas (ex-melhor amigo)",
+                "† Mariana Larona (ex-melhor amiga)",
+                "Arnaldo Fritz (mentor)",
+                "Chizue Akechi (mentora)"
+            ],
+            "occupation": [
+                "Fisiculturista (anteriormente)",
+                "Investigador Paranormal (anteriormente)",
+                "Ajudante da Ferreira de Santo Berço (anteriormente)",
+                "Ferreiro de Santo Berço"
+            ],
+            "association": [
+                "Ordo Realitas (anteriormente)",
+                "Equipe Kelvin (anteriormente)",
+                "Santo Berço"
+            ],
+            "status": "Falecido",
+            "first_appearance": [
+                "O Segredo na Floresta - Episódio 9 - \"Santo Berço\" (Ferreiro)",
+                "O Segredo na Floresta - Episódio 15 - \"Manancial\" (Miguel)"
+            ],
+            "death": "O Segredo na Floresta - Episódio 16 - \"Equipe E\""
+        }
+    },
+    {
+        "nome": "Alan Portlash",
+        "link": "https://ordemparanormal.fandom.com/wiki/Alan_Portlash",
+        "data": {
+            "interpreter": "Duda Ribeiro",
+            "age": "48",
+            "relations": [
+                "Oswaldo Magani (marido)",
+                "Theo Portlash (sobrinho)",
+                "Lethicia Vergeten (amiga)"
+            ],
+            "occupation": [
+                "Investigador Paranormal",
+                "Engenheiro Civil",
+                "Mecânico",
+                "Militar (anteriormente)"
+            ],
+            "association": [
+                "Ordo Realitas",
+                "Equipe Elite"
+            ],
+            "status": "Desconhecido",
+            "first_appearance": "Enigma do Medo (flashback)"
+        }
+    },
+    {
+        "nome": "Amy Fiori",
+        "link": "https://ordemparanormal.fandom.com/wiki/Amy_Fiori",
+        "data": {
+            "interpreter": "Helena Palomanes",
+            "age": "24",
+            "relations": [
+                "Rossi Ferrero (amante)"
+            ],
+            "occupation": [
+                "Investigadora Paranormal",
+                "Criptologista"
+            ],
+            "association": [
+                "Ordo Realitas",
+                "Equipe Elite"
+            ],
+            "status": "Desconhecido",
+            "first_appearance": "Enigma do Medo (flashback)"
+        }
+    },
+    {
+        "nome": "Calisto Besatt",
+        "link": "https://ordemparanormal.fandom.com/wiki/Calisto_Besatt",
+        "data": {
+            "interpreter": [
+                "Rafael \"Cellbit\" Lange (Sinais do Outro Lado)",
+                "Wendel Bezerra (Enigma do Medo)"
+            ],
+            "nickname": [
+                "Calipso (por Lírio)",
+                "Chamito (por Alexandre)",
+                "Calopsita (por Chico)",
+                "Cassiano (por Alexandre)",
+                "Maluquinho/Ruivinho do Café (por Mandy)",
+                "Calistinho (por Arnaldo)"
+            ],
+            "age": "20",
+            "relations": [
+                "† Morato Vertaler (antigo amigo)",
+                "Arnaldo Fritz (mentor)",
+                "† Sofia Besatt (irmã)",
+                "Mia (sobrinha)",
+                "Senhor Veríssimo (mentor e cunhado)"
+            ],
+            "occupation": [
+                "Investigador Paranormal",
+                "Consultor Paranormal",
+                "Especialista em Ocultismo",
+                "Especialista em Linguagens",
+                "Criptologista",
+                "Filologista"
+            ],
+            "affinity": "Conhecimento",
+            "association": [
+                "Ordo Realitas",
+                "Ocultismo",
+                "Equipe Elite",
+                "Culto do Medo"
+            ],
+            "status": "Vivo",
+            "first_appearance": "Sinais do Outro Lado - Episódio 1 - \"Alheios\""
+        }
+    },
+    {
+        "nome": "Diogo Laiks",
+        "link": "https://ordemparanormal.fandom.com/wiki/Diogo_Laiks",
+        "data": {
+            "interpreter": "Thiago Zambrano",
+            "age": "35",
+            "relations": [
+                "Jorge Laiks (pai)"
+            ],
+            "occupation": [
+                "Investigador Paranormal",
+                "Engenheiro Bioquímico",
+                "Físico"
+            ],
+            "association": [
+                "Equipe Elite",
+                "Ordo Realitas"
+            ],
+            "status": "Desconhecido",
+            "first_appearance": [
+                "Enigma do Medo - Trailer de Gameplay",
+                "Enigma do Medo"
+            ],
+            "death": "Enigma do Medo"
+        }
+    },
+    {
+        "nome": "Fernanda Silvino",
+        "link": "https://ordemparanormal.fandom.com/wiki/Fernanda_Silvino",
+        "data": {
+            "interpreter": "Camila \"Kalera\" Vieira",
+            "age": "23",
+            "occupation": [
+                "Investigadora Paranormal",
+                "Topógrafa"
+            ],
+            "association": "Ordo Realitas",
+            "status": "Desconhecido",
+            "first_appearance": "Enigma do Medo (gravação de voz)"
+        }
+    },
+    {
+        "nome": "Jorge Laiks",
+        "link": "https://ordemparanormal.fandom.com/wiki/Jorge_Laiks",
+        "data": {
+            "interpreter": "Hércules Franco",
+            "age": "56",
+            "relations": [
+                "Diogo Laiks (filho)"
+            ],
+            "occupation": [
+                "Investigador Paranormal",
+                "Engenheiro Mecânico"
+            ],
+            "association": [
+                "Equipe Elite",
+                "Ordo Realitas"
+            ],
+            "status": "Desconhecido",
+            "first_appearance": "Enigma do Medo (flashback)"
+        }
+    },
+    {
+        "nome": "Lethicia Vergeten",
+        "link": "https://ordemparanormal.fandom.com/wiki/Lethicia_Vergeten",
+        "data": {
+            "interpreter": "Carol Crespo",
+            "age": "34",
+            "relations": [
+                "Theo Portlash (pupilo)",
+                "Amy Fiori (pupila)",
+                "Rossi Ferrero (pupilo)",
+                "Beto Monteiro (pupilo)",
+                "Fernanda Silvino (pupila)"
+            ],
+            "occupation": [
+                "Investigadora Paranormal",
+                "Engenheira Acústica",
+                "Especialista em Análise de Espectros Sonoros"
+            ],
+            "association": "Ordo Realitas",
+            "status": "Desconhecido",
+            "first_appearance": "Enigma do Medo",
+            "death": "Enigma do Medo"
+        }
+    },
+    {
+        "nome": "Oswaldo Magani",
+        "link": "https://ordemparanormal.fandom.com/wiki/Oswaldo_Magani",
+        "data": {
+            "interpreter": "Marco Ribeiro",
+            "age": "43",
+            "relations": [
+                "Alan Portlash (marido)",
+                "Theo Portlash (sobrinho)"
+            ],
+            "occupation": [
+                "Investigador Paranormal",
+                "Cirurgião",
+                "Médico de Campo",
+                "Médico Comportamental"
+            ],
+            "association": [
+                "Ordo Realitas",
+                "Equipe Elite"
+            ],
+            "status": "Desconhecido",
+            "first_appearance": "Enigma do Medo (flashback)"
+        }
+    },
+    {
+        "nome": "Rossi Ferrero",
+        "link": "https://ordemparanormal.fandom.com/wiki/Daniel_Ferrero_de_Rossi",
+        "data": {
+            "interpreter": "Rodrigo Antas",
+            "age": "24",
+            "relations": [
+                "Amy Fiori (amante)"
+            ],
+            "occupation": [
+                "Investigador Paranormal",
+                "Geólogo"
+            ],
+            "association": [
+                "Ordo Realitas",
+                "Equipe Elite"
+            ],
+            "status": "Desconhecido",
+            "first_appearance": "Enigma do Medo (flashback)"
+        }
+    },
+    {
+        "nome": "Sofia Besatt",
+        "link": "https://ordemparanormal.fandom.com/wiki/Sofia_Besatt",
+        "data": {
+            "interpreter": "Fernanda Baronne",
+            "age": "35",
+            "relations": [
+                "Calisto Besatt (irmão)",
+                "Senhor Veríssimo (amante)",
+                "Mia (filha)"
+            ],
+            "occupation": [
+                "Investigadora Paranormal",
+                "Psiquiatra"
+            ],
+            "association": "Ordo Realitas",
+            "status": "Falecida",
+            "first_appearance": "Enigma do Medo (flashback)"
+        }
+    },
+    {
+        "nome": "Patrizia Leone",
+        "link": "https://ordemparanormal.fandom.com/wiki/Patrizia_Leone",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Velha (por Alef)",
+            "relations": [
+                "Veja § Parentesco"
+            ],
+            "occupation": "Líder da Família Leone",
+            "association": [
+                "Família Leone (líder)",
+                "Ordo Realitas"
+            ],
+            "status": "Falecida",
+            "first_appearance": "Calamidade - Episódio 1 - \"O Começo do Fim\" (vídeo)",
+            "death": "Calamidade - Episódio 2 - \"Vingança\""
+        }
+    },
+    {
+        "nome": "Chloe Grey",
+        "link": "https://ordemparanormal.fandom.com/wiki/Chloe_Grey",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "occupation": "Mercenária Paranormal",
+            "association": [
+                "Hell Hunters",
+                "Ordo Realitas"
+            ],
+            "status": "Viva",
+            "first_appearance": "Calamidade - Episódio 1 - \"O Começo do Fim\""
+        }
+    },
+    {
+        "nome": "Miguel Hernandez",
+        "link": "https://ordemparanormal.fandom.com/wiki/Miguel_Hernandez",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "occupation": "Mercenário Paranormal",
+            "association": [
+                "Hell Hunters",
+                "Ordo Realitas"
+            ],
+            "status": "Falecido",
+            "first_appearance": "Calamidade - Episódio 4 - \"Anfiteatro\"",
+            "death": "Calamidade - Episódio 10 - \"Tempo\""
+        }
+    },
+    {
+        "nome": "Ryder Staten",
+        "link": "https://ordemparanormal.fandom.com/wiki/Ryder_Staten",
+        "data": {
+            "interpreter": [
+                "Rafael \"Cellbit\" Lange",
+                "Lucas \"Luba\" Feuerschütte (apenas em \"Guerreiro\")"
+            ],
+            "relations": [
+                ""
+            ],
+            "occupation": [
+                "Mercenário Paranormal",
+                "Líder dos Hell Hunters"
+            ],
+            "class": "Combatente",
+            "association": [
+                "Hell Hunters (líder)",
+                "Ordo Realitas"
+            ],
+            "status": "Vivo",
+            "first_appearance": "Calamidade - Episódio 1 - \"O Começo do Fim\""
+        }
+    },
+    {
+        "nome": "Alef Freneza",
+        "link": "https://ordemparanormal.fandom.com/wiki/Alef_Freneza",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "age": "25",
+            "occupation": [
+                "Ocultista",
+                "Escripta",
+                "Perito em explosivos"
+            ],
+            "association": [
+                "Ocultismo",
+                "Escriptas"
+            ],
+            "status": "Falecido",
+            "first_appearance": "Calamidade - Episódio 2 - \"Vingança\"",
+            "death": "Calamidade - Episódio 11 - \"Guerreiro\""
+        }
+    },
+    {
+        "nome": "Bruno",
+        "link": "https://ordemparanormal.fandom.com/wiki/Bruno",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "Porquinho (por Henri)",
+                "Verme (por Henri)",
+                "Traidorzinho (por Jushur)"
+            ],
+            "age": "20",
+            "relations": [
+                ""
+            ],
+            "occupation": [
+                "Ocultista",
+                "Escripta (anteriormente)"
+            ],
+            "association": [
+                "Ocultismo",
+                "Escriptas (anteriormente)"
+            ],
+            "status": "Falecido (Inexistido)",
+            "first_appearance": [
+                "Desconjuração - Episódio 3 - \"Transcender\" (foto)",
+                "Desconjuração - Episódio 8 - \"Reunião\""
+            ],
+            "death": "Desconjuração - Episódio 20 - \"Kian\""
+        }
+    },
+    {
+        "nome": "Dagan",
+        "link": "https://ordemparanormal.fandom.com/wiki/Dagan",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Meu Garoto (por Gal)",
+            "age": "22",
+            "relations": [
+                "Gal (Ídolo)"
+            ],
+            "occupation": [
+                "Ocultista",
+                "Escripta"
+            ],
+            "association": [
+                "Ocultismo",
+                "Escriptas"
+            ],
+            "status": "Falecido",
+            "first_appearance": "Calamidade - Episódio 2 - \"Vingança\"",
+            "death": "Calamidade - Episódio 8 - \"Escolha\""
+        }
+    },
+    {
+        "nome": "Gregory",
+        "link": "https://ordemparanormal.fandom.com/wiki/Gregory",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Greg (por Dante)",
+            "age": "22",
+            "relations": [
+                "Kian (líder)",
+                "† Nubi (Irmã)"
+            ],
+            "occupation": [
+                "Ocultista",
+                "Escripta"
+            ],
+            "association": [
+                "Ocultismo",
+                "Escriptas"
+            ],
+            "status": "Falecido",
+            "first_appearance": [
+                "Desconjuração - Episódio 3 - \"Transcender\" (foto)",
+                "Desconjuração - Episódio 6 - \"Elizabeth\""
+            ],
+            "death": "Calamidade - Episódio 10 - \"Tempo\""
+        }
+    },
+    {
+        "nome": "Kian",
+        "link": "https://ordemparanormal.fandom.com/wiki/Kian",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "Kushim (nome original)",
+                "O Primeiro Ocultista[1]",
+                "Deus do Conhecimento",
+                "O Realizador da Calamidade",
+                "Mandraque Ângelo",
+                "Virgílio Scelto",
+                "Leonardo Gomes",
+                "Fernando Carvalho",
+                "Luciano Carvalho",
+                "Veritus",
+                "Léo (por Dante e Henri)",
+                "Lu (por Fernando)",
+                "Broxa (por Agatha",
+                "Dante e Joui)",
+                "Veríssimo (por Antônio)",
+                "Léozinho (por Henri)"
+            ],
+            "age": "4000",
+            "relations": [
+                "Escriptas (seguidores)"
+            ],
+            "class": "Ocultista",
+            "association": [
+                "Ocultismo",
+                "Escriptas",
+                "Ordo Calamitas (anteriormente)",
+                "Equipe Kian (líder; anteriormente)"
+            ],
+            "status": "Contido (no corpo de Luciano Carvalho)",
+            "first_appearance": [
+                "ARG de Desconjuração e Enigma do Medo (silhueta)",
+                "Desconjuração - Episódio 6 - \"Elizabeth\""
+            ]
+        }
+    },
+    {
+        "nome": "Nergal",
+        "link": "https://ordemparanormal.fandom.com/wiki/Nergal",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "occupation": [
+                "Ocultista",
+                "Escripta"
+            ],
+            "association": [
+                "Ocultismo",
+                "Escriptas"
+            ],
+            "status": "Falecido",
+            "death": "Desconjuração - Episódio 5 - \"Escriptas\""
+        }
+    },
+    {
+        "nome": "Nubi",
+        "link": "https://ordemparanormal.fandom.com/wiki/Nubi",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "age": "22",
+            "relations": [
+                "† Mick Vultz (discípulo)",
+                "† Gregory (irmão)",
+                "Kian (líder)"
+            ],
+            "occupation": [
+                "Ocultista",
+                "Escripta"
+            ],
+            "affinity": "death",
+            "association": [
+                "Ocultismo",
+                "Escriptas"
+            ],
+            "status": "Falecida",
+            "first_appearance": [
+                "Desconjuração - Episódio 3 - \"Transcender\" (foto)",
+                "Desconjuração - Episódio 6 - \"Elizabeth\""
+            ],
+            "death": "Calamidade - Episódio 10 - \"Tempo\""
+        }
+    },
+    {
+        "nome": "Rana",
+        "link": "https://ordemparanormal.fandom.com/wiki/Rana",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "occupation": [
+                "Ocultista",
+                "Escripta"
+            ],
+            "affinity": "Energia",
+            "association": [
+                "Ocultismo",
+                "Escriptas"
+            ],
+            "status": "Falecida",
+            "first_appearance": [
+                "Desconjuração - Episódio 3 - \"Transcender\" (foto)",
+                "Desconjuração - Episódio 6 - \"Elizabeth\""
+            ],
+            "death": "Calamidade - Episódio 2 - \"Vingança\""
+        }
+    },
+    {
+        "nome": "Dominic Sy Pierre",
+        "link": "https://ordemparanormal.fandom.com/wiki/Dominic_Sy_Pierre",
+        "data": {
+            "interpreter": "Richard \"Abelha\"",
+            "nickname": [
+                "Dominix (por Antônio)",
+                "Cabeludo (por Antônio)",
+                "Dom (por Yuki)",
+                "O da foice (por Arthur)"
+            ],
+            "relations": [
+                "Yuki Saito (melhor amiga)"
+            ],
+            "occupation": "Ocultista",
+            "affinity": "Conhecimento",
+            "origin": "Mercenário",
+            "class": "Combatente",
+            "trail": "Robusto",
+            "association": [
+                "Ocultismo",
+                "Obscurité"
+            ],
+            "status": "Vivo",
+            "first_appearance": "Calamidade - Episódio 10 - \"Tempo\""
+        }
+    },
+    {
+        "nome": "Marc Menet",
+        "link": "https://ordemparanormal.fandom.com/wiki/Marc_Menet",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "relations": [
+                "Désirée Menet (irmã)"
+            ],
+            "occupation": "Ocultista",
+            "class": "Ocultista",
+            "association": [
+                "Ocultismo",
+                "Obscurité",
+                "Ordo Realitas"
+            ],
+            "status": "Vivo",
+            "first_appearance": "Calamidade - Episódio 1 - \"O Começo do Fim\""
+        }
+    },
+    {
+        "nome": "Yuki Saito",
+        "link": "https://ordemparanormal.fandom.com/wiki/Yuki_Saito",
+        "data": {
+            "interpreter": "Camila \"Kalera\" Vieira",
+            "nickname": [
+                "Yugi (por Antônio)",
+                "Moça Ótica/Gótica (por Antônio)",
+                "Mademoiselle (por Dominic)",
+                "Gótica (por Arthur)"
+            ],
+            "relations": [
+                "Dominic Sy Pierre (melhor amigo)"
+            ],
+            "occupation": "Ocultista",
+            "affinity": "Conhecimento",
+            "class": "Ocultista",
+            "trail": "de Combate",
+            "association": [
+                "Ocultismo",
+                "Obscurité"
+            ],
+            "status": "Viva",
+            "first_appearance": "Calamidade - Episódio 10 - \"Tempo\""
+        }
+    },
+    {
+        "nome": "Jorge",
+        "link": "https://ordemparanormal.fandom.com/wiki/Jorge_(Ocultista)",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "relations": [
+                "† Sidney Souza (líder)",
+                "† Osvaldo (amigo)",
+                "† Ocultistas do Edifício Novo Amanhecer (aliados)"
+            ],
+            "occupation": "Ocultista",
+            "association": [
+                "Ocultismo",
+                "Ocultistas do Edifício Novo Amanhecer"
+            ],
+            "status": "Falecido",
+            "first_appearance": "Desconjuração - Episódio 2 - \"Sangue\"",
+            "death": "Desconjuração - Episódio 2 - \"Sangue\""
+        }
+    },
+    {
+        "nome": "Paula Verdante",
+        "link": "https://ordemparanormal.fandom.com/wiki/Paula_Verdante",
+        "data": {
+            "nickname": "A Fazendeira (em Santo Berço)",
+            "age": "37",
+            "relations": [
+                "? Olavo Verdante (pai)",
+                "? Laila Verdante (parente)",
+                "† Eric Jour (ex-aliado)",
+                "† Eva van Gloss (aliada)",
+                "† Valter Luz (aliado)",
+                "† Mick Vultz (aliado)"
+            ],
+            "occupation": [
+                "Zoóloga",
+                "Cientista",
+                "Engenheira Agrônoma",
+                "Ex-gerente da Produtos Verdante",
+                "Fazendeira de Santo Berço"
+            ],
+            "association": [
+                "Ocultismo",
+                "Os Cinco Guardiões"
+            ],
+            "status": "Falecida",
+            "first_appearance": "O Segredo na Floresta - Episódio 14 - \"A Porta\" (foto)",
+            "death": "Faleceu antes dos eventos de OSNF"
+        }
+    },
+    {
+        "nome": "Abraão Strach",
+        "link": "https://ordemparanormal.fandom.com/wiki/Abra%C3%A3o_Strach",
+        "data": {
+            "interpreter": "Francisco Junior",
+            "age": "Desconhecida",
+            "relations": [
+                "Andrea Strach (esposa)",
+                "Golias Strach (filho)",
+                "Thiana Strach (mãe)",
+                "Yuri Strach (irmão)",
+                "Jaser Strach (sobrinho)",
+                "Marco Strach (pai)"
+            ],
+            "association": "Família Strach",
+            "status": "Falecido",
+            "first_appearance": [
+                "Trailer de Enigma do Medo (escultura)",
+                "Enigma do Medo (flashback)"
+            ]
+        }
+    },
+    {
+        "nome": "Andrea Strach",
+        "link": "https://ordemparanormal.fandom.com/wiki/Andrea_Strach",
+        "data": {
+            "interpreter": "Luciana D'Aulizio",
+            "age": "Desconhecida",
+            "relations": [
+                "Abraão Strach (marido)",
+                "Golias Strach (filho)",
+                "Thiana Strach (sogra)",
+                "Marco Strach (sogro)",
+                "Yuri Strach (cunhado e amante)",
+                "Jaser Strach (filho)"
+            ],
+            "association": "Família Strach",
+            "status": "Falecida",
+            "first_appearance": "Enigma do Medo (flashback)"
+        }
+    },
+    {
+        "nome": "Golias Strach",
+        "link": "https://ordemparanormal.fandom.com/wiki/Golias_Strach",
+        "data": {
+            "interpreter": "Raphael Curan",
+            "nickname": "Toupeira imunda (por Abraão Strach)",
+            "age": "Desconhecido",
+            "relations": [
+                "Abraão Strach (pai)",
+                "Andrea Strach (mãe)",
+                "Thiana Strach (avó)",
+                "Marco Strach (avô)",
+                "Yuri Strach (tio)",
+                "Jaser Strach (meio-irmão)"
+            ],
+            "association": "Família Strach",
+            "status": "Falecido",
+            "first_appearance": "Enigma do Medo (flashback)"
+        }
+    },
+    {
+        "nome": "Jaser Strach",
+        "link": "https://ordemparanormal.fandom.com/wiki/Jaser_Strach",
+        "data": {
+            "interpreter": "Raphael Rossatto",
+            "nickname": [
+                "O Desassombrado",
+                "Pequeno (por Sofia)",
+                "Magrelo Estranho (por Mia)",
+                "Jota (por Samuel)"
+            ],
+            "age": "34",
+            "relations": [
+                "Abraão Strach (tio)",
+                "Andrea Strach (mãe)",
+                "Thiana Strach (avó)",
+                "Marco Strach (avô)",
+                "Golias Strach (meio-irmão)",
+                "Yuri Strach (pai)"
+            ],
+            "association": [
+                "Família Strach",
+                "Culto do Medo"
+            ],
+            "status": "Não Existe"
+        }
+    },
+    {
+        "nome": "Thiana Strach",
+        "link": "https://ordemparanormal.fandom.com/wiki/Thiana_Strach",
+        "data": {
+            "interpreter": "Camila \"Kalera\" Vieira",
+            "age": "Desconhecida",
+            "relations": [
+                "Marco Strach (marido)",
+                "Abraão Strach (filho)",
+                "Andrea Strach (nora)",
+                "Golias Strach (neto)",
+                "Yuri Strach (filho)",
+                "Jaser Strach (neto)"
+            ],
+            "association": "Família Strach",
+            "status": "Falecida",
+            "first_appearance": [
+                "Trailer de Gameplay de Enigma do Medo (espectro)",
+                "Enigma do Medo (flashback)"
+            ]
+        }
+    },
+    {
+        "nome": "Yuri Strach",
+        "link": "https://ordemparanormal.fandom.com/wiki/Yuri_Strach",
+        "data": {
+            "interpreter": "Marcos Castro",
+            "age": "Desconhecida",
+            "relations": [
+                "Abraão Strach (irmão)",
+                "Andrea Strach (cunhada e amante)",
+                "Thiana Strach (mãe)",
+                "Marco Strach (pai)",
+                "Golias Strach (sobrinho)",
+                "Jaser Strach (filho)"
+            ],
+            "association": "Família Strach",
+            "status": "Falecido",
+            "first_appearance": "Enigma do Medo (flashback)"
+        }
+    },
+    {
+        "nome": "Nathaniel",
+        "link": "https://ordemparanormal.fandom.com/wiki/Nathaniel",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Beijoqueiro",
+            "relations": [
+                ""
+            ],
+            "occupation": [
+                "Ocultista",
+                "Membro das Máscaras (temporariamente)"
+            ],
+            "association": [
+                "Ocultismo",
+                "Seita das Máscaras (temporariamente)"
+            ],
+            "status": "Desconhecido",
+            "first_appearance": "Desconjuração - Episódio 4 - \"Orfanato\""
+        }
+    },
+    {
+        "nome": "Rodolfo",
+        "link": "https://ordemparanormal.fandom.com/wiki/Rodolfo_(Assombrado)",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "Velhote (por Cesar)",
+                "Senhor Rodolfo (por Eric)"
+            ],
+            "age": "60",
+            "relations": [
+                "Arthur Cervero (rival)",
+                "† Brúlio Cervero (rival e antigo amigo)",
+                "† Assombrados (gangue)",
+                "† Gaudérios Abutres (gangue rival)"
+            ],
+            "occupation": [
+                "Membro dos Gaudérios Abutres (anteriormente)",
+                "Motoqueiro",
+                "Líder dos Assombrados"
+            ],
+            "association": [
+                "Gaudérios Abutres (anteriormente)",
+                "Assombrados",
+                "Ocultismo"
+            ],
+            "status": "Falecido",
+            "first_appearance": "O Segredo na Floresta - Episódio 5 - \"A Casa\"",
+            "death": "O Segredo na Floresta - Episódio 5 - \"A Casa\""
+        }
+    },
+    {
+        "nome": "Carol",
+        "link": "https://ordemparanormal.fandom.com/wiki/Carol_(gar%C3%A7onete)",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "relations": [
+                "Letício (amigo)",
+                "Bianca (amiga)",
+                "Equipe E (clientes)",
+                "Equipe Kelvin (clientes)"
+            ],
+            "occupation": "Garçonete da Gasparzinho Lanches",
+            "status": "Viva",
+            "first_appearance": "O Segredo na Floresta - Episódio 4 - \"Despedida\""
+        }
+    },
+    {
+        "nome": "Luciene Costa",
+        "link": "https://ordemparanormal.fandom.com/wiki/Luciene_Costa",
+        "data": {
+            "age": "27",
+            "relations": [
+                "† Dr. Verruckt (chefe de trabalho)",
+                "† Virgulino Batista (ex-colega de trabalho)"
+            ],
+            "occupation": [
+                "Faxineira na Biblioteca de Carpazinha (anteriormente)",
+                "Enfermeira-Chefe no Sanatório de Pequena Carpa"
+            ],
+            "status": "Falecida",
+            "death": "Faleceu antes dos eventos de OSNF"
+        }
+    },
+    {
+        "nome": "Antigo Hoteleiro",
+        "link": "https://ordemparanormal.fandom.com/wiki/Antigo_Hoteleiro",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "relations": [
+                "† O Hoteleiro (filho)"
+            ],
+            "occupation": "Hoteleiro de Santo Berço",
+            "association": "Assombrados (anteriormente)",
+            "status": "Falecido",
+            "first_appearance": "O Segredo na Floresta - Episódio 15 - \"Manancial\" (passado/flashback)",
+            "death": "Faleceu antes dos eventos atuais de OSNF"
+        }
+    },
+    {
+        "nome": "Antigo Porteiro",
+        "link": "https://ordemparanormal.fandom.com/wiki/Antigo_Porteiro",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "age": "40",
+            "relations": [
+                "† A Ferreira (amiga)"
+            ],
+            "occupation": "Porteiro de Santo Berço",
+            "status": "Falecido",
+            "first_appearance": "O Segredo na Floresta - Episódio 15 - \"Manancial\" (passado/flashback)",
+            "death": "Faleceu antes dos eventos atuais de OSNF"
+        }
+    },
+    {
+        "nome": "O Ajudante",
+        "link": "https://ordemparanormal.fandom.com/wiki/O_Ajudante",
+        "data": {
+            "interpreter": "Felipe \"Felps\" Zaghetti",
+            "nickname": "Senhor Guia (por Thiago)",
+            "age": "20",
+            "relations": [
+                "† O Doutor (pai)",
+                "† O Porteiro (melhor amigo)",
+                "† O Coletor (melhor amigo)",
+                "† A Enfermeira (amiga/interesse romântico)",
+                "† O Ferreiro (mentor)"
+            ],
+            "occupation": "Ajudante do Ferreiro de Santo Berço",
+            "status": "Falecido",
+            "first_appearance": "O Segredo na Floresta - Episódio 9 - \"Santo Berço\"",
+            "death": "O Segredo na Floresta - Episódio 9 - \"Santo Berço\""
+        }
+    },
+    {
+        "nome": "O Ferreiro",
+        "link": "https://ordemparanormal.fandom.com/wiki/O_Ferreiro",
+        "data": {
+            "interpreter": [
+                "Rafael “Cellbit” Lange (como Ferreiro)",
+                "Thiago \"Calango\" Elias (como Miguel)"
+            ],
+            "nickname": [
+                "Miguel Cariad (nome original)",
+                "O Ajudante (anteriormente)",
+                "Ferreiro-san (por Joui)"
+            ],
+            "age": "66",
+            "relations": [
+                "† O Ajudante (auxiliar)",
+                "† O Minerador (melhor amigo)",
+                "† O Tecelão (amigo)",
+                "† O Taverneiro (amigo)",
+                "† O Doutor (amigo)",
+                "† O Hoteleiro (amigo)",
+                "† A Fazendeira (amiga)",
+                "† O Porteiro (filho)",
+                "† A Ferreira (esposa/amante)",
+                "† Mariana Larona (ex-melhor amiga)",
+                "† Kenan Thomas (ex-melhor amigo)",
+                "† Mananciais (filhos)"
+            ],
+            "occupation": [
+                "Líder/Ferreiro de Santo Berço",
+                "Fisiculturista (anteriormente)",
+                "Investigador Paranormal (anteriormente)",
+                "Ajudante da Ferreira de Santo Berço (anteriormente)"
+            ],
+            "association": [
+                "Ordo Realitas (anteriormente)",
+                "Equipe Kelvin (anteriormente)",
+                "Santo Berço"
+            ],
+            "status": "Falecido",
+            "first_appearance": [
+                "O Segredo na Floresta - Episódio 9 - \"Santo Berço\" (Ferreiro)",
+                "O Segredo na Floresta - Episódio 15 - \"Manancial\" (Miguel)"
+            ],
+            "death": "O Segredo na Floresta - Episódio 16 - \"Equipe E\""
+        }
+    },
+    {
+        "nome": "O Hoteleiro",
+        "link": "https://ordemparanormal.fandom.com/wiki/O_Hoteleiro",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "O Filho do Hoteleiro",
+                "Filho (por Miguel)",
+                "Criança (por Mariana)",
+                "Ajudante do Hotel (por Kenan)",
+                "Grandão (por Miguel)[1]",
+                "Pequeno (por Kenan)",
+                "Hoteleiro-san (por Joui)"
+            ],
+            "age": "6",
+            "relations": [
+                "† Antigo Hoteleiro (pai)",
+                "† O Ferreiro (amigo)",
+                "† O Porteiro (amigo)",
+                "† A Fazendeira (amigo)",
+                "† O Doutor (amigo)",
+                "† O Taverneiro (amigo)",
+                "† O Minerador (amigo)",
+                "Equipe E (conhecidos)"
+            ],
+            "occupation": "Hoteleiro de Santo Berço",
+            "status": "Falecido",
+            "first_appearance": "O Segredo na Floresta - Episódio 10 - \"Hotel\"",
+            "death": "O Segredo na Floresta - Episódio 16 - \"Equipe E\""
+        }
+    },
+    {
+        "nome": "O Minerador",
+        "link": "https://ordemparanormal.fandom.com/wiki/O_Minerador",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "O Ajudante da Ferreira (anteriormente)",
+            "age": "50",
+            "relations": [
+                "† O Ferreiro (melhor amigo)",
+                "† A Ferreira (mentora e amiga)",
+                "† O Tecelão (amigo)",
+                "† O Taverneiro (amigo)"
+            ],
+            "occupation": [
+                "Minerador de Santo Berço",
+                "Ajudante da Ferreira de Santo Berço (anteriormente)",
+                "Ferreiro/Líder de Santo Berço (quando a Ferreira está em peregrinação)"
+            ],
+            "status": "Falecido",
+            "first_appearance": "O Segredo na Floresta - Episódio 9 - \"Santo Berço\"",
+            "death": "O Segredo na Floresta - Episódio 13 - \"A Caverna\""
+        }
+    },
+    {
+        "nome": "O Porteiro",
+        "link": "https://ordemparanormal.fandom.com/wiki/O_Porteiro",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "O Manancial (anteriormente)",
+                "O Ajudante do Porteiro (anteriormente)",
+                "Guri (pelo Minerador)",
+                "O Excluído (pelo Minerador)"
+            ],
+            "age": "23",
+            "relations": [
+                "† O Ferreiro (pai)",
+                "† A Ferreira (mãe)",
+                "† Mananciais (irmãos)",
+                "† O Ajudante (melhor amigo)",
+                "† O Coletor (melhor amigo)",
+                "Equipe E (aliados)"
+            ],
+            "occupation": [
+                "Manancial (anteriormente)",
+                "Ajudante do Porteiro de Santo Berço (anteriormente)",
+                "Porteiro de Santo Berço"
+            ],
+            "status": "Falecido",
+            "first_appearance": "O Segredo na Floresta - Episódio 9 - \"Santo Berço\"",
+            "death": "O Segredo na Floresta - Episódio 14 - \"A Porta\""
+        }
+    },
+    {
+        "nome": "Elizabella",
+        "link": "https://ordemparanormal.fandom.com/wiki/Elizabella",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Isabela[1]",
+            "age": "20",
+            "occupation": "Policial",
+            "association": "Polícia Federal",
+            "status": "Viva",
+            "first_appearance": "A Ordem Paranormal - Episódio 1 - \"Episódio 1\""
+        }
+    },
+    {
+        "nome": "Gonzales Medina",
+        "link": "https://ordemparanormal.fandom.com/wiki/Gonzales_Medina",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "Oficial Gonzales",
+                "Oficial Medina",
+                "Gonzalão (por Thiago)[1]"
+            ],
+            "age": "30",
+            "relations": [
+                "? Bolinho (animal de estimação)",
+                "Brian Medina (primo)",
+                "Dorotéia (esposa)",
+                "Douglas (colega)",
+                "† Thiago Fritz (amigo)"
+            ],
+            "occupation": "Policial",
+            "association": "Polícia Federal",
+            "status": "Falecido",
+            "first_appearance": "A Ordem Paranormal - Episódio 1 - \"Episódio 1\"",
+            "death": "A Ordem Paranormal - Episódio 1 - \"Episódio 1\""
+        }
+    },
+    {
+        "nome": "Jorge",
+        "link": "https://ordemparanormal.fandom.com/wiki/Jorge",
+        "data": {
+            "age": "50",
+            "relations": [
+                "Wesleynardo (amigo)"
+            ],
+            "occupation": "Bombeiro de São Paulo",
+            "status": "Falecido",
+            "first_appearance": "A Ordem Paranormal - Episódio 1 - \"Episódio 1\" (corpo)",
+            "death": "Faleceu antes dos eventos de AOP"
+        }
+    },
+    {
+        "nome": "Fernanda Pinto",
+        "link": "https://ordemparanormal.fandom.com/wiki/Fernanda_Pinto",
+        "data": {
+            "age": "15",
+            "occupation": "Estudante do ensino médio na Escola Nostradamus de Ensino Médio",
+            "status": "Falecida",
+            "first_appearance": "A Ordem Paranormal - Episódio 1 - \"Episódio 1\" (foto)",
+            "death": "Faleceu antes dos eventos de AOP"
+        }
+    },
+    {
+        "nome": "Gabriel Opspor",
+        "link": "https://ordemparanormal.fandom.com/wiki/Gabriel_Opspor",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "age": "15",
+            "relations": [
+                "Giovanni Opspor (pai)",
+                "Victoria Opspor (mãe)",
+                "Geraldinho (animal de estimação)",
+                "Nanci (empregada)",
+                "† Lina Kunsti (namorada)",
+                "Matheus Geleerd (amigo)",
+                "† Gustavo (amigo)",
+                "Agatha Volkomenn (colega)"
+            ],
+            "occupation": "Estudante do ensino médio na Escola Nostradamus de Ensino Médio",
+            "status": "Falecido (no antigo corpo de Agatha Volkomenn)",
+            "first_appearance": "A Ordem Paranormal - Episódio 1 - \"Episódio 1\" (vídeo)",
+            "death": "Faleceu antes dos eventos de AOP"
+        }
+    },
+    {
+        "nome": "Mandy",
+        "link": "https://ordemparanormal.fandom.com/wiki/Mandy",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "relations": [
+                "† Alexandre (amigo)",
+                "Dara Alice Venturini (amiga)",
+                "Francisco Albuquerque (amigo)",
+                "Guilherme Santos (amigo; interesse amoroso)",
+                "Lírio Tellini (amigo)",
+                "† Morato Vertaler (amigo)",
+                "? Vicente Santos (colega)"
+            ],
+            "occupation": "Garçonete",
+            "association": "Café's Pizzaria",
+            "status": "Viva",
+            "first_appearance": "Sinais do Outro Lado - Episódio 1 - \"Alheios\""
+        }
+    },
+    {
+        "nome": "Vicente Santos",
+        "link": "https://ordemparanormal.fandom.com/wiki/Vicente_Santos",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "V (por Alexandre)",
+            "relations": [
+                "† Alexandre (amigo)",
+                "Dara Alice Venturini (amiga)",
+                "Francisco Albuquerque (amigo)",
+                "Guilherme Santos (amigo)",
+                "Lírio Tellini (amigo)",
+                "Mandy (colega)",
+                "Morato Vertaler (amigo)"
+            ],
+            "occupation": "Pizzaiolo",
+            "association": "Café's Pizzaria",
+            "status": "Desconhecido",
+            "first_appearance": "Sinais do Outro Lado - Episódio 1 - \"Alheios\""
+        }
+    },
+    {
+        "nome": "Camilo",
+        "link": "https://ordemparanormal.fandom.com/wiki/Camilo",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "status": "Vivo",
+            "first_appearance": [
+                "Desconjuração - Episódio 21 - \"Revelando a Desconjuração\"",
+                "Calamidade - Episódio 1 - \"O Começo do Fim\""
+            ]
+        }
+    },
+    {
+        "nome": "Geraldo Schmia",
+        "link": "https://ordemparanormal.fandom.com/wiki/Geraldo_Schmia",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Seu Schmia (por Thiago)[1]",
+            "age": "60",
+            "relations": [
+                "† Mulher sem nome (esposa)",
+                "Rogério (animal de estimação)",
+                "Giovanni Opspor (chefe)"
+            ],
+            "occupation": "Segurança da Filial da Construtora Opspor",
+            "association": "Construtora Opspor",
+            "status": "Vivo",
+            "first_appearance": "A Ordem Paranormal - Episódio 1 - \"Episódio 1\""
+        }
+    },
+    {
+        "nome": "Jeremias",
+        "link": "https://ordemparanormal.fandom.com/wiki/Jeremias",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Jerônimo (Por Kaiser)",
+            "status": "Vivo",
+            "first_appearance": "Desconjuração - Episódio 2 - \"Sangue\""
+        }
+    },
+    {
+        "nome": "Olavo Verdante",
+        "link": "https://ordemparanormal.fandom.com/wiki/Olavo_Verdante",
+        "data": {
+            "age": "70",
+            "relations": [
+                "† Paula Verdante (filha)",
+                "? Laila Verdante (parente)"
+            ],
+            "occupation": "Proprietário da Produtos Verdante",
+            "association": "Produtos Verdante",
+            "status": "Desconhecido",
+            "first_appearance": "O Segredo na Floresta - Episódio 7 - \"Cemitério\" (menção)"
+        }
+    },
+    {
+        "nome": "Rodolfo",
+        "link": "https://ordemparanormal.fandom.com/wiki/Rodolfo_(ginasta)",
+        "data": {
+            "age": "18",
+            "relations": [
+                "† Joui Jouki (amigo)",
+                "† Mateo (amigo)",
+                "† Taka (amigo)"
+            ],
+            "occupation": "Ginasta Olímpico",
+            "status": "Falecido",
+            "first_appearance": "Página 175 de Iniciação",
+            "death": "Página 6 de OSNF - Pt. 1"
+        }
+    },
+    {
+        "nome": "Fátima Mare",
+        "link": "https://ordemparanormal.fandom.com/wiki/F%C3%A1tima_Mare",
+        "data": {
+            "nickname": "Mulher Afogada",
+            "age": "40",
+            "relations": [
+                "† Heitor Mare (marido)",
+                "† Álvaro Augusto (amante)",
+                "Leonardo Gomes (filho adotivo)",
+                "Frederico Mare (filho adotivo/assassino)"
+            ],
+            "occupation": "Professora de Inglês",
+            "status": "Falecida",
+            "first_appearance": "Desconjuração - Episódio 19 - \"Tirigan\" (foto)",
+            "death": "Faleceu antes dos eventos de OPD"
+        }
+    },
+    {
+        "nome": "Tim Flom",
+        "link": "https://ordemparanormal.fandom.com/wiki/Tim_Flom",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Pequeno (por Gal)",
+            "age": "11",
+            "relations": [
+                "Janaina Flom (mãe)",
+                "Eduarda Flom (irmã mais velha)",
+                "† Tirigan (amigo)"
+            ],
+            "status": "Vivo",
+            "first_appearance": "Desconjuração - Episódio 10 - \"Fotografias\""
+        }
+    },
+    {
+        "nome": "Evandro Eiland",
+        "link": "https://ordemparanormal.fandom.com/wiki/Evandro_Eiland",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Seu Evandro",
+            "age": "57",
+            "relations": [
+                "† Olga Eiland (Mãe)",
+                "Návia Eiland (irmã)",
+                "† Camilo S. Eiland (ancestral)",
+                "† Martina Eiland (ancestral)",
+                "† Otávio Nemiera (aprendiz)"
+            ],
+            "occupation": "Delegado",
+            "status": "Vivo",
+            "first_appearance": "O Segredo na Ilha - Episódio 1 - \"Tipora\""
+        }
+    },
+    {
+        "nome": "Otávio Nemiera",
+        "link": "https://ordemparanormal.fandom.com/wiki/Ot%C3%A1vio_Nemiera",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Otavinho (por Adrian)",
+            "age": "23",
+            "relations": [
+                "Jefferson Nemiera (pai)",
+                "Valéria Nemiera (mãe)",
+                "Pedro Nemiera (irmão)",
+                "Vitor Nemiera (irmão)",
+                "† Armando Nemiera (ancestral)",
+                "† Diamantino Nemiera (ancestral)",
+                "Evandro Eiland (mentor)"
+            ],
+            "occupation": "Policial",
+            "status": "Falecido",
+            "first_appearance": "O Segredo na Ilha - Episódio 2 - \"Praia\"",
+            "death": "O Segredo na Ilha - Episódio 8 - \"Florence\""
+        }
+    },
+    {
+        "nome": "Adrian Vurtoren",
+        "link": "https://ordemparanormal.fandom.com/wiki/Adrian_Vurtoren",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "Seu Adrian (por Wanderley)",
+                "Adriano (por Amelie)",
+                "Tio Adrian (por Amora)"
+            ],
+            "age": "51",
+            "relations": [
+                "† Amora Aleno (filha)",
+                "† Barnabé Aleno (cunhado)",
+                "† Berenice Aleno (esposa)",
+                "† William Vurtoren (avô)",
+                "† Roberto Vurtoren (pai)",
+                "? Constantino Moretti (parente)",
+                "† Celestino Vurtoren (tio)",
+                "† Milo Castello (amigo)"
+            ],
+            "occupation": "Barqueiro",
+            "status": "Vivo",
+            "first_appearance": "O Segredo na Ilha - Episódio 1 - \"Tipora\""
+        }
+    },
+    {
+        "nome": "Amora Aleno",
+        "link": "https://ordemparanormal.fandom.com/wiki/Amora_Aleno",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Amorinha",
+            "age": "12",
+            "relations": [
+                "Adrian Vurtoren (pai biológico)",
+                "† Berenice Aleno (mãe biológica)",
+                "† Barnabé Aleno (tio/pai adotivo)",
+                "† Milo Castello (amigo)",
+                "Bisteca (gato/amigo)",
+                "Ian Suna (amigo)",
+                "Olivier Florence (amigo)",
+                "† Celestino Vurtoren (Tio avô)",
+                "? Constantino Moretti (parente)"
+            ],
+            "status": "Falecida",
+            "first_appearance": "O Segredo na Ilha - Episódio 1 - \"Tipora\"",
+            "death": "O Segredo na Ilha - Episódio 8 - \"Florence\""
+        }
+    },
+    {
+        "nome": "Barnabé Aleno",
+        "link": "https://ordemparanormal.fandom.com/wiki/Barnab%C3%A9_Aleno",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Barbé (por Lívia)",
+            "age": "56",
+            "relations": [
+                "† Amora Aleno (sobrinha/filha adotiva)",
+                "† Berenice Aleno (irmã)",
+                "Adrian Vurtoren (cunhado)"
+            ],
+            "occupation": "Mercador",
+            "association": "Ocultismo",
+            "status": "Falecido",
+            "first_appearance": "O Segredo na Ilha - Episódio 1 - \"Tipora\"",
+            "death": "O Segredo na Ilha - Episódio 8 - \"Florence\""
+        }
+    },
+    {
+        "nome": "Celestino Vurtoren",
+        "link": "https://ordemparanormal.fandom.com/wiki/Celestino_Vurtoren",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "Farolete (por Amelie)",
+                "Velho Louco (por Amelie",
+                "Olivier e Milo)",
+                "Farofeiro (por Milo)"
+            ],
+            "age": "70",
+            "relations": [
+                "† William Vurtoren (pai)",
+                "† Roberto Vurtoren (irmão)",
+                "Adrian Vurtoren (sobrinho)",
+                "? Constantino Moretti (parente)"
+            ],
+            "occupation": "Faroleiro",
+            "status": "Falecido",
+            "first_appearance": "O Segredo na Ilha - Episódio 1 - \"Tipora\"",
+            "death": "O Segredo na Ilha - Episódio 5 - \"Penhasco\""
+        }
+    },
+    {
+        "nome": "Constantino Moretti",
+        "link": "https://ordemparanormal.fandom.com/wiki/Constantino_Moretti",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "O Pintor",
+            "relations": [
+                "† Noralma Moretti (esposa)",
+                "Ângelo Moretti (ancestral)",
+                "Família Vurtoren (parente)"
+            ],
+            "occupation": "Pintor",
+            "status": "Desconhecido",
+            "first_appearance": "O Segredo na Ilha - Episódio 1 - \"Tipora\" (retrato)"
+        }
+    },
+    {
+        "nome": "Helena Gama",
+        "link": "https://ordemparanormal.fandom.com/wiki/Helena_Gama",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Heleninha (por Bárbara e Barnabé)",
+            "age": "25",
+            "relations": [
+                "† Rayssa Gama (ancestral)",
+                "† Vagner Freitas (amigo)",
+                "† Bárbara Lima (amiga)"
+            ],
+            "occupation": "Alfaiate",
+            "status": "Viva",
+            "first_appearance": "O Segredo na Ilha - Episódio 2 - \"Praia\""
+        }
+    },
+    {
+        "nome": "Jefferson Nemiera",
+        "link": "https://ordemparanormal.fandom.com/wiki/Jefferson_Nemiera",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "age": "52",
+            "relations": [
+                "Valéria Nemiera (esposa)",
+                "† Otávio Nemiera (filho)",
+                "Pedro Nemiera (filho)",
+                "Vitor Nemiera (filho)",
+                "† Armando Nemiera (ancestral)",
+                "† Diamantino Nemiera (ancestral)"
+            ],
+            "occupation": "Pedreiro",
+            "status": "Vivo",
+            "first_appearance": "O Segredo na Ilha - Episódio 1 - \"Tipora\""
+        }
+    },
+    {
+        "nome": "Noralma Moretti",
+        "link": "https://ordemparanormal.fandom.com/wiki/Noralma_Moretti",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "Noiva Fantasma",
+                "Aquela-que-não-deve-ser-nomeada/falada (por Amelie)",
+                "Minha Luz (por Tobias)"
+            ],
+            "age": "35",
+            "relations": [
+                "? Constantino Moretti (marido)",
+                "Fátima Santino (mãe)",
+                "Josué Reiziger (pai)"
+            ],
+            "occupation": "Exploradora e Historiadora",
+            "status": "Falecida",
+            "first_appearance": "O Segredo na Ilha - Episódio 1 - \"Tipora\" (retrato)",
+            "death": "Faleceu antes dos eventos de OSNI"
+        }
+    },
+    {
+        "nome": "Pedro Nemiera",
+        "link": "https://ordemparanormal.fandom.com/wiki/Pedro_Nemiera",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "Pedrinho",
+                "Dono da Ilha",
+                "Capetinha (por Amelie)",
+                "Reizinho da Ilha (por Milo)",
+                "Presidente da Ilha (por Olivier)"
+            ],
+            "age": "18",
+            "relations": [
+                "Jefferson Nemiera (pai)",
+                "Valéria Nemiera (mãe)",
+                "† Otávio Nemiera (irmão)",
+                "Vitor Nemiera (irmão)",
+                "† Armando Nemiera (ancestral)",
+                "† Diamantino Nemiera (ancestral)"
+            ],
+            "status": "Vivo",
+            "first_appearance": "O Segredo na Ilha - Episódio 1 - \"Tipora\""
+        }
+    },
+    {
+        "nome": "Valéria Nemiera",
+        "link": "https://ordemparanormal.fandom.com/wiki/Val%C3%A9ria_Nemiera",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "relations": [
+                "Jefferson Nemiera (esposo)",
+                "† Otávio Nemiera (filho)",
+                "Pedro Nemiera (filho)",
+                "Vitor Nemiera (filho)"
+            ],
+            "occupation": "Professora",
+            "status": "Viva",
+            "first_appearance": "O Segredo na Ilha - Episódio 1 - \"Tipora\""
+        }
+    },
+    {
+        "nome": "Vitor Nemiera",
+        "link": "https://ordemparanormal.fandom.com/wiki/Vitor_Nemiera",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Vitinho",
+            "age": "15",
+            "relations": [
+                "Jefferson Nemiera (pai)",
+                "Valéria Nemiera (mãe)",
+                "† Otávio Nemiera (irmão)",
+                "Pedro Nemiera (irmão)",
+                "† Armando Nemiera (ancestral)",
+                "† Diamantino Nemiera (ancestral)"
+            ],
+            "status": "Vivo",
+            "first_appearance": "O Segredo na Ilha - Episódio 1 - \"Tipora\""
+        }
+    },
+    {
+        "nome": "Angelina Florence",
+        "link": "https://ordemparanormal.fandom.com/wiki/Angelina_Florence",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Angelica (por Wanderley)",
+            "relations": [
+                "Montel Florence (esposo)",
+                "Olivier Florence (filho)",
+                "Amelie Florence (filha)"
+            ],
+            "occupation": "Modelo",
+            "status": "Viva",
+            "first_appearance": "O Segredo na Ilha - Episódio 1 - \"Tipora\""
+        }
+    },
+    {
+        "nome": "Montel Florence",
+        "link": "https://ordemparanormal.fandom.com/wiki/Montel_Florence",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "O Francês (por Cavalcante)",
+            "relations": [
+                "Angelina Florence (esposa)",
+                "Olivier Florence (filho)",
+                "Amelie Florence (filha)"
+            ],
+            "occupation": "Analista de arte",
+            "status": "Vivo",
+            "first_appearance": "O Segredo na Ilha - Episódio 1 - \"Tipora\""
+        }
+    },
+    {
+        "nome": "Morato Vertaler",
+        "link": "https://ordemparanormal.fandom.com/wiki/Morato_Vertaler",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Homem/Moço da Antena (por Adágio e Alberta)",
+            "age": "34",
+            "relations": [
+                "† Alexandre (pupilo/amigo)",
+                "Arnaldo Fritz (amigo)",
+                "Calisto Besatt (amigo)",
+                "Dara Alice Venturini (pupila/amiga)",
+                "Francisco Albuquerque (pupilo/amigo)",
+                "Guilherme Santos (pupilo/amigo)",
+                "Lírio Tellini (pupilo/amigo)",
+                "† Voytek Nowak (pupilo/amigo)"
+            ],
+            "occupation": [
+                "Investigador Paranormal",
+                "Líder d'Os Cinco",
+                "Antenista (disfarce)"
+            ],
+            "association": [
+                "Ordo Realitas (anteriormente)",
+                "Os Cinco (líder)"
+            ],
+            "status": "Falecido",
+            "first_appearance": [
+                "Sinais do Outro Lado - Episódio 1 - \"Alheios\" (vídeo)",
+                "Sinais do Outro Lado - Episódio 6 - \"TV Varminho\""
+            ],
+            "death": "Sinais do Outro Lado - Episódio 7 - \"Transmissão\""
+        }
+    },
+    {
+        "nome": "Adágio Magal",
+        "link": "https://ordemparanormal.fandom.com/wiki/Ad%C3%A1gio_Magal_Benza",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "age": "48",
+            "relations": [
+                "Valmira Benza (mãe)",
+                "Alberta Magal Benza (esposa)",
+                "Luan Magal Benza (filho)",
+                "Donisvaldo Magal Benza (filho)"
+            ],
+            "occupation": "Fazendeiro",
+            "status": "Falecido",
+            "first_appearance": "Sinais do Outro Lado - Episódio 1 - \"Alheios\"",
+            "death": "Sinais do Outro Lado - Episódio 1 - \"Alheios\""
+        }
+    },
+    {
+        "nome": "Alberta Magal",
+        "link": "https://ordemparanormal.fandom.com/wiki/Alberta_Magal_Benza",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "Adalberta (por Lírio)",
+                "Amor (por Guizo)"
+            ],
+            "age": "45",
+            "relations": [
+                "Sebastião Magal (pai)",
+                "Soraia Magal (mãe)",
+                "† Adágio Magal Benza (esposo)",
+                "Luan Magal Benza (filho)",
+                "Donisvaldo Magal Benza (filho)"
+            ],
+            "occupation": "Fazendeira",
+            "status": "Viva (em 1997)",
+            "first_appearance": "Sinais do Outro Lado - Episódio 1 - \"Alheios\""
+        }
+    },
+    {
+        "nome": "Donisvaldo Magal",
+        "link": "https://ordemparanormal.fandom.com/wiki/Donisvaldo_Magal_Benza",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "Don",
+                "Agente Don",
+                "Dorisvaldo (por Chico)",
+                "Tom (por Lírio)"
+            ],
+            "age": "15",
+            "relations": [
+                "† Adágio Magal Benza (pai)",
+                "Alberta Magal Benza (mãe)",
+                "Luan Magal Benza (irmão gêmeo)"
+            ],
+            "status": "Vivo",
+            "first_appearance": [
+                "Sinais do Outro Lado - Episódio 1 - \"Alheios\" (vídeo e foto)",
+                "Sinais do Outro Lado - Episódio 2 - \"Parasita\""
+            ]
+        }
+    },
+    {
+        "nome": "Luan Magal",
+        "link": "https://ordemparanormal.fandom.com/wiki/Luan_Magal_Benza",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Luanzinho (por Alberta e Lírio)",
+            "age": "15",
+            "relations": [
+                "† Adágio Magal Benza (pai)",
+                "Alberta Magal Benza (mãe)",
+                "Donisvaldo Magal Benza (irmão gêmeo)"
+            ],
+            "status": "Vivo",
+            "first_appearance": "Sinais do Outro Lado - Episódio 1 - \"Alheios\""
+        }
+    },
+    {
+        "nome": "Diego Granteros",
+        "link": "https://ordemparanormal.fandom.com/wiki/Diego_Granteros",
+        "data": {
+            "nickname": [
+                "O Diretor",
+                "Estrangeiro"
+            ],
+            "occupation": [
+                "Diretor de Tecnologia",
+                "Diretor Geral"
+            ],
+            "association": [
+                "Alheios",
+                "Ocultismo",
+                "Produção da TV Varminho",
+                "Tenebris"
+            ],
+            "status": "Desconhecido",
+            "first_appearance": [
+                "Sinais do Outro Lado - Episódio 2 - \"Parasita\" (mencionado)",
+                "Sinais do Outro Lado - Episódio 4 - \"Escolhida\""
+            ]
+        }
+    },
+    {
+        "nome": "Hito",
+        "link": "https://ordemparanormal.fandom.com/wiki/Hito",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "age": "20",
+            "status": "Viva",
+            "first_appearance": "Sinais do Outro Lado - Episódio 5 - \"Os Quatro\""
+        }
+    },
+    {
+        "nome": "Jae-Yoon",
+        "link": "https://ordemparanormal.fandom.com/wiki/Jae-Yoon",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "X",
+                "Energia (por Breno)",
+                "Coisa ruim (por Breno e Melissa)",
+                "Espírito (por Breno)"
+            ],
+            "age": "18",
+            "relations": [
+                "Park Chan-Yoon (pai)"
+            ],
+            "occupation": "Influenciador de Finanças (anteriormente)",
+            "association": "Acampamento Lua da Benquerença",
+            "status": "Vivo",
+            "first_appearance": "Natal Macabro - Episódio 2 - \"Parte 2\""
+        }
+    },
+    {
+        "nome": "Regiane Jorge",
+        "link": "https://ordemparanormal.fandom.com/wiki/Regiane_Jorge",
+        "data": {
+            "age": "21",
+            "occupation": "Estudante",
+            "status": "Desconhecido",
+            "first_appearance": "Natal Macabro - Episódio 1 - \"Parte 1\" (menção)"
+        }
+    },
+    {
+        "nome": "Carol",
+        "link": "https://ordemparanormal.fandom.com/wiki/Carol",
+        "data": {
+            "interpreter": "Gabriela \"Bagi\" Cattuzzo",
+            "nickname": [
+                "Velma (por Benito)",
+                "Child Killer (por Benito)",
+                "Potential Child Killer (por Benito)",
+                "Child Murderer (por Benito)"
+            ],
+            "relations": [
+                "† Jack (amigo)"
+            ],
+            "occupation": "Agente Nível D das Indústrias Panacea",
+            "association": "Indústrias Panacea",
+            "status": "Falecida",
+            "first_appearance": "Quarentena - Episódio 2 - \"Parte Final\"",
+            "death": "Quarentena - Episódio 2 - \"Parte Final\""
+        }
+    },
+    {
+        "nome": "Laila Verdante",
+        "link": "https://ordemparanormal.fandom.com/wiki/Laila_Verdante",
+        "data": {
+            "age": "20",
+            "relations": [
+                "† Paula Verdante (parente)",
+                "? Olavo Verdante (parente)"
+            ],
+            "occupation": "Psicóloga Sênior nas Indústrias Panacea",
+            "class": "Ocultista",
+            "trail": "Parapsicóloga",
+            "association": [
+                "Indústrias Panacea",
+                "Ocultismo"
+            ],
+            "status": "Desconhecido",
+            "first_appearance": "Sobrevivendo ao Horror"
+        }
+    },
+    {
+        "nome": "Micael Cruzes",
+        "link": "https://ordemparanormal.fandom.com/wiki/Micael_Cruzes",
+        "data": {
+            "interpreter": "Rafael \"Cellbit\" Lange",
+            "nickname": [
+                "Michael (por Lucie e Luis Miguel)",
+                "The Guy (por Carol)"
+            ],
+            "age": "25",
+            "relations": [
+                "? Alice Cruzes (mãe)"
+            ],
+            "occupation": "Agente Nível B das Indústrias Panacea",
+            "association": [
+                "Indústrias Panacea",
+                "Estação Igneus"
+            ],
+            "status": "Falecido",
+            "first_appearance": "Quarentena - Episódio 1 - \"Parte 1\"",
+            "death": "Quarentena - Episódio 2 - \"Parte Final\""
+        }
+    },
+    {
+        "nome": "Anderson",
+        "link": "https://ordemparanormal.fandom.com/wiki/Anderson",
+        "data": {
+            "interpreter": "Rafael \"Cellbit\" Lange",
+            "relations": [
+                "Emília (filha)"
+            ],
+            "status": "Falecido",
+            "first_appearance": "Quarentena - Episódio 1 - \"Parte 1\"",
+            "death": "Quarentena - Episódio 1 - \"Parte 1\""
+        }
+    },
+    {
+        "nome": "Luana Valentini",
+        "link": "https://ordemparanormal.fandom.com/wiki/Luana_Valentini",
+        "data": {
+            "interpreter": "Mestre",
+            "age": "15",
+            "occupation": "Estudante de ensino médio",
+            "status": "Indefinido",
+            "first_appearance": "Noite de Compras"
+        }
+    },
+    {
+        "nome": "Severino Pereira",
+        "link": "https://ordemparanormal.fandom.com/wiki/Severino_Pereira",
+        "data": {
+            "interpreter": "Mestre",
+            "nickname": "Seu Severino",
+            "age": "56",
+            "relations": [
+                "Anthony (filho)",
+                "Gabrielly (filha)"
+            ],
+            "occupation": [
+                "Faxineiro do Arcádia",
+                "Palhaço no turno noturno"
+            ],
+            "status": "Indefinido",
+            "first_appearance": "Noite de Compras"
+        }
+    },
+    {
+        "nome": "Bisteca",
+        "link": "https://ordemparanormal.fandom.com/wiki/Bisteca",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Bistequinha (por Amelie)",
+            "age": "7",
+            "status": "Vivo",
+            "first_appearance": "O Segredo na Ilha - Episódio 1 - \"Tipora\""
+        }
+    },
+    {
+        "nome": "Joto",
+        "link": "https://ordemparanormal.fandom.com/wiki/Joto",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": "Jotinho",
+            "relations": [
+                "† Lucio Olani (tutor)"
+            ],
+            "status": "Vivo",
+            "first_appearance": "Natal Macabro - Episódio 1 - \"Parte 1\""
+        }
+    },
+    {
+        "nome": "Kiko",
+        "link": "https://ordemparanormal.fandom.com/wiki/Kiko",
+        "data": {
+            "interpreter": "Rafael “Cellbit” Lange",
+            "nickname": [
+                "Doguinho (por Guizo)",
+                "Monstro (por Alexandre)",
+                "Meu Inimigo (por Alexandre)",
+                "Kiquinho (por Chico)",
+                "Kikozinho (por Guizo e Chico)"
+            ],
+            "status": "Vivo (em 1997)",
+            "first_appearance": "Sinais do Outro Lado - Episódio 1 - \"Alheios\""
+        }
+    },
+    {
+        "nome": "Balu",
+        "link": "https://ordemparanormal.fandom.com/wiki/Balu",
+        "data": {
+            "interpreter": "Thiago \"Calango\" Elias",
+            "nickname": [
+                "Balu",
+                "Tonhão",
+                "Luba (por Joui)",
+                "Grandão (por Arthur)",
+                "Baluzão (por Arthur e Carina)",
+                "Bigodudo (por Ivete)",
+                "Ragazzo (por Carina)",
+                "Jornalista (por Ricardo)"
+            ],
+            "age": "44",
+            "relations": [
+                "",
+                "† Stella (sobrinha)"
+            ],
+            "occupation": [
+                "Vendedor (anteriormente)",
+                "Investigador Paranormal",
+                "Jornalista (disfarce)"
+            ],
+            "class": "Combatente",
+            "trail": "Duelista",
+            "association": [
+                "Ordo Realitas",
+                "Equipe Abutres"
+            ],
+            "status": "Vivo",
+            "first_appearance": [
+                "ARG de Calamidade (silhueta)",
+                "Calamidade - Episódio 0 - \"Prólogo\""
+            ]
+        }
+    },
+    {
+        "nome": "Caroline Ruschel",
+        "link": "https://ordemparanormal.fandom.com/wiki/Caroline_Ruschel",
+        "data": {
+            "interpreter": "Mestre",
+            "nickname": "Carol",
+            "age": "21",
+            "occupation": "Comissária",
+            "status": "Indefinido",
+            "first_appearance": "O Voo da death"
+        }
+    },
+    {
+        "nome": "Alex",
+        "link": "https://ordemparanormal.fandom.com/wiki/Alex_(jovem)",
+        "data": {
+            "interpreter": "Mestre",
+            "age": "16",
+            "occupation": "Estudante",
+            "status": "Indefinido",
+            "first_appearance": "O Voo da death"
+        }
+    }
+]
