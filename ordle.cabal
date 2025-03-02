@@ -1,6 +1,6 @@
 cabal-version: 2.2
 
--- This file has been generated from package.yaml by hpack version 0.36.0.
+-- This file has been generated from package.yaml by hpack version 0.37.0.
 --
 -- see: https://github.com/sol/hpack
 
@@ -25,7 +25,9 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      Config
+      Database
+      Models
   other-modules:
       Paths_ordle
   autogen-modules:
@@ -35,6 +37,10 @@ library
   ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
   build-depends:
       base >=4.7 && <5
+    , dhall
+    , hspec
+    , sqlite-simple
+    , text
   default-language: Haskell2010
 
 executable ordle-exe
@@ -48,7 +54,11 @@ executable ordle-exe
   ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints -threaded -rtsopts -with-rtsopts=-N
   build-depends:
       base >=4.7 && <5
+    , dhall
+    , hspec
     , ordle
+    , sqlite-simple
+    , text
   default-language: Haskell2010
 
 test-suite ordle-test
@@ -63,5 +73,9 @@ test-suite ordle-test
   ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints -threaded -rtsopts -with-rtsopts=-N
   build-depends:
       base >=4.7 && <5
+    , dhall
+    , hspec
     , ordle
+    , sqlite-simple
+    , text
   default-language: Haskell2010
