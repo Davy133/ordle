@@ -1,3 +1,5 @@
+module JsonParser(parseQueues, setDaily) where
+    
 import Data.Aeson
 import GHC.Generics
 import qualified Data.ByteString.Lazy as B

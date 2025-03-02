@@ -25,6 +25,10 @@ dependencies:
 - text
 - dhall
 - hspec
+- aeson
+- bytestring
+- containers
+- threepenny-gui
 
 ghc-options:
 - -Wall
@@ -38,7 +42,10 @@ ghc-options:
 - -Wredundant-constraints
 
 library:
-  source-dirs: src
+  source-dirs: 
+    - src
+    - src/database
+
 
 executables:
   ordle-exe:
