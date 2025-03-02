@@ -25,9 +25,7 @@ source-repository head
 
 library
   exposed-modules:
-      Config
-      Database
-      Models
+      Lib
   other-modules:
       Paths_ordle
   autogen-modules:

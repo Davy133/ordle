@@ -36,20 +36,19 @@ getRandomCharacter config = do
   close conn
   return $ head r
 
-  searchCharacters :: Config -> String -> IO [M.Character]
-  searchCharacters config searchString = do
-    conn <- open (dbPath config)
-    r <- query conn "SELECT * from characters WHERE name LIKE ?" (Only $ "%" ++ searchString ++ "%") :: IO [M.Character]
-    close conn
-    return r
+searchCharacters :: Config -> String -> IO [M.Character]
+searchCharacters config searchString = do
+  conn <- open (dbPath config)
+  r <- query conn "SELECT * from characters WHERE name LIKE ?" (Only $ "%" ++ searchString ++ "%") :: IO [M.Character]
+  close conn
+  return r
 
-  searchMonsters :: Config -> String -> IO [M.Monster]
-
-  searchMonsters config searchString = do
-    conn <- open (dbPath config)
-    r <- query conn "SELECT * from monsters WHERE monsterName LIKE ?" (Only $ "%" ++ searchString ++ "%") :: IO [M.Monster]
-    close conn
-    return r
+searchMonsters :: Config -> String -> IO [M.Monster]
+searchMonsters config searchString = do
+  conn <- open (dbPath config)
+  r <- query conn "SELECT * from monsters WHERE monsterName LIKE ?" (Only $ "%" ++ searchString ++ "%") :: IO [M.Monster]
+  close conn
+  return r
 
 
 
