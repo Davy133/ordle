@@ -5,7 +5,8 @@ import qualified Data.Set as Set
 import qualified Models as M
 import Config (loadConfig, defaultConfig, Config(..))
 import Database (getMonsters, getRandomMonster, getCharacters, getRandomCharacter)
-import JsonParser (parseQueues, checkRepetitions, setDaily, getDailyCharacter, getDailyCharacters, getDailyMonster, checkUnicity)
+import JsonParser (parseQueues, checkRepetitions, setDaily, getDailyCharacter, getDailyCharacters, getDailyMonster, checkUniqueness)
+import Data.Either (isRight)
 
 main :: IO ()
 main = hspec $ do
@@ -97,13 +98,12 @@ main = hspec $ do
       config <- loadConfig "config.dhall"
       (c1, c2, c3) <- getDailyCharacters config
       Set.size (Set.fromList [c1, c2, c3]) `shouldBe` 3
-
-  -- Tests for checkUnicity function
-  describe "checkUnicity" $ do
+  -- Tests for checkUniqueness function
+  describe "checkUniqueness" $ do
     it "Ensures characters are unique and reselects if necessary" $ do
       config <- loadConfig "config.dhall"
       -- Mock or create a test case where two characters are the same
-      let (c1, c2, c3) = (M.Character "1", M.Character "1", M.Character "2")
+      (newC1, newC2, newC3) <- checkUniqueness config c1 c2 c3
       (newC1, newC2, newC3) <- checkUnicity config c1 c2 c3
       Set.size (Set.fromList [newC1, newC2, newC3]) `shouldBe` 3
 

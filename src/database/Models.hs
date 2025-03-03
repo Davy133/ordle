@@ -19,7 +19,7 @@ data Character = Character {
     emojis :: String,
     imageChar :: String,
     quote :: String
-  }  deriving (Eq, Show, Generic)
+  }  deriving (Eq, Show, Generic, Ord)
 
 
 data Monster = Monster { 
