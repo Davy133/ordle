@@ -25,6 +25,9 @@ dependencies:
 - text
 - dhall
 - hspec
+- containers
+- aeson         
+- bytestring
 
 ghc-options:
 - -Wall
@@ -41,9 +44,11 @@ library:
   source-dirs:
   - src
   - src/database
+  - src/json
   exposed-modules:
   - Config
   - Database
+  - JsonParser
 
 executables:
   ordle-exe:
@@ -63,6 +68,7 @@ tests:
     - test
     - src
     - src/database
+    - src/json
     ghc-options:
     - -threaded
     - -rtsopts

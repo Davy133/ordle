@@ -17,7 +17,7 @@ data Character = Character {
     affinity :: String,
     gender :: String,
     emojis :: String,
-    imageChar :: String
+    imageChar :: String,
     quote :: String
   }  deriving (Eq, Show, Generic)
 

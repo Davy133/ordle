@@ -27,6 +27,7 @@ library
   exposed-modules:
       Config
       Database
+      JsonParser
   other-modules:
       Lib
       Models
@@ -36,9 +37,13 @@ library
   hs-source-dirs:
       src
       src/database
+      src/json
   ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
   build-depends:
-      base >=4.7 && <5
+      aeson
+    , base >=4.7 && <5
+    , bytestring
+    , containers
     , dhall
     , hspec
     , sqlite-simple
@@ -55,7 +60,10 @@ executable ordle-exe
       app
   ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints -threaded -rtsopts -with-rtsopts=-N
   build-depends:
-      base >=4.7 && <5
+      aeson
+    , base >=4.7 && <5
+    , bytestring
+    , containers
     , dhall
     , hspec
     , ordle
@@ -71,6 +79,7 @@ test-suite ordle-test
       Config
       Database
       Models
+      JsonParser
       Paths_ordle
   autogen-modules:
       Paths_ordle
@@ -78,9 +87,13 @@ test-suite ordle-test
       test
       src
       src/database
+      src/json
   ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints -threaded -rtsopts -with-rtsopts=-N
   build-depends:
-      base >=4.7 && <5
+      aeson
+    , base >=4.7 && <5
+    , bytestring
+    , containers
     , dhall
     , hspec
     , ordle

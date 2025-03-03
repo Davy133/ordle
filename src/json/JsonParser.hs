@@ -1,9 +1,17 @@
+{-# LANGUAGE DeriveGeneric #-}
+
+module JsonParser(parseQueues, checkRepetitions, setDaily, getDailyCharacter, getDailyCharacters, getDailyMonster, checkUnicity) where
+  
 import Data.Aeson
-import GHC.Generics
+import GHC.Generics (Generic)
 import qualified Data.ByteString.Lazy as B
 import Control.Monad (when)
 import qualified Data.Set as Set
-import Config
+import Config (loadConfig, defaultConfig, Config(..))
+import Database (getMonsters, getRandomMonster, getCharacters, getRandomCharacter)
+import Models (name,monsterName, monsterId, characterId, quote)
+import qualified Models as M
+
 
 data Queues = Queues
   { classic :: [String],
@@ -32,44 +40,51 @@ setDaily jsonFile config = do
     case result of
         Right q -> do
             config <- loadConfig "config.dhall"
-            monster <- getDailyMonster config
-            (classicCharacter quoteCharacter emojiCharacter) = getDailyCharacters config
+            (classicCharacter, quoteCharacter, emojiCharacter) <- getDailyCharacters config
+            monster <- getDailyMonster config q
+            
+            let updatedQueues = q { classic = name classicCharacter : classic q
+                                  , quotes = name quoteCharacter : quotes q
+                                  , emoji = name emojiCharacter : emoji q
+                                  , monsters = monsterName monster : monsters q
+                                  }
+            B.writeFile jsonFile (encode updatedQueues)
+            return [toInteger (monsterId monster), toInteger (characterId classicCharacter), toInteger (characterId quoteCharacter), toInteger (characterId emojiCharacter)]
 
         Left err -> do
             return [-1]
 
-getDailyMonster :: Config -> Queues -> M.Monster
-getDailyMonster config q= do
+getDailyMonster :: Config -> Queues -> IO M.Monster
+getDailyMonster config q = do
     dailyMonster <- getRandomMonster config
-     if checkRepetitions (monsters q) dailyMonster
-        then getDailyMonster config
-        else return dailyMonster
+    if checkRepetitions (monsters q) (monsterName dailyMonster)
+    then getDailyMonster config q  
+    else return dailyMonster
 
-getDailyCharacter :: Config -> Queues -> (Queues -> [String]) -> M.Character
-getDailyCharacter config q queueName= do
-     dailyCharacter <- getRandomCharacter config
-     if checkRepetitions (queueName q) dailyCharacter
-        then getDailyCharacter config q queueName
-        else return dailyCharacter
+getDailyCharacter :: Config -> Queues -> (Queues -> [String]) -> IO M.Character
+getDailyCharacter config q queueName = do
+    dailyCharacter <- getRandomCharacter config
+    if checkRepetitions (queueName q) (name dailyCharacter)
+    then getDailyCharacter config q queueName
+    else return dailyCharacter
 
 getDailyCharacters :: Config -> IO (M.Character, M.Character, M.Character)
 getDailyCharacters config = do
-    c1 <- getDailyCharacter config classic
-    c2 <- getDailyCharacter config quote
-    c3 <- getDailyCharacter config emoji
+    c1 <- getDailyCharacter config "classic" classic
+    c2 <- getDailyCharacter config "quote" quote
+    c3 <- getDailyCharacter config "emoji" emoji
     checkUnicity config c1 c2 c3
 
 checkUnicity :: Config -> M.Character -> M.Character -> M.Character -> IO (M.Character, M.Character, M.Character)
-checkUnicity config c1 c2 c3
-    | Set.size (Set.fromList [c1, c2, c3]) == 3 = return (c1, c2, c3)
-    | otherwise = do
-        let (newC1, newC2, newC3) = 
-            if c1 == c2 || c1 == c3 then do
-                newCharacter = getRandomCharacter config "classic"
-                (newCharacter, c2, c3) 
-            else do
-                c2 <- getDailyCharacter config "quote"
-                (c1, newCharacter, c3)
-        checkUnicity config newC1 newC2 newC3
+checkUnicity config c1 c2 c3 = do
+    if Set.size (Set.fromList [c1, c2, c3]) == 3
+    then return (c1, c2, c3) 
+    else do
+        if c1 == c2 || c1 == c3 then do
+            newCharacter <- getDailyCharacter config "classic"
+            return (newCharacter, c2, c3)
+        else do
+            newCharacter <- getDailyCharacter config "quote"
+            return (c1, newCharacter, c3)
 
   

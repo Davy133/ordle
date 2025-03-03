@@ -1,6 +1,6 @@
 {-# LANGUAGE OverloadedStrings #-}
 
-module Database ( getMonsters, getRandomMonster) where
+module Database ( getMonsters, getRandomMonster, getCharacters, getRandomCharacter) where
 
 import qualified Models as M
 import           Database.SQLite.Simple
@@ -49,7 +49,3 @@ searchMonsters config searchString = do
   r <- query conn "SELECT * from monsters WHERE monsterName LIKE ?" (Only $ "%" ++ searchString ++ "%") :: IO [M.Monster]
   close conn
   return r
-
-
-
-  
