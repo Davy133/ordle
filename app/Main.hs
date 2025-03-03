@@ -1,4 +1,7 @@
-module Main (main) where
+import ClassicController
+
 
 main :: IO ()
-main = putStrLn "Hello, Haskell!"
+main = do
+    selectCurrentCharacter
+    putStrLn "Character elected."

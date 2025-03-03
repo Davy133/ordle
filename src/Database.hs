@@ -1,56 +1,35 @@
 {-# LANGUAGE OverloadedStrings #-}
 
-module Database ( getMonsters, getRandomMonster) where
+module Database ( getRandomCharacter, getAllCharacters, getCharacterById ) where
 
 import qualified Models as M
-import           Database.SQLite.Simple
-import           Config
--- import           Control.Applicative
--- import           Database.SQLite.Simple.FromRow
+import Database.SQLite.Simple
+    ( Connection, close, open, query_, query, Only (Only) )
+import Config ( Config(dbPath) )
+import Control.Exception (catch, SomeException)
+import Data.Maybe (listToMaybe)
 
-getMonsters :: Config -> IO [M.Monster]
-getMonsters config = do
-  conn <- open (dbPath config)
-  r <- query_ conn "SELECT * from monsters" :: IO [M.Monster]
+withDB :: Config -> (Connection -> IO a) -> IO a
+withDB config action = do
+  conn <- open $ dbPath config
+  result <- action conn `catch` handleDBError
   close conn
-  return r
+  return result
 
-getRandomMonster :: Config -> IO M.Monster
-getRandomMonster config = do
-  conn <- open (dbPath config)
-  r <- query_ conn "SELECT * from monsters ORDER BY RANDOM() LIMIT 1" :: IO [M.Monster]
-  close conn
-  return $ head r 
+handleDBError :: SomeException -> IO a
+handleDBError e = do
+    putStrLn $ "Database error: " ++ show e
+    error "Database operation failed"
 
-getCharacters :: Config -> IO [M.Character]
-getCharacters config = do
-  conn <- open (dbPath config)
-  r <- query_ conn "SELECT * from characters" :: IO [M.Character]
-  close conn
-  return r
+getRandomCharacter :: Config -> IO (Maybe M.Character)
+getRandomCharacter config = withDB config $ \conn -> do
+    r <- query_ conn "SELECT * FROM characters ORDER BY RANDOM() LIMIT 1" :: IO [M.Character]
+    return $ listToMaybe r  
 
-getRandomCharacter :: Config -> IO M.Character
-getRandomCharacter config = do
-  conn <- open (dbPath config)
-  r <- query_ conn "SELECT * from characters ORDER BY RANDOM() LIMIT 1" :: IO [M.Character]
-  close conn
-  return $ head r
+getAllCharacters :: Config -> IO [M.Character]
+getAllCharacters config = withDB config $ \conn -> query_ conn "SELECT * FROM characters"
 
-  searchCharacters :: Config -> String -> IO [M.Character]
-  searchCharacters config searchString = do
-    conn <- open (dbPath config)
-    r <- query conn "SELECT * from characters WHERE name LIKE ?" (Only $ "%" ++ searchString ++ "%") :: IO [M.Character]
-    close conn
-    return r
-
-  searchMonsters :: Config -> String -> IO [M.Monster]
-
-  searchMonsters config searchString = do
-    conn <- open (dbPath config)
-    r <- query conn "SELECT * from monsters WHERE monsterName LIKE ?" (Only $ "%" ++ searchString ++ "%") :: IO [M.Monster]
-    close conn
-    return r
-
-
-
-  
+getCharacterById :: Config -> Int -> IO (Maybe M.Character)
+getCharacterById config charId = withDB config $ \conn -> do
+    r <- query conn "SELECT * FROM characters WHERE id = ?" (Only charId) :: IO [M.Character]
+    return $ listToMaybe r
