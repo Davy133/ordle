@@ -15,7 +15,10 @@ data Character = Character {
     first_appearance :: String,
     actor :: String,
     affinity :: String,
-    gender :: String
+    gender :: String,
+    emojis :: String,
+    imageChar :: String
+    quote :: String
   }  deriving (Eq, Show, Generic)
 
 
@@ -27,7 +30,7 @@ data Monster = Monster {
 
 
 instance FromRow Character where
-  fromRow = Character <$> field <*> field <*> field <*> field <*> field <*> field <*> field <*> field <*> field
+  fromRow = Character <$> field <*> field <*> field <*> field <*> field <*> field <*> field <*> field <*> field <*> field <*> field <*> field
 
 instance FromRow Monster where
   fromRow = Monster <$> field <*> field <*> field

@@ -25,13 +25,17 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      Config
+      Database
   other-modules:
+      Lib
+      Models
       Paths_ordle
   autogen-modules:
       Paths_ordle
   hs-source-dirs:
       src
+      src/database
   ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
   build-depends:
       base >=4.7 && <5
@@ -63,11 +67,17 @@ test-suite ordle-test
   type: exitcode-stdio-1.0
   main-is: Spec.hs
   other-modules:
+      Lib
+      Config
+      Database
+      Models
       Paths_ordle
   autogen-modules:
       Paths_ordle
   hs-source-dirs:
       test
+      src
+      src/database
   ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints -threaded -rtsopts -with-rtsopts=-N
   build-depends:
       base >=4.7 && <5

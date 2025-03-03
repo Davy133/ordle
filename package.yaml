@@ -38,7 +38,12 @@ ghc-options:
 - -Wredundant-constraints
 
 library:
-  source-dirs: src
+  source-dirs:
+  - src
+  - src/database
+  exposed-modules:
+  - Config
+  - Database
 
 executables:
   ordle-exe:
@@ -54,7 +59,10 @@ executables:
 tests:
   ordle-test:
     main:                Spec.hs
-    source-dirs:         test
+    source-dirs:         
+    - test
+    - src
+    - src/database
     ghc-options:
     - -threaded
     - -rtsopts
