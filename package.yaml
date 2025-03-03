@@ -31,6 +31,7 @@ dependencies:
 - threepenny-gui
 - random
 - time
+- directory
 
 ghc-options:
 - -Wall

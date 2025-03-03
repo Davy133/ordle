@@ -7,13 +7,15 @@ import qualified Data.Aeson as JSON
 import qualified Data.ByteString.Lazy as B
 import GHC.Generics
 
+-- Define the GameState data structure
 data GameState = GameState
   { 
-     classic :: ClassicGameState
+     classic :: ClassicGameState,
+     blacklist :: [Int]  -- Added blacklist field
   }
   deriving (Show, Generic)
 
-
+-- Define the ClassicGameState data structure
 data ClassicGameState = ClassicGameState
   { 
     finished :: Bool,
@@ -22,14 +24,16 @@ data ClassicGameState = ClassicGameState
   }
   deriving (Show, Generic)
 
+-- JSON instances for automatic serialization/deserialization
 instance JSON.FromJSON ClassicGameState
 instance JSON.ToJSON ClassicGameState
 instance JSON.FromJSON GameState
 instance JSON.ToJSON GameState
 
-readGameState :: B.ByteString -> Either String GameState
-readGameState = JSON.eitherDecode
+-- Helper function to get the game state from the JSON file
+getJSON :: IO (Either String [GameState])
+getJSON = JSON.eitherDecode <$> B.readFile "game_state.json"
 
-writeGameState :: GameState -> B.ByteString
-writeGameState = JSON.encode
-
+-- Helper function to write the game state to the JSON file
+writeJSON :: [GameState] -> IO ()
+writeJSON = B.writeFile "game_state.json" . JSON.encode
