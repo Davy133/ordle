@@ -1,6 +1,6 @@
 {-# LANGUAGE DeriveGeneric #-}
 
-module JsonParser(parseQueues, checkRepetitions, setDaily, getDailyCharacter, getDailyCharacters, getDailyMonster, checkUniqueness) where
+module JsonParser(setDaily) where
   
 import Data.Aeson
 import GHC.Generics (Generic)
@@ -14,7 +14,7 @@ import qualified Models as M
 
 
 newtype ControlQueues = ControlQueues
-  { queues :: Queues
+  { control_queues :: Queues
   } deriving (Show, Generic)
 data Queues = Queues
   { classic :: [String],
@@ -24,12 +24,15 @@ data Queues = Queues
   } deriving (Show, Generic)
 
 instance FromJSON Queues
+instance FromJSON ControlQueues
 instance ToJSON Queues
+instance ToJSON ControlQueues
 
 parseQueues :: FilePath -> IO (Either String Queues)
 parseQueues jsonFile = do
-  jsonData <- B.readFile jsonFile
-  return (eitherDecode jsonData :: Either String Queues)
+    jsonData <- B.readFile jsonFile
+    let decoded = eitherDecode jsonData :: Either String ControlQueues
+    return (fmap (\(ControlQueues q) -> q) decoded)
 
 checkRepetitions :: [String] -> String -> Bool
 checkRepetitions [] _ = False
@@ -46,11 +49,11 @@ setDaily jsonFile = do
             (classicCharacter, quoteCharacter, emojiCharacter) <- getDailyCharacters loadedConfig
             monster <- getDailyMonster loadedConfig q
             
-            let updatedQueues = q { classic = name classicCharacter : classic q
-                                  , quotes = name quoteCharacter : quotes q
-                                  , emoji = name emojiCharacter : emoji q
-                                  , monsters = monsterName monster : monsters q
-                                  }
+            let updatedQueues = ControlQueues q { classic = name classicCharacter : classic q
+                                                , quotes = name quoteCharacter : quotes q
+                                                , emoji = name emojiCharacter : emoji q
+                                                , monsters = monsterName monster : monsters q
+                                                }
             B.writeFile jsonFile (encode updatedQueues)
             return [toInteger (monsterId monster), toInteger (characterId classicCharacter), toInteger (characterId quoteCharacter), toInteger (characterId emojiCharacter)]
 
