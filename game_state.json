@@ -15,6 +15,11 @@
       "finished": false,
       "today_character_id": 129,
       "valid_until": 60738
+    },
+    "monster": {
+        "finished": false,
+        "today_character_id": 129,
+        "valid_until": 60738
     }
   }
 ]

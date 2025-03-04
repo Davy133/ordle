@@ -29,6 +29,7 @@ data GameState = GameState
     , classic :: ModeState
     , emoji :: ModeState
     , quotes :: ModeState
+    , monsters :: ModeState
     } deriving (Show, Generic)
 
 instance FromJSON GameState

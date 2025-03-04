@@ -1,6 +1,6 @@
 {-# LANGUAGE OverloadedStrings #-}
 
-module Database ( getRandomCharacter, getAllCharacters, getCharacterById, getCharactersWithQuotes, getCharactersWithEmoji) where
+module Database ( getRandomCharacter, getAllCharacters, getCharacterById, getCharactersWithQuotes, getCharactersWithEmoji, getRandomMonster, getAllMonsters, getMonsterById) where
 
 import qualified Models as M
 import Database.SQLite.Simple
@@ -20,6 +20,19 @@ handleDBError :: SomeException -> IO a
 handleDBError e = do
     putStrLn $ "Database error: " ++ show e
     error "Database operation failed"
+
+getRandomMonster :: Config -> IO (Maybe M.Monster)
+getRandomMonster config = withDB config $ \conn -> do
+    r <- query_ conn "SELECT * FROM monsters ORDER BY RANDOM() LIMIT 1" :: IO [M.Monster]
+    return $ listToMaybe r
+
+getAllMonsters :: Config -> IO [M.Monster]
+getAllMonsters config = withDB config $ \conn -> query_ conn "SELECT * FROM monsters"
+
+getMonsterById :: Config -> Int -> IO (Maybe M.Monster)
+getMonsterById config monsterId = withDB config $ \conn -> do
+    r <- query conn "SELECT * FROM monsters WHERE id = ?" (Only monsterId) :: IO [M.Monster]
+    return $ listToMaybe r
 
 getRandomCharacter :: Config -> IO (Maybe M.Character)
 getRandomCharacter config = withDB config $ \conn -> do
