@@ -10,7 +10,7 @@ import Database.SQLite.Simple (FromRow, fromRow, field, ToRow, toRow)
 data Character = Character { 
     characterId :: Int,
     name :: String,
-    age :: Int,
+    age :: String,
     status :: String,
     association :: String,
     first_appearance :: String,

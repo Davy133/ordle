@@ -1,3 +1,3 @@
 { staticDir = "assets"
-, dbPath = "characters.db"
+, dbPath = "database.db"
 }

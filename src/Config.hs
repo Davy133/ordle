@@ -17,5 +17,5 @@ loadConfig path = inputFile auto path
 defaultConfig :: Config 
 defaultConfig = Config {
     staticDir = "static",
-    dbPath = "characters.db"
+    dbPath = "database.db"
 }

@@ -31,7 +31,7 @@ getAllMonsters config = withDB config $ \conn -> query_ conn "SELECT * FROM mons
 
 getMonsterById :: Config -> Int -> IO (Maybe M.Monster)
 getMonsterById config monsterId = withDB config $ \conn -> do
-    r <- query conn "SELECT * FROM monsters WHERE id = ?" (Only monsterId) :: IO [M.Monster]
+    r <- query conn "SELECT * FROM monsters WHERE monsterId = ?" (Only monsterId) :: IO [M.Monster]
     return $ listToMaybe r
 
 getRandomCharacter :: Config -> IO (Maybe M.Character)
@@ -44,7 +44,7 @@ getAllCharacters config = withDB config $ \conn -> query_ conn "SELECT * FROM ch
 
 getCharacterById :: Config -> Int -> IO (Maybe M.Character)
 getCharacterById config charId = withDB config $ \conn -> do
-    r <- query conn "SELECT * FROM characters WHERE id = ?" (Only charId) :: IO [M.Character]
+    r <- query conn "SELECT * FROM characters WHERE characterId = ?" (Only charId) :: IO [M.Character]
     return $ listToMaybe r
 
 getCharactersWithQuotes :: Config -> IO [M.Character]

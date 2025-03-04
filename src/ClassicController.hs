@@ -19,7 +19,6 @@ import Control.Monad (when)
 import Data.List (intersect)
 import Data.Map as Map
 
--- Function to select a character for the day
 selectCurrentCharacter :: IO ()
 selectCurrentCharacter = do
     gameStateResult <- getJSON
