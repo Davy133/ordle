@@ -1,294 +1,294 @@
 [
-  {
-    "monsterName": "A Marionete",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/f/fa/Miniatura_da_Marionete_em_Calamidade.png/revision/latest?cb=20240829161525&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Aberração de Carne",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/1/10/Arte_Aberra%C3%A7%C3%A3o_de_Carne_no_Livro_de_Regras.png/revision/latest?cb=20220716041319&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Amigo Imaginário",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/0/0c/Devorador_de_Rostos_em_O_Segredo_na_Ilha.png/revision/latest?cb=20220810021217&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Anárquicos",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/d/dd/Arte_do_An%C3%A1rquico_no_livro_de_regras.png/revision/latest?cb=20230620005828&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Anárquicos Descontrolados",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/a/ae/Arte_do_An%C3%A1rquico_Descontrolado_no_livro_de_regras.png/revision/latest?cb=20240829154120&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Aniquilação",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/3/31/Aniquila%C3%A7%C3%A3o_no_Livro_de_Regras.png/revision/latest?cb=20240829182205&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Anjo",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/6/67/Arte_de_Anjo_em_Livro_de_Regras.png/revision/latest?cb=20240829163206&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Anomalia",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/7/77/Arte_da_Anomalia_no_Livro_de_Regras.jpg/revision/latest?cb=20240829154309&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Anomiático",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/c/c4/Arte_do_Anormi%C3%A1tico_no_livro_de_regras.png/revision/latest?cb=20240829154628&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Aracnasita",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/7/7f/P%C3%A1gina_da_Aracnasita_no_Livro_de_Regras.png/revision/latest?cb=20230123020622&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Besta de Sangue",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/e/e6/Besta_de_Sangue_Forma_Final.png/revision/latest?cb=20250121065447&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Bicho-Papão",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/d/d1/Arte_do_Bicho-Pap%C3%A3o_em_Livro_de_Regras.jpg/revision/latest?cb=20240829163310&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Bilu",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/4/41/Miniatura_Bilu_em_Sinais_do_Outro_Lado.png/revision/latest/scale-to-width-down/1000?cb=20221219182934&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Carniçal",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/3/3e/P%C3%A1gina_do_Carni%C3%A7al_Preto_da_Morte_no_Livro_de_Regras.png/revision/latest?cb=20230123021133&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Ceifador Espiral",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/2/20/Arte_de_Ceifador_Espiral_em_Livro_de_Regras.png/revision/latest?cb=20240829181405&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Ciborgue",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/c/c9/Arte_do_Ciborgue_no_Livro_de_Regras_de_Ordem_Paranormal.png/revision/latest?cb=20230123012359&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Dama de Sangue",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/4/49/Arte_da_Dama_de_Sangue_em_Os_Espinhos_da_Aurora_Escarlate.png/revision/latest?cb=20240829182435&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Degolificada",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/7/7f/Degolificada_na_Arte_do_Livro_de_Regras.png/revision/latest/scale-to-width-down/1000?cb=20220213232341&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Derretido",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/0/06/Arte_do_Derretido_em_Sobrevivendo_ao_Horror.png/revision/latest/scale-to-width-down/1000?cb=20241231041254&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Doppelanger",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/4/4f/Miniatura_William_Bonantos_transformado_em_Sinais_do_Outro_Lado.png/revision/latest?cb=20221205042350&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "E.C.O.S",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/0/06/Enigma_do_Medo_-_Retrato_de_Di%C3%A1logo_Eco_Beto.png/revision/latest?cb=20241203042530&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Enpap-X",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/e/ea/Arte_de_Enpap_em_Desconjura%C3%A7%C3%A3o.png/revision/latest?cb=20240525165333&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Enraizados",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/6/6d/Arte_do_Enraizado_no_livro_de_regras.png/revision/latest?cb=20240829150504&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Escutado",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/5/54/Miniatura_Escutado_em_Desconjura%C3%A7%C3%A3o.png/revision/latest?cb=20211115164614&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Espectro",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/4/43/Arte_do_Espectro_Inesquecido_em_Sobrevivendo_ao_Horror.png/revision/latest?cb=20240710211057&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Esqueletos de Lodo",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/2/26/Arte_do_Esqueleto_de_Lodo_no_livro_de_regras.png/revision/latest?cb=20240829161045&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Estrangeiro",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/4/46/Arte_do_Estrangeiro_em_Livro_de_Regras.png/revision/latest?cb=20240829163430&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Existidos",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/e/e2/Arte_do_Existido_no_livro_de_regras.png/revision/latest?cb=20240829163626&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Fummu",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/9/93/Miniatura_Fummu_em_Sinais_do_Outro_Lado.png/revision/latest/scale-to-width-down/1000?cb=20221116153312&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Infecticídio",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/b/b0/Arte_de_Infecticidio_em_Livro_de_Regras.png/revision/latest?cb=20230423050656&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Interflorado",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/3/39/Miniatura_Interflorado_em_Sinais_do_Outro_Lado.png/revision/latest/scale-to-width-down/1000?cb=20221105234004&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Kerberos",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/d/dd/Arte_do_Kerberos_em_Livro_de_Regras.png/revision/latest?cb=20241225054005&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Lembrados",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/4/40/Arte_do_Lembrado_no_Livro_de_Regras.png/revision/latest?cb=20241225050159&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Máscara do Desespero",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/8/8b/Arte_da_Magistrada_no_Livro_de_Regras.png/revision/latest?cb=20220928212656&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Medusa",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/9/91/Arte_da_Medusa_em_Sobrevivendo_ao_Horror.jpg/revision/latest/scale-to-width-down/1000?cb=20240711003859&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Melancolia",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/c/c0/Arte_da_Melancolia_em_Sobrevivendo_ao_Horror.jpg/revision/latest/scale-to-width-down/1000?cb=20250102174655&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Memento Mori",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/8/80/Arte_do_Memento_Mori_em_Sobrevivendo_ao_Horror.jpg/revision/latest?cb=20240710214617&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Memoflígico",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/7/70/Miniatura_Memofl%C3%ADgico_em_Sinais_do_Outro_Lado.png/revision/latest/scale-to-width-down/1000?cb=20221125023638&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Mescla",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/c/ca/Arte_da_Mescla_em_Sobrevivendo_ao_Horror.png/revision/latest/scale-to-width-down/1000?cb=20241231034427&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Minotauro",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/5/5a/Miniatura_Minotauro_em_Calamidade.png/revision/latest?cb=20241225054046&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Morcegosa",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/d/d2/Miniatura_Morcegosa_em_O_Segredo_na_Floresta.png/revision/latest?cb=20200731011857&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Mulher Afogada",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/2/29/Miniatura_Mulher_Afogada_em_Desconjura%C3%A7%C3%A3o.png/revision/latest?cb=20211115213925&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Múmias",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/e/e1/Miniatura_M%C3%BAmia_em_Calamidade.png/revision/latest?cb=20211115191816&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Nidere",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/e/ed/P%C3%A1gina_do_Nidere_no_Livro_de_Regras.png/revision/latest?cb=20230123015337&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "O Anfitrião",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/b/b2/Miniatura_O_Anfitri%C3%A3o_em_Calamidade.png/revision/latest?cb=20241229052340&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "O Carente",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/9/99/Miniatura_Carente_em_Calamidade.png/revision/latest?cb=20220413213524&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "O Deus da Morte",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/2/2c/Arte_do_Deus_da_Morte_no_livro_de_regras.png/revision/latest?cb=20220814180230&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "O Diabo",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/2/25/Arte_do_Diabo_no_Livro_de_Regras.png/revision/latest?cb=20220928032946&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "O Espreitador",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/4/47/O_Espreitador_no_Livro_de_Regras_de_Ordem_Paranormal.png/revision/latest?cb=20230620011344&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "O Estrangeiro",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/4/46/Arte_do_Estrangeiro_em_Livro_de_Regras.png/revision/latest?cb=20240829163430&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "O Terminal",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/5/51/Arte_do_Terminal_em_Sobrevivendo_ao_Horror.jpg/revision/latest?cb=20240710225003&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "O Uivar",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/5/51/Arte_do_Uivar_em_Sobrevivendo_ao_Horror.jpg/revision/latest/scale-to-width-down/1000?cb=20240710213157&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Ocioso",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/2/25/Arte_de_Ocioso_em_Livro_de_Regras.png/revision/latest?cb=20240829164108&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Parasita de Culpa",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/f/fa/P%C3%A1gina_do_Parasita_de_Culpa_no_Livro_de_Regras.png/revision/latest?cb=20230123014920&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Pertubados de Energia",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/a/ae/Miniatura_Perturbado_de_Energia_duas_cabe%C3%A7as_em_Desconjura%C3%A7%C3%A3o.png/revision/latest?cb=20240829162453&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Profundo",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/1/1d/Arte_do_Profundo_em_Sobrevivendo_ao_Horror.jpg/revision/latest/scale-to-width-down/1000?cb=20240710214411&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Quibungo",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/d/df/Arte_do_Quibungo_em_Sobrevivendo_ao_Horror.png/revision/latest/scale-to-width-down/1000?cb=20241231034041&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Rascunho",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/b/be/Arte_do_Rascunho.png/revision/latest/scale-to-width-down/1000?cb=20240711030326&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Rastejador",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/a/a5/Arte_de_Rastejador_Sombrio_em_Livro_de_Regras.png/revision/latest?cb=20240829164256&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Ratropoda",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/9/99/Miniatura_Rastropoda_em_Sinais_do_Outro_Lado.png/revision/latest/scale-to-width-down/1000?cb=20221211045648&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Sempiternal",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/2/2e/Arte_do_Sempiternal_no_livro_de_regras.png/revision/latest?cb=20240829162715&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Sepultado",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/2/20/Arte_do_Sepultado_em_Sobrevivendo_ao_Horror.jpg/revision/latest/scale-to-width-down/1000?cb=20241122165040&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Silhueta",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/8/8e/Arte_de_Silhueta_em_Livro_de_Regras.png/revision/latest?cb=20240829164400&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Succ",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/c/cb/Arte_do_Succ_no_Livro_de_Regras.png/revision/latest?cb=20241225053152&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Sukkalgir",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/5/53/Arte_de_Sukkal_em_Desconjura%C3%A7%C3%A3o.png/revision/latest?cb=20240526141802&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Telopsia",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/3/3e/P%C3%A1gina_do_Telopsia_no_Livro_de_Regras.png/revision/latest?cb=20230123020302&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Tempestuoso",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/1/12/Arte_de_Tempestuoso_em_Livro_de_Regras.png/revision/latest?cb=20240829160258&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Tirano de Lodo",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/6/60/Tirano_de_lodo.png/revision/latest?cb=20241214194053&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Titã de Sangue",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/a/ac/Miniatura_Patrizia_Leone_transformada_em_Zumbi_de_Sangue_Colossal.png/revision/latest?cb=20240829180134&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Viajante",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/7/73/P%C3%A1gina_do_Viajante_no_Livro_de_Regras.png/revision/latest/scale-to-width-down/1000?cb=20230123015858&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Vultos",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/2/27/Arte_do_Vulto_no_Livro_de_Regras.png/revision/latest?cb=20220728003110&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Zumbi de Sangue Bestial",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/6/62/Bestial_em_Desconjura%C3%A7%C3%A3o.png/revision/latest?cb=20220208205142&path-prefix=pt-br"
-  },
-  {
-    "monsterName": "Zumbis de Sangue",
-    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/6/62/Bestial_em_Desconjura%C3%A7%C3%A3o.png/revision/latest?cb=20220208205142&path-prefix=pt-br"
-  }
+    {
+        "monsterName": "A Marionete",
+        "image": "A_Marionete.jpg"
+    },
+    {
+        "monsterName": "Aberração de Carne",
+        "image": "Aberração_de_Carne.jpg"
+    },
+    {
+        "monsterName": "Amigo Imaginário",
+        "image": "Amigo_Imaginário.jpg"
+    },
+    {
+        "monsterName": "Anárquicos",
+        "image": "Anárquicos.jpg"
+    },
+    {
+        "monsterName": "Anárquicos Descontrolados",
+        "image": "Anárquicos_Descontrolados.jpg"
+    },
+    {
+        "monsterName": "Aniquilação",
+        "image": "Aniquilação.jpg"
+    },
+    {
+        "monsterName": "Anjo",
+        "image": "Anjo.jpg"
+    },
+    {
+        "monsterName": "Anomalia",
+        "image": "Anomalia.jpg"
+    },
+    {
+        "monsterName": "Anomiático",
+        "image": "Anomiático.jpg"
+    },
+    {
+        "monsterName": "Aracnasita",
+        "image": "Aracnasita.jpg"
+    },
+    {
+        "monsterName": "Besta de Sangue",
+        "image": "Besta_de_Sangue.jpg"
+    },
+    {
+        "monsterName": "Bicho-Papão",
+        "image": "Bicho-Papão.jpg"
+    },
+    {
+        "monsterName": "Bilu",
+        "image": "Bilu.jpg"
+    },
+    {
+        "monsterName": "Carniçal",
+        "image": "Carniçal.jpg"
+    },
+    {
+        "monsterName": "Ceifador Espiral",
+        "image": "Ceifador_Espiral.jpg"
+    },
+    {
+        "monsterName": "Ciborgue",
+        "image": "Ciborgue.jpg"
+    },
+    {
+        "monsterName": "Dama de Sangue",
+        "image": "Dama_de_Sangue.jpg"
+    },
+    {
+        "monsterName": "Degolificada",
+        "image": "Degolificada.jpg"
+    },
+    {
+        "monsterName": "Derretido",
+        "image": "Derretido.jpg"
+    },
+    {
+        "monsterName": "Doppelanger",
+        "image": "Doppelanger.jpg"
+    },
+    {
+        "monsterName": "E.C.O.S",
+        "image": "E.C.O.S.jpg"
+    },
+    {
+        "monsterName": "Enpap-X",
+        "image": "Enpap-X.jpg"
+    },
+    {
+        "monsterName": "Enraizados",
+        "image": "Enraizados.jpg"
+    },
+    {
+        "monsterName": "Escutado",
+        "image": "Escutado.jpg"
+    },
+    {
+        "monsterName": "Espectro",
+        "image": "Espectro.jpg"
+    },
+    {
+        "monsterName": "Esqueletos de Lodo",
+        "image": "Esqueletos_de_Lodo.jpg"
+    },
+    {
+        "monsterName": "Estrangeiro",
+        "image": "Estrangeiro.jpg"
+    },
+    {
+        "monsterName": "Existidos",
+        "image": "Existidos.jpg"
+    },
+    {
+        "monsterName": "Fummu",
+        "image": "Fummu.jpg"
+    },
+    {
+        "monsterName": "Infecticídio",
+        "image": "Infecticídio.jpg"
+    },
+    {
+        "monsterName": "Interflorado",
+        "image": "Interflorado.jpg"
+    },
+    {
+        "monsterName": "Kerberos",
+        "image": "Kerberos.jpg"
+    },
+    {
+        "monsterName": "Lembrados",
+        "image": "Lembrados.jpg"
+    },
+    {
+        "monsterName": "Máscara do Desespero",
+        "image": "Máscara_do_Desespero.jpg"
+    },
+    {
+        "monsterName": "Medusa",
+        "image": "Medusa.jpg"
+    },
+    {
+        "monsterName": "Melancolia",
+        "image": "Melancolia.jpg"
+    },
+    {
+        "monsterName": "Memento Mori",
+        "image": "Memento_Mori.jpg"
+    },
+    {
+        "monsterName": "Memoflígico",
+        "image": "Memoflígico.jpg"
+    },
+    {
+        "monsterName": "Mescla",
+        "image": "Mescla.jpg"
+    },
+    {
+        "monsterName": "Minotauro",
+        "image": "Minotauro.jpg"
+    },
+    {
+        "monsterName": "Morcegosa",
+        "image": "Morcegosa.jpg"
+    },
+    {
+        "monsterName": "Mulher Afogada",
+        "image": "Mulher_Afogada.jpg"
+    },
+    {
+        "monsterName": "Múmias",
+        "image": "Múmias.jpg"
+    },
+    {
+        "monsterName": "Nidere",
+        "image": "Nidere.jpg"
+    },
+    {
+        "monsterName": "O Anfitrião",
+        "image": "O_Anfitrião.jpg"
+    },
+    {
+        "monsterName": "O Carente",
+        "image": "O_Carente.jpg"
+    },
+    {
+        "monsterName": "O Deus da Morte",
+        "image": "O_Deus_da_Morte.jpg"
+    },
+    {
+        "monsterName": "O Diabo",
+        "image": "O_Diabo.jpg"
+    },
+    {
+        "monsterName": "O Espreitador",
+        "image": "O_Espreitador.jpg"
+    },
+    {
+        "monsterName": "O Estrangeiro",
+        "image": "O_Estrangeiro.jpg"
+    },
+    {
+        "monsterName": "O Terminal",
+        "image": "O_Terminal.jpg"
+    },
+    {
+        "monsterName": "O Uivar",
+        "image": "O_Uivar.jpg"
+    },
+    {
+        "monsterName": "Ocioso",
+        "image": "Ocioso.jpg"
+    },
+    {
+        "monsterName": "Parasita de Culpa",
+        "image": "Parasita_de_Culpa.jpg"
+    },
+    {
+        "monsterName": "Pertubados de Energia",
+        "image": "Pertubados_de_Energia.jpg"
+    },
+    {
+        "monsterName": "Profundo",
+        "image": "Profundo.jpg"
+    },
+    {
+        "monsterName": "Quibungo",
+        "image": "Quibungo.jpg"
+    },
+    {
+        "monsterName": "Rascunho",
+        "image": "Rascunho.jpg"
+    },
+    {
+        "monsterName": "Rastejador",
+        "image": "Rastejador.jpg"
+    },
+    {
+        "monsterName": "Ratropoda",
+        "image": "Ratropoda.jpg"
+    },
+    {
+        "monsterName": "Sempiternal",
+        "image": "Sempiternal.jpg"
+    },
+    {
+        "monsterName": "Sepultado",
+        "image": "Sepultado.jpg"
+    },
+    {
+        "monsterName": "Silhueta",
+        "image": "Silhueta.jpg"
+    },
+    {
+        "monsterName": "Succ",
+        "image": "Succ.jpg"
+    },
+    {
+        "monsterName": "Sukkalgir",
+        "image": "Sukkalgir.jpg"
+    },
+    {
+        "monsterName": "Telopsia",
+        "image": "Telopsia.jpg"
+    },
+    {
+        "monsterName": "Tempestuoso",
+        "image": "Tempestuoso.jpg"
+    },
+    {
+        "monsterName": "Tirano de Lodo",
+        "image": "Tirano_de_Lodo.jpg"
+    },
+    {
+        "monsterName": "Titã de Sangue",
+        "image": "Titã_de_Sangue.jpg"
+    },
+    {
+        "monsterName": "Viajante",
+        "image": "Viajante.jpg"
+    },
+    {
+        "monsterName": "Vultos",
+        "image": "Vultos.jpg"
+    },
+    {
+        "monsterName": "Zumbi de Sangue Bestial",
+        "image": "Zumbi_de_Sangue_Bestial.jpg"
+    },
+    {
+        "monsterName": "Zumbis de Sangue",
+        "image": "Zumbis_de_Sangue.jpg"
+    }
 ]

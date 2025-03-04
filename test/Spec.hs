@@ -1,5 +1,3 @@
-{-# LANGUAGE OverloadedStrings #-}
-
 import Test.Hspec
 import Control.Monad.IO.Class (liftIO)
 import DataBus (GameState(..), ClassicGameState(..), writeJSON, getJSON)
