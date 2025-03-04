@@ -33,9 +33,9 @@ selectCurrentCharacter = do
             -- Ensure that a character is selected only if the game state is valid for today
             when (currentDay > validUntilDay) $ do
                 allCharacters <- getAllCharacters defaultConfig
-                let availableCharacters = filter (`notElem` blacklist gs) [1..length allCharacters]
+                let availableCharacters = Prelude.filter (`notElem` blacklist gs) [1..length allCharacters]
                 
-                if null availableCharacters
+                if Prelude.null availableCharacters
                     then putStrLn "No available characters to select (all are blacklisted)."
                     else do
                         randomId <- randomRIO (1, length availableCharacters)
@@ -48,7 +48,7 @@ selectCurrentCharacter = do
                             
                             -- Update the blacklist, ensuring the size is 30
                         let updatedBlacklist = if length (blacklist gs) >= 30
-                                               then take 29 (blacklist gs) ++ [randomId]  -- Remove oldest and add new one at the front
+                                               then Prelude.take 29 (blacklist gs) ++ [randomId]  -- Remove oldest and add new one at the front
                                                else randomId : blacklist gs
                             updatedGameState = [gs { classic = updatedClassic, blacklist = updatedBlacklist }]
                         writeJSON updatedGameState
@@ -107,6 +107,6 @@ checkEquality x y = if x == y then Correct else Wrong
 compareStrings :: String -> String -> MatchResult
 compareStrings s1 s2
     | s1 == s2  = Correct
-    | not (null common) = Partial
+    | not (Prelude.null common) = Partial
     | otherwise = Wrong
   where common = words s1 `intersect` words s2

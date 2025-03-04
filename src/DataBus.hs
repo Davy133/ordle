@@ -1,39 +1,51 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE DeriveGeneric #-}
 
-module DataBus where
+module DataBus (
+    GameState(..),
+    ModeState(..),
+    getJSON,
+    writeJSON
+) where
 
-import qualified Data.Aeson as JSON
-import qualified Data.ByteString.Lazy as B
 import GHC.Generics
+import Data.Aeson
+import qualified Data.ByteString.Lazy as B
+import System.Directory
 
--- Define the GameState data structure
+-- Data structure for storing mode-specific state
+data ModeState = ModeState
+    { finished :: Bool
+    , today_character_id :: Int
+    , valid_until :: Int
+    } deriving (Show, Generic)
+
+instance FromJSON ModeState
+instance ToJSON ModeState
+
+-- Main game state structure
 data GameState = GameState
-  { 
-     classic :: ClassicGameState,
-     blacklist :: [Int]  -- Added blacklist field
-  }
-  deriving (Show, Generic)
+    { blacklist :: [Int]
+    , classic :: ModeState
+    , emoji :: ModeState
+    , quotes :: ModeState
+    } deriving (Show, Generic)
 
--- Define the ClassicGameState data structure
-data ClassicGameState = ClassicGameState
-  { 
-    finished :: Bool,
-    today_character_id :: Int,
-    valid_until :: Int
-  }
-  deriving (Show, Generic)
+instance FromJSON GameState
+instance ToJSON GameState
 
--- JSON instances for automatic serialization/deserialization
-instance JSON.FromJSON ClassicGameState
-instance JSON.ToJSON ClassicGameState
-instance JSON.FromJSON GameState
-instance JSON.ToJSON GameState
+-- File path for storing game state
+filePath :: FilePath
+filePath = "gameState.json"
 
--- Helper function to get the game state from the JSON file
+-- Function to read JSON game state from file
 getJSON :: IO (Either String [GameState])
-getJSON = JSON.eitherDecode <$> B.readFile "game_state.json"
+getJSON = do
+    exists <- doesFileExist filePath
+    if exists
+        then eitherDecode <$> B.readFile filePath
+        else return (Right [])
 
--- Helper function to write the game state to the JSON file
+-- Function to write JSON game state to file
 writeJSON :: [GameState] -> IO ()
-writeJSON = B.writeFile "game_state.json" . JSON.encode
+writeJSON gameState = B.writeFile filePath (encode gameState)
