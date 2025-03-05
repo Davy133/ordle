@@ -7,7 +7,7 @@ import Graphics.UI.Threepenny.Events
 import qualified Graphics.UI.Threepenny.Attributes as Attr
 import Control.Monad (void)
 import ClassicController
-import Database (getCharacterById)
+import Database (getCharacterById, getAllCharacters)
 import Config (loadConfig)
 import Models (Character(..))
 import System.IO (hSetEncoding, stdout, utf8) 
@@ -35,8 +35,14 @@ setup window = do
     infoTable <- table #+ [UI.tr #+ Prelude.map (th #. "header" #+) (Prelude.map (return . string) ["Name", "Age", "Gender", "Affiliation", "Actor", "First Appearance"])
                            , UI.body]
 
+    -- Fetch all characters and create a dropdown menu
+    config <- liftIO $ loadConfig "config.dhall"
+    allCharacters <- liftIO $ getAllCharacters config
+    let characterOptions = Prelude.map (\char -> option # set text (Models.name char) # set value (show $ Models.characterId char)) allCharacters
+    characterSelect <- UI.select #+ characterOptions
+
     on UI.click guessButton $ \_ -> do
-        guess <- get value guessInput
+        guess <- get value characterSelect
         let guessId = read guess :: Int
         config <- liftIO $ loadConfig "config.dhall"
         character <- liftIO $ getCharacterById config guessId
@@ -69,9 +75,8 @@ setup window = do
             Nothing -> void $ element infoTable #+ [UI.tr #+ [td #+ [string "Today's character is not available"]]]
         return ()
 
-
     -- Container div to center content
     container <- UI.div # set style [("display", "flex"), ("justify-content", "center"), ("align-items", "center"), ("height", "100vh"), ("flex-direction", "column")]
 
-    getBody window #+ [element container #+ [element guessInput, element guessButton, element hintButton, element infoTable]]
+    getBody window #+ [element container #+ [element characterSelect, element guessButton, element hintButton, element infoTable]]
     return ()
