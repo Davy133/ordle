@@ -21,12 +21,27 @@ main = do
 
 setup :: Window -> UI ()
 setup window = do
+    return window # set title "Character Guessing Game"
+
+    classicButton <- button # set text "Classic Mode"
+    otherModeButton <- button # set text "Other Mode"
+
+    on UI.click classicButton $ \_ -> classicPage window
+    on UI.click otherModeButton $ \_ -> otherModePage window
+
+    menuContainer <- UI.div # set style [("display", "flex"), ("justify-content", "center"), ("align-items", "center"), ("height", "100vh"), ("flex-direction", "column")]
+
+    getBody window #+ [element menuContainer #+ [element classicButton, element otherModeButton]]
+    return ()
+
+classicPage :: Window -> UI ()
+classicPage window = do
     liftIO selectCurrentCharacter
     todayCharacter <- liftIO getTodayCharacter
     case todayCharacter of
         Just char -> void $ getBody window #+ [string $ "Today's character is: " ++ Models.name char]
         Nothing -> void $ getBody window #+ [string "Today's character is not available"]
-    return window # set title "Character Guessing Game"
+    return window # set title "Classic Mode"
 
     guessInput <- input # set (UI.attr "placeholder") "Guess the character"
     guessButton <- button # set text "Guess"
@@ -35,7 +50,6 @@ setup window = do
     infoTable <- table #+ [UI.tr #+ Prelude.map (th #. "header" #+) (Prelude.map (return . string) ["Name", "Age", "Gender", "Affiliation", "Actor", "First Appearance"])
                            , UI.body]
 
-    -- Fetch all characters and create a dropdown menu
     config <- liftIO $ loadConfig "config.dhall"
     allCharacters <- liftIO $ getAllCharacters config
     let characterOptions = Prelude.map (\char -> option # set text (Models.name char) # set value (show $ Models.characterId char)) allCharacters
@@ -75,8 +89,12 @@ setup window = do
             Nothing -> void $ element infoTable #+ [UI.tr #+ [td #+ [string "Today's character is not available"]]]
         return ()
 
-    -- Container div to center content
     container <- UI.div # set style [("display", "flex"), ("justify-content", "center"), ("align-items", "center"), ("height", "100vh"), ("flex-direction", "column")]
 
     getBody window #+ [element container #+ [element characterSelect, element guessButton, element hintButton, element infoTable]]
+    return ()
+
+otherModePage :: Window -> UI ()
+otherModePage window = do
+    return window # set title "Other Mode"
     return ()
