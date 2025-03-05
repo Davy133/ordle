@@ -106,6 +106,5 @@ checkEquality x y = if x == y then Correct else Wrong
 compareStrings :: String -> String -> MatchResult
 compareStrings s1 s2
     | s1 == s2  = Correct
-    | not (Prelude.null common) = Partial
+    | any (`elem` words s2) (words s1) = Partial
     | otherwise = Wrong
-  where common = words s1 `intersect` words s2

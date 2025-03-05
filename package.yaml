@@ -32,6 +32,7 @@ dependencies:
 - random
 - time
 - directory
+- split
 
 ghc-options:
 - -Wall

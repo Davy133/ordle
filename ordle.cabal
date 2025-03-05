@@ -49,6 +49,7 @@ library
     , directory
     , hspec
     , random
+    , split
     , sqlite-simple
     , text
     , threepenny-gui
@@ -74,6 +75,7 @@ executable ordle-exe
     , hspec
     , ordle
     , random
+    , split
     , sqlite-simple
     , text
     , threepenny-gui
@@ -100,6 +102,7 @@ test-suite ordle-test
     , hspec
     , ordle
     , random
+    , split
     , sqlite-simple
     , text
     , threepenny-gui

@@ -1,1 +1,17 @@
-[{"blacklist":[93],"classic":{"finished":false,"today_character_id":93,"valid_until":60739},"emoji":{"finished":false,"today_character_id":0,"valid_until":0},"monsters":{"finished":false,"today_character_id":68,"valid_until":60739},"quotes":{"finished":false,"today_character_id":0,"valid_until":0}}]
+[
+  {
+    "blacklist": [105, 93],
+    "classic": {
+      "finished": false,
+      "today_character_id": 93,
+      "valid_until": 60740
+    },
+    "emoji": { "finished": false, "today_character_id": 0, "valid_until": 0 },
+    "monsters": {
+      "finished": false,
+      "today_character_id": 1,
+      "valid_until": 639
+    },
+    "quotes": { "finished": false, "today_character_id": 0, "valid_until": 0 }
+  }
+]
