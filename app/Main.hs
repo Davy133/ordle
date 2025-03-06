@@ -9,6 +9,7 @@ import Control.Monad (void)
 import ClassicController
     ( getTodayCharacter, selectCurrentCharacter )
 import QuoteController
+import EmojiController
 
 import Database (getCharacterById, getAllCharacters)
 import Config (loadConfig)
@@ -28,15 +29,17 @@ setup window = do
 
     classicButton <- button # set text "Classic Mode"
     quotesButton <- button # set text "Quotes Mode"
+    emojisButton <- button # set text "Emojis Mode"
     otherModeButton <- button # set text "Other Mode"
 
     on UI.click classicButton $ \_ -> classicPage window
     on UI.click quotesButton $ \_ -> quotesPage window
+    on UI.click emojisButton $ \_ -> emojisPage window
     on UI.click otherModeButton $ \_ -> otherModePage window
 
     menuContainer <- UI.div # set style [("display", "flex"), ("justify-content", "center"), ("align-items", "center"), ("height", "100vh"), ("flex-direction", "column")]
 
-    getBody window #+ [element menuContainer #+ [element classicButton, element quotesButton, element otherModeButton]]
+    getBody window #+ [element menuContainer #+ [element classicButton, element quotesButton, element emojisButton, element otherModeButton]]
     return ()
 
 classicPage :: Window -> UI ()
@@ -140,6 +143,54 @@ quotesPage window = do
         case todayCharacter of
             Just char -> void $ element infoTable #+ [UI.tr #+ [td #+ [string $ "Hint: " ++ Models.status char]]]
             Nothing -> void $ element infoTable #+ [UI.tr #+ [td #+ [string "Today's quote is not available"]]]
+        return ()
+
+    container <- UI.div # set style [("display", "flex"), ("justify-content", "center"), ("align-items", "center"), ("height", "100vh"), ("flex-direction", "column")]
+
+    getBody window #+ [element container #+ [element characterSelect, element guessButton, element hintButton, element infoTable]]
+    return ()
+
+emojisPage :: Window -> UI ()
+emojisPage window = do
+    liftIO selectCurrentEmojiCharacter
+    todayCharacter <- liftIO getTodayEmojiCharacter
+    case todayCharacter of
+        Just char -> void $ getBody window #+ [string $ "Today's emoji is: " ++ Models.emojis char]
+        Nothing -> void $ getBody window #+ [string "Today's emoji is not available"]
+    return window # set title "Emojis Mode"
+
+    guessInput <- input # set (UI.attr "placeholder") "Guess the character"
+    guessButton <- button # set text "Guess"
+    hintButton <- button # set text "Hint"
+
+    infoTable <- table #+ [UI.tr #+ [th #. "header" #+ [string "Emoji"]], UI.body]
+
+    config <- liftIO $ loadConfig "config.dhall"
+    allCharacters <- liftIO $ getAllCharacters config
+    let characterOptions = Prelude.map (\char -> option # set text (Models.name char) # set value (show $ Models.characterId char)) allCharacters
+    characterSelect <- UI.select #+ characterOptions
+
+    on UI.click guessButton $ \_ -> do
+        guess <- get value characterSelect
+        let guessId = read guess :: Int
+        config <- liftIO $ loadConfig "config.dhall"
+        character <- liftIO $ getCharacterById config guessId
+        todayCharacter <- liftIO getTodayEmojiCharacter
+        case (character, todayCharacter) of
+            (Just char, Just todayChar) -> do
+                let color = if Models.name char == Models.name todayChar then "green" else "red"
+                void $ element infoTable #+ [UI.tr #+ [td # set style [("color", color)] #+ [string $ Models.name char]]]
+            (Nothing, _) -> do
+                void $ element infoTable #+ [UI.tr #+ [td #+ [string "Character not found"]]]
+            (_, Nothing) -> do
+                void $ element infoTable #+ [UI.tr #+ [td #+ [string "Today's emoji is not available"]]]
+        return ()
+
+    on UI.click hintButton $ \_ -> do
+        todayCharacter <- liftIO getTodayEmojiCharacter
+        case todayCharacter of
+            Just char -> void $ element infoTable #+ [UI.tr #+ [td #+ [string $ "Hint: " ++ Models.status char]]]
+            Nothing -> void $ element infoTable #+ [UI.tr #+ [td #+ [string "Today's emoji is not available"]]]
         return ()
 
     container <- UI.div # set style [("display", "flex"), ("justify-content", "center"), ("align-items", "center"), ("height", "100vh"), ("flex-direction", "column")]
