@@ -1,14 +1,7 @@
-import qualified Models as M
-
-import Database
-
-import Config (loadConfig, defaultConfig, Config(..))
-import System.IO (hFlush, stdout)
-import UI (start, setup)
-
+import ClassicController
 
 
 main :: IO ()
 main = do
-	start
-   
+    selectCurrentCharacter
+    putStrLn "Character elected."

@@ -1,10 +1,10 @@
 {-# LANGUAGE OverloadedStrings #-}
 
-module Database where
+module Database ( getRandomCharacter, getAllCharacters, getCharacterById ) where
 
 import qualified Models as M
 import Database.SQLite.Simple
-    ( Connection, close, open, query_, query, execute, Only (Only) )
+    ( Connection, close, open, query_, query, Only (Only) )
 import Config ( Config(dbPath) )
 import Control.Exception (catch, SomeException)
 import Data.Maybe (listToMaybe)
@@ -33,17 +33,3 @@ getCharacterById :: Config -> Int -> IO (Maybe M.Character)
 getCharacterById config charId = withDB config $ \conn -> do
     r <- query conn "SELECT * FROM characters WHERE id = ?" (Only charId) :: IO [M.Character]
     return $ listToMaybe r
-
-addCharacter :: Config -> M.Character -> IO ()
-addCharacter config char = withDB config $ \conn -> do
-    execute conn "INSERT INTO characters (id, name, age, status, association, first_appearance, actor, affinity, gender) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"
-        ( M.characterId char
-        , M.name char
-        , M.age char
-        , M.status char
-        , M.association char
-        , M.first_appearance char
-        , M.actor char
-        , M.affinity char
-        , M.gender char
-        )

@@ -29,6 +29,8 @@ dependencies:
 - bytestring
 - containers
 - threepenny-gui
+- random
+- time
 
 ghc-options:
 - -Wall
@@ -44,7 +46,6 @@ ghc-options:
 library:
   source-dirs: 
     - src
-    - src/database
 
 
 executables:

@@ -25,10 +25,10 @@ source-repository head
 
 library
   exposed-modules:
+      ClassicController
       Config
-      GameLogic
-      UI
       Database
+      DataBus
       Models
   other-modules:
       Paths_ordle
@@ -36,7 +36,6 @@ library
       Paths_ordle
   hs-source-dirs:
       src
-      src/database
   ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
   build-depends:
       aeson
@@ -45,9 +44,11 @@ library
     , containers
     , dhall
     , hspec
+    , random
     , sqlite-simple
     , text
     , threepenny-gui
+    , time
   default-language: Haskell2010
 
 executable ordle-exe
@@ -67,9 +68,11 @@ executable ordle-exe
     , dhall
     , hspec
     , ordle
+    , random
     , sqlite-simple
     , text
     , threepenny-gui
+    , time
   default-language: Haskell2010
 
 test-suite ordle-test
@@ -90,7 +93,9 @@ test-suite ordle-test
     , dhall
     , hspec
     , ordle
+    , random
     , sqlite-simple
     , text
     , threepenny-gui
+    , time
   default-language: Haskell2010
